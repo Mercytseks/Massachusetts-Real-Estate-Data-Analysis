@@ -1,0 +1,3049 @@
+price,bed,bath,acre_lot,city,zip_code,house_size,sold_date,county,cluster
+525000,3,3,0.45,Agawam,1001,2314,25/06/2014,Hampden,pink
+289900,3,2,0.36,Agawam,1001,1276,12/10/2012,Hampden,pink
+384900,3,2,0.46,Agawam,1001,1476,20/11/1986,Hampden,pink
+199999,3,2,1.76,Agawam,1001,1968,19/09/2008,Hampden,pink
+419000,4,2,2,Pelham,1002,1607,25/07/2005,Hampshire,pink
+745000,4,3,0.56,Amherst,1002,2847,24/06/1992,Hampshire,pink
+875000,4,4,1.5,Pelham,1002,4366,12/07/1996,Hampshire,dark purple
+699900,4,4,0.77,Amherst,1002,3879,11/08/1993,Hampshire,dark purple
+275000,3,2,0.16,Amherst,1002,1280,19/08/2021,Hampshire,pink
+415000,4,2,0.49,Amherst,1002,1814,30/06/1997,Hampshire,pink
+390000,3,2,0.5,Amherst,1002,1128,17/09/1998,Hampshire,pink
+865000,4,3,0.65,Amherst,1002,3465,03/10/2006,Hampshire,dark purple
+499900,4,3,0.46,Amherst,1002,2143,10/06/1988,Hampshire,pink
+650000,5,4,0.64,Amherst,1002,2363,28/07/2004,Hampshire,dark purple
+975000,3,4,3.04,Amherst,1002,2074,21/06/2006,Hampshire,pink
+439900,3,2,0.2,Amherst,1002,1349,02/09/2005,Hampshire,pink
+397000,2,2,0.51,Granby,1033,2000,13/12/2001,Hampshire,pink
+389900,2,2,0.92,Whately,1093,1723,25/09/1997,Franklin,pink
+459900,4,3,3.8,Sunderland,1375,2768,17/07/2009,Franklin,pink
+249900,4,3,0.29,Chicopee,1020,1514,30/07/1996,Hampden,pink
+324900,4,2,0.56,Granby,1033,1523,19/09/2007,Hampshire,pink
+364900,3,2,1.02,Belchertown,1007,1617,05/10/2001,Hampshire,pink
+240000,2,1,0.28,Chicopee,1013,1207,29/11/2011,Hampden,pink
+224900,2,1,0.4,South Hadley,1075,1034,28/02/1996,Hampshire,pink
+299500,3,2,0.11,Ludlow,1056,2240,03/10/2000,Hampden,pink
+469900,3,3,1.82,Orange,1364,2096,30/06/2000,Franklin,pink
+295000,4,2,0.3,South Hadley,1075,2112,24/05/2001,Hampshire,pink
+339000,6,2,0.23,Holyoke,1040,2399,05/09/2017,Hampden,dark purple
+275000,2,2,0.05,Chicopee,1013,1200,12/06/2002,Hampden,pink
+579900,4,3,0.41,Easthampton,1027,2590,01/10/2003,Hampshire,pink
+365000,3,2,0.3,Holyoke,1040,1880,15/02/2002,Hampden,pink
+215000,1,1,0.31,Belchertown,1007,640,03/08/2000,Hampshire,pink
+499000,3,2,0.14,Northampton,1062,1728,30/05/2003,Hampshire,pink
+489900,3,2,0.12,Northampton,1060,1531,01/05/2009,Hampshire,pink
+65000,1,1,0.4,Barre,1005,634,28/10/2003,Worcester,pink
+273900,3,1,0.12,Barre,1005,1175,13/12/1996,Worcester,pink
+849900,4,5,3.97,Barre,1005,5023,24/06/1988,Worcester,dark purple
+449900,3,3,4.08,Barre,1005,2283,31/05/1996,Worcester,pink
+169999,2,1,0.6,Belchertown,1007,802,26/06/2009,Hampshire,pink
+299900,5,3,0.32,Belchertown,1007,1850,14/12/2012,Hampshire,pink
+435000,3,3,1.08,Belchertown,1007,2360,01/04/2009,Hampshire,pink
+330000,2,3,30,Belchertown,1007,2130,27/06/2013,Hampshire,pink
+174900,3,2,0.25,Holyoke,1040,1637,26/06/2002,Hampden,pink
+175000,5,2,0.13,Holyoke,1040,1924,15/10/2001,Hampden,pink
+160000,5,2,1.27,Orange,1364,1495,29/04/2011,Franklin,pink
+389900,2,2,6,Leverett,1054,1779,29/05/1997,Franklin,pink
+300000,3,1,0.69,Southampton,1073,1200,10/07/2000,Hampshire,pink
+239900,4,2,0.11,Holyoke,1040,1989,10/07/1992,Hampden,pink
+299900,1,2,0.53,Greenfield,1301,3792,24/09/2008,Franklin,pink
+299900,3,2,0.22,Easthampton,1027,2037,20/11/2008,Hampshire,pink
+759000,5,2,1.85,South Hadley,1075,4510,01/02/2005,Hampshire,dark purple
+139000,3,2,0.05,Holyoke,1040,1644,18/01/2018,Hampden,pink
+110000,2,1,0.25,South Hadley,1075,800,06/07/2004,Hampshire,pink
+215000,3,2,0.25,Holyoke,1040,4620,12/12/1997,Hampden,pink
+386000,4,2,1.3,Deerfield,1373,2032,13/12/1993,Franklin,pink
+375000,3,1,3.87,West Springfield,1089,1008,14/07/1989,Hampden,pink
+1295000,4,5,7.81,Hadley,1035,7000,06/08/1997,Hampshire,dark purple
+799000,4,4,1.59,Deerfield,1373,3444,17/05/2002,Franklin,dark purple
+289900,5,2,0.15,Chicopee,1020,2316,28/09/2020,Hampden,pink
+195500,4,2,0.17,Chicopee,1013,2030,30/12/1996,Hampden,pink
+1390000,3,5,14.48,Williamsburg,1038,3112,29/04/2004,Hampshire,dark purple
+285000,3,3,19.23,Southampton,1073,2268,22/11/2002,Hampshire,pink
+184900,1,1,0.29,Greenfield,1301,640,01/03/1988,Franklin,pink
+195000,2,1,0.15,Easthampton,1027,1276,27/11/1996,Hampshire,pink
+219900,3,3,0.1,South Hadley,1075,1781,21/08/2009,Hampshire,pink
+279900,3,1,0.13,Holyoke,1040,1456,21/10/2019,Hampden,pink
+215000,2,1,0.22,Greenfield,1301,816,29/04/1993,Franklin,pink
+425000,3,2,0.25,Northampton,1062,1609,29/06/2004,Hampshire,pink
+400000,4,3,0.46,South Hadley,1075,2108,21/09/2021,Hampshire,pink
+500000,4,5,1.02,Granby,1033,2396,09/01/2015,Hampshire,dark purple
+689000,5,2,0.38,Northampton,1060,3364,22/05/1991,Hampshire,dark purple
+249987,4,2,0.13,Chicopee,1020,1596,21/03/2007,Hampden,pink
+199900,3,1,0.26,Chicopee,1020,1048,18/07/2005,Hampden,pink
+185000,4,2,0.14,Holyoke,1040,2040,16/08/2000,Hampden,pink
+214900,4,2,0.12,Holyoke,1040,1599,31/01/1996,Hampden,pink
+379900,5,2,0.85,South Hadley,1075,1605,13/02/2017,Hampshire,pink
+275000,3,1,0.29,Greenfield,1301,1482,31/10/2001,Franklin,pink
+379900,4,2,0.62,Ludlow,1056,1988,11/08/2016,Hampden,pink
+340000,3,2,1.07,Greenfield,1301,1100,31/08/2006,Franklin,pink
+300000,6,4,0.16,Chicopee,1020,2844,30/12/2019,Hampden,dark purple
+824900,4,2,0.18,Northampton,1060,2382,02/08/1990,Hampshire,pink
+349900,4,1,0.91,Easthampton,1027,1404,23/09/2021,Hampshire,pink
+259900,4,2,0.11,Chicopee,1013,1872,20/08/2004,Hampden,pink
+240000,3,2,0.16,Springfield,1104,1284,26/08/2011,Hampden,pink
+1290000,5,5,2,Williamsburg,1096,4476,30/06/2009,Hampshire,dark purple
+289900,3,1,0.26,Holyoke,1040,1096,10/05/2019,Hampden,pink
+199900,2,2,0.23,South Hadley,1075,1210,21/05/2004,Hampshire,pink
+945000,9,10,2.83,Greenfield,1301,5512,01/07/2004,Franklin,dark purple
+270000,2,1,2.61,Montague,1351,936,23/07/1987,Franklin,pink
+439500,4,2,0.59,Hadley,1035,2394,08/06/2018,Hampshire,pink
+289000,3,3,0.14,Holyoke,1040,1978,24/06/2009,Hampden,pink
+299900,8,4,0.14,Greenfield,1301,4192,28/09/2011,Franklin,dark purple
+235000,2,1,0.27,Greenfield,1301,1200,17/02/2006,Franklin,pink
+449000,3,3,0.4,Easthampton,1027,1916,25/01/2008,Hampshire,pink
+995000,5,4,0.72,Hadley,1035,4468,06/01/1998,Hampshire,dark purple
+325000,3,2,0.54,Granby,1033,1336,02/08/2019,Hampshire,pink
+399999,2,1,0.5,Northampton,1062,1072,09/09/1999,Hampshire,pink
+547500,4,4,0.91,South Hadley,1075,2420,09/10/2012,Hampshire,dark purple
+299900,3,2,0.53,Granby,1033,880,19/03/2018,Hampshire,pink
+319000,2,1,0.48,Southampton,1073,1115,29/09/2000,Hampshire,pink
+349990,3,2,0.26,Orange,1364,1300,15/04/2005,Franklin,pink
+299900,3,2,0.2,Chicopee,1020,1584,18/09/2020,Hampden,pink
+219900,3,2,0.05,Orange,1364,1092,04/05/2005,Franklin,pink
+156750,3,1,0.47,Athol,1331,1268,21/12/2004,Worcester,pink
+365000,6,3,0.31,Holyoke,1040,2408,14/12/2007,Hampden,dark purple
+219000,3,1,0.15,Chicopee,1020,1170,03/01/2008,Hampden,pink
+259900,3,2,0.27,Chicopee,1013,1265,18/10/2000,Hampden,pink
+299987,4,2,0.17,Holyoke,1040,2094,13/08/2003,Hampden,pink
+377000,7,4,0.33,Orange,1364,2538,07/12/1987,Franklin,dark purple
+350000,3,1,0.34,Easthampton,1027,1248,06/01/2012,Hampshire,pink
+375000,4,2,0.16,Chicopee,1020,1280,11/09/2020,Hampden,pink
+266000,3,2,0.33,Montague,1351,1770,25/06/2009,Franklin,pink
+240000,3,1,0.41,Montague,1351,960,17/10/2002,Franklin,pink
+149900,2,2,0.57,Orange,1364,924,23/09/2008,Franklin,pink
+249900,4,3,0.18,Holyoke,1040,4704,26/04/1989,Hampden,dark purple
+235000,3,1,0.15,Greenfield,1301,1416,15/12/1998,Franklin,pink
+1500000,6,7,4.52,South Hadley,1075,6250,02/11/2005,Hampshire,dark purple
+275000,5,2,2.11,Athol,1331,3024,27/04/1984,Worcester,pink
+265000,3,1,0.4,Williamsburg,1096,1529,30/04/2015,Hampshire,pink
+229000,4,2,0.13,Holyoke,1040,1529,22/03/2021,Hampden,pink
+299000,3,1,0.65,West Springfield,1089,1424,28/06/2004,Hampden,pink
+309000,3,1,0.8,Easthampton,1027,1040,21/07/2006,Hampshire,pink
+279900,4,1,1.06,Holyoke,1040,1243,30/08/1988,Hampden,pink
+294900,6,2,0.13,Chicopee,1020,2288,03/06/2019,Hampden,dark purple
+399900,4,3,1.6,Blandford,1008,1960,01/05/2015,Hampden,pink
+675000,4,3,0.69,Blandford,1008,3476,02/07/2007,Hampden,dark purple
+1237542,4,3,100.5,Blandford,1008,3063,29/08/2007,Hampden,dark purple
+239900,3,2,0.4,Ware,1082,1911,27/07/1998,Hampshire,pink
+329000,4,1,0.64,Longmeadow,1028,1296,23/06/2017,Hampden,pink
+369900,12,3,0.15,Springfield,1105,3902,24/12/2014,Hampden,dark purple
+299900,3,2,0.15,Springfield,1118,1613,30/01/2014,Hampden,pink
+289900,5,3,0.14,Springfield,1108,2328,20/11/1987,Hampden,dark purple
+350000,4,4,0.21,Springfield,1129,2016,24/07/2007,Hampden,pink
+260000,3,1,0.39,Palmer,1069,1166,16/01/2013,Hampden,pink
+375000,9,3,0.11,Springfield,1151,3656,18/06/2008,Hampden,dark purple
+129900,4,2,1,Brimfield,1010,1765,26/11/2003,Hampden,pink
+164900,2,1,0.35,Brimfield,1010,814,16/01/2004,Hampden,pink
+559000,4,4,1.52,Brimfield,1010,3408,30/03/2005,Hampden,dark purple
+899900,3,4,5.93,Brimfield,1010,5500,01/04/1993,Hampden,dark purple
+115900,3,1,0.25,Chester,1011,1367,13/11/2009,Hampden,pink
+160000,1,1,0.47,Cummington,1026,608,25/10/2019,Hampshire,pink
+649000,3,3,21,Granville,1034,3362,27/06/1996,Hampden,pink
+149900,3,2,0.24,Becket,1223,1422,20/07/1994,Berkshire,pink
+289900,3,3,0.14,Springfield,1104,1588,09/06/2005,Hampden,pink
+439900,3,2,1.13,Westfield,1085,2448,29/10/2004,Hampden,pink
+379900,3,2,0.49,Agawam,1030,1708,06/08/1992,Hampden,pink
+149900,2,1,3,Savoy,1256,980,20/09/2006,Berkshire,pink
+195000,2,1,0.12,Springfield,1104,864,30/06/1994,Hampden,pink
+349900,3,2,4.28,Southwick,1077,1410,28/03/1990,Hampden,pink
+299900,3,2,0.37,West Springfield,1089,1269,17/11/2017,Hampden,pink
+299413,3,2,0.34,Westfield,1085,1424,10/11/2021,Hampden,pink
+389999,6,3,0.14,West Springfield,1089,2673,28/11/2006,Hampden,dark purple
+349900,3,2,0.34,Westfield,1085,1536,30/03/2018,Hampden,pink
+349900,4,2,1.03,East Longmeadow,1028,1638,28/08/2009,Hampden,pink
+129000,1,1,0.09,East Longmeadow,1028,793,10/08/2001,Hampden,pink
+674444,4,5,0.26,East Longmeadow,1028,4122,24/01/2003,Hampden,dark purple
+249900,3,2,0.23,East Longmeadow,1028,1259,10/05/2019,Hampden,pink
+279000,2,1,0.38,East Longmeadow,1028,988,28/04/2005,Hampden,pink
+259000,3,1,0.8,East Longmeadow,1028,1196,24/10/2019,Hampden,pink
+399000,4,3,0.28,East Longmeadow,1028,2500,21/06/2019,Hampden,pink
+739900,4,4,0.97,East Longmeadow,1028,3000,28/09/2006,Hampden,dark purple
+299000,2,2,0.46,East Longmeadow,1028,1174,17/12/2001,Hampden,pink
+304900,4,1,0.22,East Longmeadow,1028,1425,26/03/2013,Hampden,pink
+409900,2,1,0.57,East Longmeadow,1028,1020,20/08/2001,Hampden,pink
+589900,4,3,0.61,Agawam,1030,2857,31/07/2006,Hampden,pink
+300000,3,1,0.28,Agawam,1030,1260,15/09/2006,Hampden,pink
+439900,5,4,0.53,Agawam,1030,2094,31/07/1996,Hampden,dark purple
+269900,3,1,1.41,Hardwick,1031,1092,08/12/1989,Worcester,pink
+399900,9,6,0.19,Adams,1220,5364,25/06/1998,Berkshire,dark purple
+159900,2,2,0.28,Adams,1220,1206,28/10/2011,Berkshire,pink
+324900,13,7,0.2,Adams,1220,4233,15/09/2008,Berkshire,dark purple
+349900,3,3,1.4,Buckland,1339,2234,29/07/2005,Franklin,pink
+150000,3,1,0.09,Springfield,1104,1303,27/08/1998,Hampden,pink
+199900,9,3,0.13,Springfield,1104,3511,02/06/2005,Hampden,dark purple
+2995000,4,8,12.1,Worthington,1098,14240,05/10/2001,Hampshire,purple
+144000,1,1,5.46,Cummington,1026,600,05/05/2021,Hampshire,pink
+139900,3,1,0.17,Pittsfield,1201,1180,06/12/2005,Berkshire,pink
+209000,3,2,0.16,Pittsfield,1201,1352,21/11/2001,Berkshire,pink
+231500,3,1,0.31,Pittsfield,1201,1152,28/06/2000,Berkshire,pink
+324900,3,2,0.5,Cheshire,1225,1756,14/09/1993,Berkshire,pink
+380000,4,2,17.84,Huntington,1050,2196,08/09/2014,Hampshire,pink
+225000,5,3,0.15,Pittsfield,1201,2549,01/12/1997,Berkshire,dark purple
+209900,4,2,0.21,Pittsfield,1201,1200,28/07/2005,Berkshire,pink
+355000,3,3,0.52,Cheshire,1225,2191,03/12/2007,Berkshire,pink
+629900,4,3,0.46,Pittsfield,1201,2908,01/12/2010,Berkshire,pink
+400000,3,2,2.99,Otis,1253,2372,06/10/1993,Berkshire,pink
+429000,3,2,0.16,Great Barrington,1230,1500,01/03/1991,Berkshire,pink
+1390000,14,15,2.4,Great Barrington,1230,10302,12/06/2009,Berkshire,purple
+839000,9,9,1,Sheffield,1257,5358,01/05/2001,Berkshire,dark purple
+699000,3,3,2,Monterey,1230,2482,07/01/2002,Berkshire,pink
+449797,5,3,0.19,Great Barrington,1230,2173,04/08/2004,Berkshire,dark purple
+799000,4,4,9.3,Granville,1034,3164,16/12/1997,Hampden,dark purple
+575000,3,2,4.1,Sheffield,1222,1900,23/06/2003,Berkshire,pink
+869000,6,6,0.76,Longmeadow,1106,3902,01/06/1986,Hampden,dark purple
+239999,4,2,0.1,Springfield,1104,2160,02/03/1988,Hampden,pink
+2100000,3,3,5.2,Great Barrington,1230,2900,11/05/2006,Berkshire,pink
+349000,1,1,2.23,Sandisfield,1255,5104,12/12/2008,Berkshire,pink
+3250000,7,7,24.35,New Marlborough,1259,6200,12/11/2004,Berkshire,purple
+729000,4,4,1.3,Sheffield,1257,5005,17/10/2000,Berkshire,dark purple
+649000,4,3,0.87,Longmeadow,1106,2501,01/12/1979,Hampden,pink
+250000,6,2,0.1,Springfield,1109,1728,07/01/2004,Hampden,pink
+229000,10,5,0.19,Pittsfield,1201,4260,11/02/2002,Berkshire,dark purple
+124900,3,1,0.31,Pittsfield,1201,1892,07/06/2002,Berkshire,pink
+109900,6,2,0.57,Hinsdale,1235,2979,01/06/1993,Berkshire,dark purple
+224900,3,1,0.21,Pittsfield,1201,1746,24/07/1987,Berkshire,pink
+254900,7,4,0.4,Adams,1220,2992,24/07/2007,Berkshire,dark purple
+169900,2,1,0.22,Pittsfield,1201,1175,30/06/1999,Berkshire,pink
+149900,5,3,0.1,Pittsfield,1201,2027,18/01/2008,Berkshire,dark purple
+264999,2,2,0.24,Pittsfield,1201,1044,21/06/1991,Berkshire,pink
+649000,4,3,62,Plainfield,1070,2650,10/02/2014,Hampshire,dark purple
+395000,4,1,0.3,Adams,1220,1360,26/12/1990,Berkshire,pink
+289000,8,2,0.22,Pittsfield,1201,3278,29/01/1999,Berkshire,dark purple
+289900,3,2,0.17,Dalton,1226,1376,16/07/1987,Berkshire,pink
+239900,3,2,0.2,Pittsfield,1201,1572,07/01/2011,Berkshire,pink
+539900,8,8,0.23,Pittsfield,1201,6120,02/03/1989,Berkshire,dark purple
+184900,12,4,0.22,Pittsfield,1201,4200,04/02/1993,Berkshire,dark purple
+185000,3,1,0.24,Lanesborough,1237,875,20/10/2006,Berkshire,pink
+750000,4,1,46,Worthington,1098,2180,22/10/1996,Hampshire,pink
+299999,3,2,0.23,Pittsfield,1201,1362,21/12/2005,Berkshire,pink
+459900,3,2,0.75,Pittsfield,1201,2190,17/12/2004,Berkshire,pink
+999000,4,4,196.1,Lanesborough,1237,3396,16/06/1999,Berkshire,purple
+975000,5,4,58,Savoy,1256,4685,17/10/1995,Berkshire,dark purple
+224900,2,2,0.18,Pittsfield,1201,1094,05/09/2007,Berkshire,pink
+80000,2,1,0.34,Pittsfield,1201,791,01/09/2006,Berkshire,pink
+99000,2,1,0.36,Adams,1220,1032,29/06/2005,Berkshire,pink
+110000,3,2,0.11,Pittsfield,1201,1122,12/07/2001,Berkshire,pink
+119900,4,2,0.06,Pittsfield,1201,1872,01/01/1981,Berkshire,pink
+250000,3,2,0.3,Pittsfield,1201,1260,29/01/1999,Berkshire,pink
+369900,8,7,0.13,Adams,1220,9516,06/07/1988,Berkshire,dark purple
+99900,2,1,0.02,Adams,1220,640,04/11/1988,Berkshire,pink
+279900,4,2,0.36,Pittsfield,1201,1610,22/10/2008,Berkshire,pink
+299900,3,2,0.46,Pittsfield,1201,1536,12/09/2005,Berkshire,pink
+229900,3,1,0.18,Pittsfield,1201,1080,20/01/2006,Berkshire,pink
+475000,10,4,0.13,Pittsfield,1201,3736,01/10/2013,Berkshire,dark purple
+169000,8,4,0.24,Pittsfield,1201,3344,30/04/1992,Berkshire,dark purple
+269000,4,1,0.77,Pittsfield,1201,1644,03/02/2010,Berkshire,pink
+199900,3,1,0.25,Adams,1220,1105,29/10/1992,Berkshire,pink
+139900,1,1,0.25,Adams,1220,766,09/06/2006,Berkshire,pink
+275000,4,2,0.2,Adams,1220,1846,02/10/2009,Berkshire,pink
+209000,6,2,0.12,Pittsfield,1201,2664,01/04/1980,Berkshire,dark purple
+189900,2,1,0.12,Pittsfield,1201,841,31/10/1997,Berkshire,pink
+159900,3,2,0.23,Dalton,1226,1452,06/07/2001,Berkshire,pink
+214900,3,1,0.14,Dalton,1226,1522,11/10/2005,Berkshire,pink
+249900,3,2,0.16,Pittsfield,1201,1809,08/11/2017,Berkshire,pink
+170000,3,1,0.21,Adams,1220,1632,07/05/2008,Berkshire,pink
+265000,3,3,0.17,Pittsfield,1201,1326,29/03/2007,Berkshire,pink
+219900,2,1,0.39,Pittsfield,1201,720,29/12/2006,Berkshire,pink
+24900,7,3,0.24,Springfield,1105,3727,28/12/2006,Hampden,dark purple
+299000,3,1,10.75,Sandisfield,1255,1056,11/03/2008,Berkshire,pink
+475000,3,2,0.2,Great Barrington,1230,1424,08/05/2003,Berkshire,pink
+249900,6,2,0.13,Springfield,1108,2580,14/08/2009,Hampden,dark purple
+259900,6,2,0.11,Springfield,1104,2016,21/11/2006,Hampden,dark purple
+199919,4,1,0.1,Springfield,1107,1410,10/03/1989,Hampden,pink
+670000,5,3,1.66,Westfield,1085,4296,02/06/2010,Hampden,dark purple
+159900,4,2,0.11,Springfield,1109,1525,23/10/1991,Hampden,pink
+295000,3,2,0.17,Longmeadow,1106,2038,01/03/1978,Hampden,pink
+269900,4,2,0.14,Springfield,1109,1648,20/11/1979,Hampden,pink
+279000,6,3,0.17,Springfield,1108,3056,29/08/2002,Hampden,dark purple
+225000,2,2,0.11,Springfield,1104,1224,30/07/2002,Hampden,pink
+235000,3,1,0.11,Westfield,1085,1248,30/10/1998,Hampden,pink
+227000,3,1,0.15,Springfield,1104,1080,27/05/2005,Hampden,pink
+129900,4,2,0.2,Pittsfield,1201,1712,25/06/2009,Berkshire,pink
+200000,3,1,0.3,Lanesborough,1237,1750,27/11/2002,Berkshire,pink
+115000,3,1,0.13,Adams,1220,1642,30/06/2000,Berkshire,pink
+249900,2,1,0.22,Hinsdale,1235,706,28/03/1997,Berkshire,pink
+1395000,4,5,25.99,Dalton,1226,4179,28/05/1993,Berkshire,dark purple
+259000,8,3,0.13,Pittsfield,1201,2996,15/05/2007,Berkshire,dark purple
+169900,6,2,0.13,Pittsfield,1201,2060,03/12/1996,Berkshire,dark purple
+784900,6,3,0.17,Pittsfield,1201,2592,04/01/2006,Berkshire,dark purple
+784900,6,2,0.08,Pittsfield,1201,2554,15/05/2000,Berkshire,dark purple
+230000,8,4,0.2,Pittsfield,1201,3904,20/05/2005,Berkshire,dark purple
+199900,4,2,0.12,Springfield,1104,1600,05/11/2007,Hampden,pink
+209000,2,2,0.11,Springfield,1104,1240,03/06/2002,Hampden,pink
+715000,7,7,1,Great Barrington,1230,3684,24/01/2008,Berkshire,dark purple
+649000,3,3,0.19,Great Barrington,1230,1876,01/11/2012,Berkshire,pink
+179900,5,2,0.11,Springfield,1109,1892,21/06/2001,Hampden,pink
+565000,4,3,1.74,Great Barrington,1230,2073,02/08/2006,Berkshire,pink
+725000,5,4,0.5,West Springfield,1089,5694,15/05/1987,Hampden,dark purple
+139900,2,1,0.11,Springfield,1104,944,06/07/2004,Hampden,pink
+339900,3,3,0.4,Longmeadow,1106,2397,30/07/1999,Hampden,pink
+250000,6,3,0.15,Springfield,1109,3696,20/12/1982,Hampden,dark purple
+250000,4,2,0.11,Springfield,1108,1806,30/10/1998,Hampden,pink
+349900,4,2,0.24,West Springfield,1089,2002,02/01/2019,Hampden,pink
+749900,5,5,0.75,Westfield,1085,3213,13/02/2004,Hampden,dark purple
+234900,3,1,0.14,Springfield,1104,1063,25/06/2003,Hampden,pink
+349000,3,2,2,Sandisfield,1255,1504,06/04/2007,Berkshire,pink
+239900,3,2,0.12,Springfield,1109,1248,10/12/1992,Hampden,pink
+223500,4,1,0.1,Springfield,1109,1848,22/04/1996,Hampden,pink
+394900,3,4,0.44,Longmeadow,1106,2025,13/05/2005,Hampden,pink
+324900,4,4,0.37,Westfield,1085,2160,30/08/1991,Hampden,dark purple
+329000,3,2,0.5,Westfield,1085,1688,09/07/2004,Hampden,pink
+459900,4,2,0.58,Longmeadow,1106,1662,07/05/2004,Hampden,pink
+139000,2,2,0.88,Sheffield,1222,1193,25/04/1994,Berkshire,pink
+269000,5,2,0.11,Springfield,1108,1634,12/10/2021,Hampden,pink
+249900,3,2,0.11,Springfield,1108,1902,20/09/1983,Hampden,pink
+539000,3,4,1.11,Westfield,1085,3577,28/02/1997,Hampden,dark purple
+589000,2,2,3.96,Tyringham,1264,1716,28/06/2012,Berkshire,pink
+324900,5,3,0.59,Westfield,1085,2287,02/10/1989,Hampden,dark purple
+529900,4,3,0.39,Longmeadow,1106,2584,03/07/2000,Hampden,pink
+265000,4,3,0.11,Springfield,1108,1728,04/11/2011,Hampden,pink
+699900,4,3,0.39,Longmeadow,1106,3264,25/11/2009,Hampden,dark purple
+70000,7,3,0.11,Springfield,1109,3035,20/08/1978,Hampden,dark purple
+324900,3,1,0.21,West Springfield,1089,1588,31/03/2006,Hampden,pink
+409000,3,2,1.25,Otis,1253,1792,22/04/2005,Berkshire,pink
+449900,3,2,0.41,Longmeadow,1106,1817,17/01/1997,Hampden,pink
+235000,4,3,0.13,Springfield,1109,1625,14/11/2005,Hampden,pink
+445000,8,6,0.13,Springfield,1108,8369,31/12/2013,Hampden,dark purple
+219900,4,1,0.65,Westfield,1085,2120,31/08/1999,Hampden,pink
+237900,2,2,1,Westfield,1085,1341,05/01/2022,Hampden,pink
+289900,4,2,0.11,Springfield,1104,1742,27/03/1998,Hampden,pink
+825000,5,4,0.48,Longmeadow,1106,3657,22/04/2002,Hampden,dark purple
+15500000,3,5,298,New Marlborough,1259,4273,28/01/2011,Berkshire,purple
+225000,4,2,0.14,Springfield,1104,1399,09/07/2007,Hampden,pink
+190000,6,2,0.14,Springfield,1108,2508,17/12/2009,Hampden,dark purple
+250000,6,2,0.62,Russell,1071,2520,12/08/2016,Hampden,dark purple
+284999,4,3,0.12,Springfield,1104,1360,31/03/2014,Hampden,pink
+529000,3,2,0.18,Great Barrington,1230,1634,19/11/2004,Berkshire,pink
+699900,4,4,0.62,Longmeadow,1106,2712,19/04/2016,Hampden,dark purple
+179900,3,2,0.95,North Adams,1247,1200,28/05/2009,Berkshire,pink
+249000,3,2,0.37,North Adams,1247,1440,15/03/1989,Berkshire,pink
+185000,4,1,0.28,North Adams,1247,1357,12/01/2006,Berkshire,pink
+85000,3,2,0.14,North Adams,1247,1525,26/08/1987,Berkshire,pink
+599000,4,3,2.5,Florida,1247,2351,19/03/2012,Berkshire,pink
+450000,6,3,0.21,North Adams,1247,4742,27/05/2003,Berkshire,dark purple
+179500,3,2,4,Hubbardston,1452,2284,28/11/1994,Worcester,pink
+480000,3,3,0.34,Palmer,1069,3390,25/01/2002,Hampden,pink
+180000,4,4,0.23,Ware,1082,2145,05/03/1990,Hampshire,dark purple
+1249000,3,4,1.4,Wilbraham,1095,4936,15/05/2009,Hampden,dark purple
+169900,4,2,0.08,Ware,1082,1884,25/10/2000,Hampshire,pink
+899900,3,3,14.88,Westminster,1473,4342,08/02/1999,Worcester,dark purple
+465000,3,3,1.2,Palmer,1069,2370,13/12/2005,Hampden,pink
+229900,5,4,0.16,Ware,1082,4341,04/05/2006,Hampshire,dark purple
+315000,2,1,1.3,Westminster,1473,895,01/11/2010,Worcester,pink
+300000,3,1,3.06,Oakham,1068,864,12/04/2002,Worcester,pink
+179999,4,2,0.05,Ware,1082,3396,27/06/2005,Hampshire,pink
+205000,4,2,0.35,Ware,1082,1965,09/07/2004,Hampshire,pink
+234900,4,1,0.85,Ware,1082,1921,17/06/2005,Hampshire,pink
+329900,3,2,0.62,West Brookfield,1585,1650,16/04/1999,Worcester,pink
+189000,4,2,0.15,Palmer,1069,1922,20/09/2021,Hampden,pink
+399000,4,2,3.25,Ware,1082,2200,08/05/1991,Hampshire,pink
+335000,8,3,0.39,Palmer,1069,4841,11/05/2015,Hampden,dark purple
+1150000,5,4,1.99,Wilbraham,1095,6011,19/10/2007,Hampden,dark purple
+475000,4,3,0.9,Wilbraham,1095,2507,01/08/2005,Hampden,pink
+289900,6,2,0.56,West Brookfield,1585,2976,28/07/1998,Worcester,dark purple
+799900,3,3,0.14,West Brookfield,1585,2600,29/07/2005,Worcester,pink
+369900,2,1,0.32,North Brookfield,1535,915,01/09/2006,Worcester,pink
+490000,3,2,1.3,Hancock,1237,1888,15/05/2009,Berkshire,pink
+179900,4,1,0.24,Pittsfield,1201,1350,31/01/1996,Berkshire,pink
+219900,4,3,0.29,Pittsfield,1201,2511,09/06/2008,Berkshire,pink
+579900,1,4,4.2,Williamstown,1267,9800,30/09/1992,Berkshire,dark purple
+149900,3,2,0.08,Pittsfield,1201,1120,30/08/2001,Berkshire,pink
+217900,2,1,0.18,Pittsfield,1201,1040,28/11/2007,Berkshire,pink
+139900,8,2,0.26,Pittsfield,1201,2016,03/12/1987,Berkshire,dark purple
+119900,5,2,0.24,North Adams,1247,2623,23/01/2004,Berkshire,pink
+165000,3,2,0.21,Pittsfield,1201,1230,11/08/2008,Berkshire,pink
+149900,3,2,0.08,North Adams,1247,1950,30/07/2004,Berkshire,pink
+59900,3,1,0.32,Pittsfield,1201,1105,27/08/1987,Berkshire,pink
+285000,6,3,0.26,Pittsfield,1201,2800,12/06/2007,Berkshire,dark purple
+549000,4,2,0.41,Williamstown,1267,1545,07/04/2006,Berkshire,pink
+315000,2,2,3.8,Clarksburg,1247,1215,12/07/1996,Berkshire,pink
+589900,4,3,0.76,Pittsfield,1201,2582,22/05/2009,Berkshire,pink
+700000,4,3,0.45,Williamstown,1267,2822,01/08/2005,Berkshire,pink
+159900,4,2,0.22,Pittsfield,1201,1870,04/01/2002,Berkshire,pink
+3200000,4,6,34,Williamstown,1267,7289,12/11/1999,Berkshire,purple
+175000,6,4,0.22,Pittsfield,1201,2448,12/08/2002,Berkshire,dark purple
+119900,3,2,0.17,Pittsfield,1201,1144,06/09/2007,Berkshire,pink
+159000,2,2,0.18,Pittsfield,1201,1455,31/01/1986,Berkshire,pink
+126000,3,1,2.8,Clarksburg,1247,1520,17/02/2009,Berkshire,pink
+213900,4,2,0.18,Pittsfield,1201,2023,22/06/2007,Berkshire,pink
+229000,3,1,0.11,North Adams,1247,1548,15/06/1995,Berkshire,pink
+599000,4,4,3.34,Lee,1238,3381,28/07/2008,Berkshire,dark purple
+784900,6,2,0.16,Pittsfield,1201,2220,23/06/2008,Berkshire,dark purple
+275000,8,4,0.42,Pittsfield,1201,3752,25/03/2003,Berkshire,dark purple
+249900,4,2,0.93,Clarksburg,1247,1404,25/02/2009,Berkshire,pink
+59900,2,1,1,Clarksburg,1247,672,01/02/1999,Berkshire,pink
+699900,5,3,0.51,Pittsfield,1201,5023,19/10/1987,Berkshire,dark purple
+359900,3,2,0.41,Williamstown,1267,1684,05/10/2001,Berkshire,pink
+299900,5,4,0.16,Pittsfield,1201,3071,01/10/2004,Berkshire,dark purple
+49999,4,2,0.1,North Adams,1247,1822,12/06/2000,Berkshire,pink
+289500,3,2,0.18,Pittsfield,1201,1750,01/12/1978,Berkshire,pink
+375000,5,2,0.6,Westfield,1085,2700,16/07/2007,Hampden,pink
+389000,5,2,0.2,Pittsfield,1201,2304,03/12/1993,Berkshire,pink
+259799,4,2,0.27,Springfield,1119,2104,12/02/1999,Hampden,pink
+307900,3,2,1.1,Hampden,1036,1905,15/05/2000,Hampden,pink
+229900,4,2,0.13,Springfield,1151,1644,20/06/1987,Hampden,pink
+289900,4,1,0.24,Ludlow,1056,1173,14/07/2017,Hampden,pink
+249900,3,2,0.55,Springfield,1151,1365,20/10/1979,Hampden,pink
+198000,3,1,0.23,Springfield,1129,876,01/08/2019,Hampden,pink
+364999,3,3,0.17,Springfield,1118,1576,25/08/2000,Hampden,pink
+599000,3,3,3.11,Wilbraham,1095,2275,18/06/2021,Hampden,pink
+465000,3,3,2.04,Monson,1057,2775,02/12/2019,Hampden,pink
+350000,6,3,0.36,Springfield,1151,3048,30/12/1993,Hampden,dark purple
+199900,2,1,0.14,Springfield,1118,1024,14/06/2004,Hampden,pink
+244900,3,2,0.16,Springfield,1108,1181,15/06/2021,Hampden,pink
+429900,4,4,0.44,Springfield,1128,2032,19/03/2010,Hampden,dark purple
+219900,3,2,0.11,Springfield,1109,1056,29/07/1998,Hampden,pink
+270000,3,1,0.23,Springfield,1118,1234,24/02/2017,Hampden,pink
+239999,4,2,0.13,Springfield,1108,1690,20/05/1986,Hampden,pink
+259900,3,1,0.26,Springfield,1129,1103,20/11/1986,Hampden,pink
+299000,3,2,0.14,Springfield,1151,1799,14/12/2021,Hampden,pink
+315000,4,2,0.23,Ludlow,1056,1420,21/09/1988,Hampden,pink
+339900,3,2,0.5,Springfield,1128,1520,20/02/1985,Hampden,pink
+269900,3,1,0.73,Palmer,1069,1250,12/06/1987,Hampden,pink
+435000,4,3,0.22,Springfield,1118,2734,28/01/2013,Hampden,pink
+279900,4,2,0.18,Springfield,1119,1596,16/09/2005,Hampden,pink
+219900,3,1,0.17,Springfield,1109,1085,21/01/2022,Hampden,pink
+465000,4,4,5.29,Wilbraham,1095,5042,18/06/2009,Hampden,dark purple
+199000,1,1,1.63,Wilbraham,1095,996,04/11/1996,Hampden,pink
+130000,2,1,0.11,Springfield,1119,744,25/02/1999,Hampden,pink
+999900,5,6,8,Monson,1057,6900,24/07/2017,Hampden,dark purple
+279900,5,3,0.12,Springfield,1119,1782,28/09/2010,Hampden,pink
+269900,3,2,0.11,Springfield,1108,1542,10/10/2003,Hampden,pink
+265000,3,2,0.23,Springfield,1118,1369,23/05/1996,Hampden,pink
+250000,3,2,0.11,Springfield,1108,1586,05/11/2020,Hampden,pink
+299000,3,2,0.18,Springfield,1118,1392,07/04/2006,Hampden,pink
+279900,3,2,0.4,West Springfield,1089,1322,20/01/1995,Hampden,pink
+139000,3,1,0.1,Springfield,1109,1428,01/12/2003,Hampden,pink
+569000,4,3,1.1,Wilbraham,1095,2628,22/06/2007,Hampden,pink
+239000,2,1,0.19,Springfield,1118,1024,26/02/2016,Hampden,pink
+324900,4,1,0.23,Ludlow,1056,1740,31/10/2005,Hampden,pink
+239900,4,1,0.28,Springfield,1104,1200,23/11/2009,Hampden,pink
+674900,3,3,0.69,Longmeadow,1106,3704,08/10/1997,Hampden,pink
+799900,3,3,2.9,Monson,1057,2700,20/10/2008,Hampden,pink
+650000,4,3,2.52,Wilbraham,1095,2960,05/10/2005,Hampden,pink
+285000,5,2,0.13,Springfield,1108,2652,12/04/2013,Hampden,pink
+249900,3,1,0.22,Springfield,1129,1040,24/05/2005,Hampden,pink
+250000,3,1,0.41,Springfield,1118,1100,30/06/2000,Hampden,pink
+350000,3,2,0.64,Wilbraham,1095,1826,02/07/2007,Hampden,pink
+275000,3,1,0.32,Springfield,1119,1082,21/12/2016,Hampden,pink
+649900,4,4,0.69,Longmeadow,1106,3562,27/05/1993,Hampden,dark purple
+239900,3,3,2,Monson,1057,2934,30/09/2005,Hampden,pink
+259900,3,2,0.17,Springfield,1118,1442,03/08/2012,Hampden,pink
+449000,5,3,0.75,Hampden,1036,2996,25/08/2017,Hampden,dark purple
+199999,4,2,0.06,Springfield,1105,1194,17/04/1992,Hampden,pink
+399900,5,3,1.73,Hampden,1036,2354,30/12/1987,Hampden,dark purple
+309900,3,2,0.21,Springfield,1118,1508,01/09/2017,Hampden,pink
+400000,3,2,0.92,Wilbraham,1095,1840,26/04/2013,Hampden,pink
+250000,4,4,0.25,Palmer,1069,2492,11/10/2005,Hampden,dark purple
+299999,6,2,0.14,Springfield,1109,2580,03/09/1992,Hampden,dark purple
+259900,4,1,0.17,Westfield,1085,1454,12/03/2012,Hampden,pink
+399900,3,2,0.55,Westfield,1085,1728,31/07/2019,Hampden,pink
+975000,3,1,38.88,Orange,1364,3187,11/02/1987,Franklin,pink
+50000,2,2,0.29,Wales,1081,712,31/07/2002,Hampden,pink
+100000,3,2,0.25,Wales,1081,1820,27/11/2019,Hampden,pink
+179900,1,1,0.5,Templeton,1436,620,30/08/2002,Worcester,pink
+69900,2,1,0.05,Athol,1331,896,05/03/1999,Worcester,pink
+290000,3,1,1.3,Monson,1057,1674,08/08/2018,Hampden,pink
+299000,6,2,0.16,Athol,1331,3500,22/04/2008,Worcester,dark purple
+259900,2,2,0.56,Athol,1331,1296,23/06/2003,Worcester,pink
+314900,4,4,0.22,Athol,1331,2954,14/02/2007,Worcester,dark purple
+477000,4,2,3.5,Royalston,1368,3200,16/02/1996,Worcester,pink
+499900,3,3,3.04,Templeton,1468,1632,15/05/1998,Worcester,pink
+225000,5,3,0.24,Athol,1331,2314,05/11/2008,Worcester,dark purple
+269900,3,3,0.17,Warren,1092,1400,16/06/2021,Worcester,pink
+289000,8,2,0.1,West Brookfield,1585,2332,31/01/2006,Worcester,dark purple
+299000,5,2,0.68,Athol,1331,2294,01/10/1985,Worcester,pink
+949000,6,3,8.11,Phillipston,1331,4197,12/05/2004,Worcester,dark purple
+249900,2,1,0.21,Athol,1331,988,26/09/2003,Worcester,pink
+285000,2,1,0.44,East Brookfield,1515,1200,03/11/2005,Worcester,pink
+379999,3,2,0.67,Auburn,1501,1700,18/08/2003,Worcester,pink
+389000,4,3,0.23,Pittsfield,1201,1920,01/12/1982,Berkshire,pink
+369000,6,4,8.53,Colrain,1340,4280,15/03/2005,Franklin,dark purple
+75000,4,2,0.32,Colrain,1340,3780,11/12/1998,Franklin,pink
+139900,2,1,0.1,Rutland,1543,824,23/07/2007,Worcester,pink
+230000,7,3,0.08,Spencer,1562,2400,10/05/2001,Worcester,dark purple
+215000,2,1,0.19,Templeton,1468,609,10/08/2006,Worcester,pink
+349000,6,3,0.12,Gardner,1440,4155,08/12/2000,Worcester,dark purple
+1495000,15,9,0.19,Worcester,1604,14532,27/04/2004,Worcester,purple
+290000,2,1,1.05,Charlton,1507,1768,30/08/2005,Worcester,pink
+950000,4,5,1.44,Spencer,1562,4701,17/07/2001,Worcester,dark purple
+448999,4,2,0.23,Worcester,1602,2016,24/09/1999,Worcester,pink
+779800,3,3,10.88,Auburn,1501,2498,15/03/2002,Worcester,pink
+465000,3,2,1.38,Oxford,1540,1568,30/06/1992,Worcester,pink
+214200,3,2,0.12,Worcester,1604,1225,29/08/2006,Worcester,pink
+495000,4,3,1.08,Millbury,1527,2771,31/01/2005,Worcester,pink
+600000,4,2,1.84,Sutton,1590,3590,01/09/1987,Worcester,pink
+310000,3,2,0.05,Worcester,1610,1568,16/11/2009,Worcester,pink
+320000,9,2,0.3,Spencer,1562,2634,31/08/1998,Worcester,dark purple
+349000,5,2,0.07,Worcester,1605,2074,10/08/2007,Worcester,pink
+399000,7,3,0.4,Spencer,1562,4208,19/08/2005,Worcester,dark purple
+374900,3,2,0.29,Worcester,1603,1575,07/03/2008,Worcester,pink
+289000,3,1,0.23,Worcester,1605,1036,07/06/2005,Worcester,pink
+799900,3,4,2.01,Spencer,1562,3468,08/10/2002,Worcester,dark purple
+420000,3,2,1.4,Auburn,1501,1664,23/06/1999,Worcester,pink
+399000,8,2,0.69,Gardner,1440,2300,03/06/1994,Worcester,dark purple
+260000,3,1,0.09,Worcester,1610,1235,08/09/2005,Worcester,pink
+499000,3,3,0.19,Worcester,1606,1804,30/11/2005,Worcester,pink
+394900,4,2,0.15,Worcester,1602,1500,18/06/2007,Worcester,pink
+350000,3,2,0.21,Worcester,1602,1712,07/12/1990,Worcester,pink
+524900,8,4,0.1,Worcester,1610,3678,08/03/1993,Worcester,dark purple
+444900,4,2,0.11,Worcester,1605,1976,01/02/1995,Worcester,pink
+390000,4,3,0.18,Worcester,1606,1440,03/04/1998,Worcester,pink
+197500,3,2,0.13,Spencer,1562,1872,24/07/2008,Worcester,pink
+565000,4,3,1.32,Sturbridge,1566,2208,27/02/2007,Worcester,pink
+399000,4,3,0.36,Worcester,1602,2133,01/07/2003,Worcester,pink
+749000,4,3,2.41,Sutton,1590,3480,27/04/2001,Worcester,dark purple
+650000,3,2,0.54,Worcester,1607,1536,14/12/2006,Worcester,pink
+249900,4,1,0.12,Worcester,1607,1248,14/02/2003,Worcester,pink
+640000,7,3,0.37,Worcester,1605,2320,01/11/1999,Worcester,dark purple
+389900,3,2,0.15,Worcester,1604,1745,04/11/2009,Worcester,pink
+449900,3,3,0.05,Worcester,1604,1824,10/07/2007,Worcester,pink
+169900,3,1,0.53,Grafton,1560,800,18/04/2019,Worcester,pink
+379000,3,2,1.19,Templeton,1468,1940,06/10/2010,Worcester,pink
+209900,3,1,0.18,Auburn,1501,840,24/08/1999,Worcester,pink
+99000,2,1,0.09,Gardner,1440,663,10/08/1995,Worcester,pink
+359900,3,1,0.53,Holden,1520,1198,24/10/1996,Worcester,pink
+324900,3,2,0.46,Gardner,1440,1436,28/01/1988,Worcester,pink
+950000,3,4,1.06,Spencer,1562,4600,01/12/1992,Worcester,dark purple
+399900,4,2,0.23,Worcester,1604,1768,01/07/2004,Worcester,pink
+525000,4,3,0.51,Worcester,1609,3040,26/08/1996,Worcester,pink
+259000,2,1,0.13,Worcester,1602,1345,16/02/2000,Worcester,pink
+550000,9,3,0.34,Auburn,1501,3882,16/01/2007,Worcester,dark purple
+300000,3,1,0.52,Auburn,1501,1158,08/09/1999,Worcester,pink
+315000,3,1,0.21,Leicester,1524,960,27/05/2004,Worcester,pink
+629900,9,3,0.16,Worcester,1610,4077,11/05/2000,Worcester,dark purple
+549000,3,3,0.29,Worcester,1609,2080,07/03/2007,Worcester,pink
+349900,2,1,0.34,Auburn,1501,1075,07/06/1999,Worcester,pink
+499000,12,2,0.14,Worcester,1605,3160,08/02/2007,Worcester,dark purple
+299000,3,2,0.12,Worcester,1604,1332,11/09/2000,Worcester,pink
+274865,3,2,0.16,Worcester,1604,1151,29/08/2001,Worcester,pink
+180000,3,2,0.86,Spencer,1562,1521,07/01/2003,Worcester,pink
+299900,3,3,0.1,Worcester,1604,2094,29/12/1992,Worcester,pink
+210000,4,2,0.07,Spencer,1562,1632,21/06/1995,Worcester,pink
+399900,3,2,0.23,Holden,1520,1125,30/09/1988,Worcester,pink
+748000,4,3,2.42,Spencer,1562,2416,19/01/2006,Worcester,pink
+394999,3,2,0.69,Worcester,1609,1243,23/03/1995,Worcester,pink
+329000,4,2,0.2,Worcester,1604,1208,19/10/2009,Worcester,pink
+400000,6,2,0.63,Oxford,1540,1684,09/09/2009,Worcester,pink
+450000,6,3,0.06,Worcester,1603,3075,01/08/2017,Worcester,dark purple
+575000,5,3,0.46,Holden,1520,2200,30/04/2003,Worcester,dark purple
+393000,3,2,0.2,Auburn,1501,1201,24/08/2007,Worcester,pink
+329900,2,2,0.09,Worcester,1604,768,16/01/2020,Worcester,pink
+650000,10,4,0.11,Worcester,1604,3290,25/05/2006,Worcester,dark purple
+995000,5,3,0.49,Shrewsbury,1545,2858,02/07/2004,Worcester,dark purple
+350000,4,2,0.1,Worcester,1607,1450,29/02/2008,Worcester,pink
+169900,3,1,0.29,Gardner,1440,1344,02/09/2003,Worcester,pink
+395000,3,2,1.5,Paxton,1612,1549,28/05/2002,Worcester,pink
+799000,4,4,6.2,Princeton,1541,3408,03/06/2005,Worcester,dark purple
+650000,4,4,1.34,Leicester,1524,3524,11/10/2001,Worcester,dark purple
+329900,2,1,0.29,Rutland,1543,1116,29/07/1998,Worcester,pink
+289900,2,1,0.23,Sutton,1590,960,15/10/2002,Worcester,pink
+299900,2,1,0.11,Worcester,1606,932,16/08/2004,Worcester,pink
+425000,3,3,0.27,Worcester,1606,2138,01/05/2009,Worcester,pink
+429999,3,2,0.48,Worcester,1603,1208,01/11/2002,Worcester,pink
+419900,4,2,0.22,Worcester,1602,1568,26/03/2004,Worcester,pink
+439900,4,2,0.22,Auburn,1501,2051,28/02/2008,Worcester,pink
+550000,9,3,0.09,Worcester,1604,4353,16/12/2014,Worcester,dark purple
+354900,4,2,0.13,Worcester,1606,1480,25/05/2000,Worcester,pink
+539000,5,4,0.17,Worcester,1604,2724,23/02/2001,Worcester,dark purple
+520000,6,4,0.1,Worcester,1610,2856,06/12/2004,Worcester,dark purple
+700000,7,4,0.28,Auburn,1501,2760,29/01/1986,Worcester,dark purple
+445900,4,2,0.19,Worcester,1606,1655,19/05/2000,Worcester,pink
+499900,6,3,0.56,Worcester,1602,1734,07/01/2000,Worcester,dark purple
+335000,2,2,0.22,Worcester,1602,1092,30/10/1985,Worcester,pink
+425000,3,2,0.38,Rutland,1543,2050,11/12/1987,Worcester,pink
+290000,3,1,0.2,Charlton,1507,1127,22/12/2003,Worcester,pink
+265000,1,1,0.26,Leicester,1524,840,26/09/2001,Worcester,pink
+312000,3,2,0.4,Gardner,1440,1274,03/09/1997,Worcester,pink
+389900,4,3,0.34,Worcester,1602,2250,11/08/2000,Worcester,pink
+475000,3,3,0.46,Paxton,1612,1823,27/07/2009,Worcester,pink
+565000,3,3,0.97,Charlton,1507,2592,15/04/1993,Worcester,pink
+449900,3,2,0.17,Worcester,1605,2121,01/09/2005,Worcester,pink
+375000,3,2,0.11,Worcester,1603,1658,29/06/2001,Worcester,pink
+330000,3,2,0.23,Templeton,1468,1472,27/07/2012,Worcester,pink
+399900,4,3,0.59,Oxford,1540,1956,28/08/1992,Worcester,pink
+459900,3,3,0.39,Holden,1520,1644,15/08/2008,Worcester,pink
+579900,7,3,0.17,Worcester,1604,4103,31/07/2006,Worcester,dark purple
+334900,3,2,0.13,Worcester,1606,1261,01/10/2002,Worcester,pink
+549900,9,3,0.14,Worcester,1604,4204,28/04/2006,Worcester,dark purple
+310000,3,1,0.22,Gardner,1440,1384,30/10/2007,Worcester,pink
+435000,3,2,0.22,Worcester,1609,1552,12/03/2007,Worcester,pink
+1125000,5,5,2,Bernardston,1337,4500,11/08/2005,Franklin,dark purple
+274900,3,2,0.34,Athol,1331,1520,13/04/2009,Worcester,pink
+259900,5,2,0.15,Athol,1331,2406,14/04/2008,Worcester,pink
+314458,3,2,0.25,Springfield,1109,1300,20/04/1978,Hampden,pink
+615000,4,3,0.53,Sturbridge,1518,2224,20/06/2008,Worcester,pink
+474900,3,3,1.22,Sturbridge,1566,1800,02/12/1987,Worcester,pink
+589000,2,2,0.69,Sturbridge,1518,1297,30/06/1997,Worcester,pink
+135000,2,2,0.28,Holland,1521,600,30/09/2008,Hampden,pink
+349987,3,1,20.32,Wales,1081,1080,13/11/2003,Hampden,pink
+170000,2,1,0.11,Springfield,1119,776,30/07/1998,Hampden,pink
+599900,3,3,2.68,Sturbridge,1518,2300,29/12/1992,Worcester,pink
+379900,3,2,1.18,Southbridge,1550,2007,28/08/2002,Worcester,pink
+359900,4,2,0.32,Southbridge,1550,1927,31/08/1994,Worcester,pink
+494900,3,2,0.12,Holland,1521,1074,22/08/1991,Hampden,pink
+175000,3,2,0.36,Southbridge,1550,2300,16/05/1994,Worcester,pink
+399999,4,2,0.5,Southbridge,1550,2709,11/06/1987,Worcester,pink
+584900,4,3,1.1,Sturbridge,1518,2590,11/09/2003,Worcester,pink
+469900,3,3,1.03,Dudley,1571,2400,04/11/2005,Worcester,pink
+409990,4,2,0.52,Dudley,1571,2980,30/06/2000,Worcester,pink
+450000,4,3,0.27,Webster,1570,2233,18/09/2003,Worcester,pink
+599900,5,4,1.53,Webster,1570,4024,13/05/1988,Worcester,dark purple
+324900,3,1,0.21,Dudley,1571,1008,31/05/2006,Worcester,pink
+350000,4,1,4,Winchendon,1475,2442,20/08/2002,Worcester,pink
+429900,4,2,0.68,Lee,1238,1626,28/08/2009,Berkshire,pink
+799900,3,2,16.11,Lenox,1240,1858,13/07/2001,Berkshire,pink
+490000,3,2,1.92,Lenox,1240,2211,30/08/1990,Berkshire,pink
+419000,4,2,1.16,Lee,1238,1851,31/07/2009,Berkshire,pink
+675000,4,3,5.13,Lenox,1240,2484,03/07/2002,Berkshire,pink
+279999,3,1,0.4,Pittsfield,1201,1719,05/10/2007,Berkshire,pink
+499900,4,3,0.49,Pittsfield,1201,2280,13/08/1998,Berkshire,pink
+299900,3,2,0.44,Pittsfield,1201,1464,01/11/1983,Berkshire,pink
+629900,3,3,0.48,Pittsfield,1201,2418,07/09/2012,Berkshire,pink
+1049000,3,3,3.1,New Marlborough,1259,2534,18/01/2008,Berkshire,pink
+175000,4,1,0.13,Great Barrington,1230,1554,31/10/1997,Berkshire,pink
+420000,2,1,0.27,Great Barrington,1230,2016,08/01/1997,Berkshire,pink
+549000,3,2,0.01,Great Barrington,1230,1464,12/10/2012,Berkshire,pink
+2750000,5,3,19.85,Great Barrington,1230,7000,29/08/2005,Berkshire,dark purple
+285000,2,1,0.63,West Stockbridge,1266,720,10/08/2006,Berkshire,pink
+475000,3,2,2.1,Stockbridge,1262,1430,31/05/2018,Berkshire,pink
+550000,2,1,0.3,Egremont,1230,1364,30/09/2021,Berkshire,pink
+2500000,6,5,0.69,Lee,1238,7000,30/12/1991,Berkshire,dark purple
+429000,3,1,1.52,Great Barrington,1230,1458,17/03/1998,Berkshire,pink
+625000,3,2,2,Alford,1230,2328,25/07/2003,Berkshire,pink
+499000,4,2,0.26,Great Barrington,1230,2038,10/02/2012,Berkshire,pink
+1735000,4,4,2.8,Great Barrington,1230,3340,30/11/2004,Berkshire,dark purple
+1299000,5,6,3,Egremont,1230,3382,15/07/2004,Berkshire,dark purple
+398900,7,7,0.9,Hancock,1237,5103,08/07/1998,Berkshire,dark purple
+2150000,15,15,5.4,Lee,1238,15885,30/04/1999,Berkshire,purple
+399000,4,2,0.23,Lee,1238,2900,22/09/1989,Berkshire,pink
+369000,2,2,0.84,Great Barrington,1230,1852,25/07/2008,Berkshire,pink
+585000,5,3,4,Egremont,1230,3488,05/09/1997,Berkshire,dark purple
+350000,2,1,0.48,Egremont,1230,1048,10/09/2002,Berkshire,pink
+299900,2,1,2.57,Pittsfield,1201,1593,17/03/1993,Berkshire,pink
+1950000,5,5,22.17,West Stockbridge,1266,5824,05/01/1996,Berkshire,dark purple
+498000,3,2,0.43,West Stockbridge,1266,1255,18/08/2009,Berkshire,pink
+569000,3,2,8.26,West Stockbridge,1266,1984,03/01/1994,Berkshire,pink
+1195000,4,4,10.1,Stockbridge,1262,4282,23/04/1998,Berkshire,dark purple
+469000,3,2,11.7,Alford,1266,1543,09/07/2003,Berkshire,pink
+3495000,7,4,36.9,Mount Washington,1258,3908,29/10/2010,Berkshire,dark purple
+2990000,4,3,9.75,Mount Washington,1258,4600,02/03/1998,Berkshire,dark purple
+1175000,3,3,4.33,Alford,1266,1956,29/08/2005,Berkshire,pink
+1500000,2,2,18.7,Alford,1266,1968,27/09/2002,Berkshire,pink
+950000,3,3,2.23,Stockbridge,1262,2456,01/11/1996,Berkshire,pink
+459000,5,2,0.29,Pittsfield,1201,2170,16/11/1992,Berkshire,pink
+449000,4,3,5.15,Stockbridge,1262,2600,11/12/1998,Berkshire,pink
+415000,5,3,0.28,Winchendon,1475,2906,29/04/2005,Worcester,dark purple
+349900,3,2,0.17,Winchendon,1475,1320,21/02/2003,Worcester,pink
+140000,3,3,0.39,Winchendon,1475,2643,16/03/2005,Worcester,pink
+524900,4,3,3.64,Winchendon,1475,2900,31/03/2000,Worcester,pink
+449900,4,2,5.45,Princeton,1541,1988,21/11/1988,Worcester,pink
+199000,2,1,0.2,Gardner,1440,1206,15/11/2002,Worcester,pink
+549900,5,4,1.6,Ashby,1431,3574,01/06/1985,Middlesex,dark purple
+269000,3,2,1.85,Ashby,1431,1762,15/10/2003,Middlesex,pink
+439000,4,3,1.86,Ashby,1431,2175,29/09/2003,Middlesex,pink
+335000,2,1,1.23,Ashby,1431,1198,20/03/2001,Middlesex,pink
+579900,7,4,0.33,Ayer,1432,2757,28/07/2008,Middlesex,dark purple
+995000,4,4,0.49,Ayer,1432,3684,15/02/2008,Middlesex,dark purple
+949000,5,5,0.68,Hudson,1749,3996,31/01/2003,Middlesex,dark purple
+119900,3,2,0.04,Fitchburg,1420,1423,02/07/2004,Worcester,pink
+299900,7,5,0.38,Fitchburg,1420,4854,29/08/2008,Worcester,dark purple
+499900,3,1,0.83,Winchendon,1475,1228,28/03/2008,Worcester,pink
+239900,3,1,0.82,Ashburnham,1430,1333,29/05/2008,Worcester,pink
+439900,3,2,0.52,Leominster,1453,2484,26/03/2004,Worcester,pink
+329900,4,2,0.24,Ashburnham,1430,2080,23/05/2000,Worcester,pink
+339900,3,2,0.92,Gardner,1440,1284,31/08/2006,Worcester,pink
+450000,2,2,0.29,Ashburnham,1430,1388,17/11/2009,Worcester,pink
+280000,4,1,0.21,Ashburnham,1430,1235,30/04/2007,Worcester,pink
+659000,5,5,0.28,Shirley,1464,2300,18/05/2015,Middlesex,dark purple
+4890000,5,7,11.8,Sudbury,1776,9164,01/08/2003,Middlesex,purple
+680000,4,4,3.26,Bolton,1740,2739,27/08/1998,Worcester,dark purple
+900000,3,4,1,Westford,1886,4424,28/09/1990,Middlesex,dark purple
+899900,5,5,2.37,Groton,1450,3229,22/10/1990,Middlesex,dark purple
+699900,4,3,0.29,Marlborough,1752,2708,14/07/2004,Middlesex,pink
+369900,4,2,0.22,Clinton,1510,2163,17/10/2005,Worcester,pink
+344900,3,1,0.15,Marlborough,1752,1617,09/09/1988,Middlesex,pink
+719900,3,2,0.92,Westford,1886,2192,23/05/2000,Middlesex,pink
+620000,7,2,0.11,Marlborough,1752,2765,28/10/2011,Middlesex,dark purple
+350000,4,2,0.11,West Boylston,1583,1836,05/06/1978,Worcester,pink
+475000,4,2,0.4,Dracut,1826,2145,03/05/1989,Middlesex,pink
+799000,3,3,0.93,Stow,1775,3080,12/10/2006,Middlesex,pink
+219900,2,1,0.12,Sterling,1564,1002,30/10/2007,Worcester,pink
+429900,4,2,0.64,Fitchburg,1420,1918,14/11/2005,Worcester,pink
+329900,2,1,0.34,Pepperell,1463,1067,08/08/2007,Middlesex,pink
+399000,3,1,0.34,Pepperell,1463,1296,14/12/1984,Middlesex,pink
+499900,3,2,0.21,Lowell,1854,2154,30/10/1998,Middlesex,pink
+559900,6,2,0.1,Lowell,1851,3522,30/06/2000,Middlesex,dark purple
+599900,6,3,0.34,Hudson,1749,3098,11/07/1986,Middlesex,dark purple
+1995000,4,6,3.08,Sudbury,1776,6888,27/12/2007,Middlesex,dark purple
+1549800,5,4,1.15,Westford,1886,4000,23/09/2021,Middlesex,dark purple
+689900,4,3,0.79,Shirley,1464,2903,08/11/2004,Middlesex,pink
+375000,3,2,0.22,Leominster,1453,1417,25/08/2004,Worcester,pink
+499000,3,2,0.34,Dracut,1826,2146,23/01/2004,Middlesex,pink
+429999,4,1,0.11,Lowell,1851,1412,27/09/1990,Middlesex,pink
+769900,4,3,2.32,Littleton,1460,2726,30/03/1998,Middlesex,pink
+870000,3,3,1.95,Groton,1450,2780,20/12/1993,Middlesex,pink
+785000,4,4,0.96,Tyngsborough,1879,2744,13/12/1993,Middlesex,dark purple
+979900,4,3,0.69,Sudbury,1776,2428,23/11/2009,Middlesex,pink
+699900,5,4,1,Stow,1775,3622,02/06/1993,Middlesex,dark purple
+459900,5,2,0.1,Lowell,1852,2136,27/01/1992,Middlesex,pink
+499900,3,2,1.31,Lunenburg,1462,1744,16/12/2003,Worcester,pink
+779000,4,3,2.9,Lunenburg,1462,3174,06/12/2005,Worcester,dark purple
+349800,1,1,0.11,Maynard,1754,560,29/04/1997,Middlesex,pink
+684000,3,2,0.19,Dunstable,1827,2818,20/10/2000,Middlesex,pink
+625000,4,4,0.94,Groton,1450,2820,22/08/2002,Middlesex,dark purple
+674900,3,3,1.34,Bolton,1740,2422,26/07/1995,Worcester,pink
+285000,2,1,0.29,Fitchburg,1420,1111,01/10/1985,Worcester,pink
+509000,6,2,0.24,Fitchburg,1420,2301,19/03/1975,Worcester,dark purple
+519900,3,3,0.27,Lowell,1851,2269,26/04/2007,Middlesex,pink
+429900,5,1,0.18,Tyngsborough,1879,1764,25/09/2000,Middlesex,pink
+595000,4,2,0.81,Chelmsford,1824,1864,02/06/1994,Middlesex,pink
+449000,4,2,0.24,Dracut,1826,1400,10/01/1997,Middlesex,pink
+609900,3,2,0.92,Westford,1886,1811,28/08/1995,Middlesex,pink
+585000,5,3,0.29,Marlborough,1752,2429,14/01/2005,Middlesex,dark purple
+899000,4,3,0.46,Acton,1720,2476,20/09/2002,Middlesex,pink
+525000,3,2,0.3,Chelmsford,1824,1344,22/09/1998,Middlesex,pink
+558000,3,2,0.98,Chelmsford,1824,1458,19/10/2006,Middlesex,pink
+1299900,4,4,0.82,Acton,1720,4121,28/08/2002,Middlesex,dark purple
+459900,3,2,0.15,Marlborough,1752,1692,20/05/1999,Middlesex,pink
+399900,6,3,0.19,Fitchburg,1420,3024,07/11/2006,Worcester,dark purple
+519900,3,2,1.25,Northborough,1532,2306,01/08/2002,Worcester,pink
+624900,4,3,0.92,Lunenburg,1462,2840,28/07/1971,Worcester,pink
+359900,4,2,0.24,Fitchburg,1420,1740,30/05/1997,Worcester,pink
+209900,3,2,0.2,Fitchburg,1420,960,21/09/1990,Worcester,pink
+777000,5,4,0.32,Fitchburg,1420,3325,20/10/2006,Worcester,dark purple
+499900,3,2,0.23,Dracut,1826,2919,05/06/2002,Middlesex,pink
+379900,3,1,0.42,Shirley,1464,1092,03/09/1991,Middlesex,pink
+365000,5,2,0.11,Clinton,1510,2187,06/05/2008,Worcester,pink
+574900,4,3,0.12,Dracut,1826,2566,23/05/2007,Middlesex,pink
+319900,3,2,0.23,Leominster,1453,2006,25/07/1995,Worcester,pink
+1225000,5,3,2,Carlisle,1741,3519,13/05/2005,Middlesex,dark purple
+825000,4,3,0.92,Chelmsford,1824,2100,13/12/1984,Middlesex,pink
+569900,3,2,0.97,Bolton,1740,1748,28/01/1976,Worcester,pink
+399900,3,1,0.1,Marlborough,1752,1020,26/05/1999,Middlesex,pink
+340000,3,1,1.06,Sterling,1564,825,11/01/2007,Worcester,pink
+525000,4,3,0.64,Fitchburg,1420,2532,31/12/2002,Worcester,pink
+310000,6,2,0.09,Fitchburg,1420,2718,15/04/2005,Worcester,dark purple
+799000,3,3,3.88,Bolton,1740,3921,07/07/2000,Worcester,pink
+749900,5,4,0.77,Chelmsford,1824,2996,20/10/2000,Middlesex,dark purple
+399900,4,1,0.1,Lowell,1851,1389,26/09/1979,Middlesex,pink
+799000,4,4,0.52,Acton,1720,2787,25/06/1993,Middlesex,dark purple
+524900,2,2,0.01,Dracut,1826,1532,18/09/2001,Middlesex,pink
+1150000,4,4,0.56,Marlborough,1752,4243,02/02/1988,Middlesex,dark purple
+105000,1,1,0.11,Clinton,1510,574,17/09/2019,Worcester,pink
+436590,3,2,0.39,Leominster,1453,2205,07/12/2004,Worcester,pink
+475000,3,1,0.75,Stow,1775,1500,30/11/2004,Middlesex,pink
+359500,3,3,2.2,Fitchburg,1420,2274,07/04/1987,Worcester,pink
+629900,5,4,0.44,Fitchburg,1420,4666,01/02/1999,Worcester,dark purple
+434900,3,2,0.51,Fitchburg,1420,1844,24/05/1990,Worcester,pink
+475000,3,2,1.02,Pepperell,1463,2030,27/02/1984,Middlesex,pink
+550000,3,2,0.33,Bolton,1740,2096,23/06/2006,Worcester,pink
+499900,5,2,0.61,Townsend,1469,2132,22/07/1986,Middlesex,pink
+649999,4,2,1.6,Marlborough,1752,3529,07/09/1988,Middlesex,pink
+695000,4,3,3.58,Bolton,1740,2670,16/12/2005,Worcester,pink
+850000,5,3,3.39,Dunstable,1827,3471,30/06/2004,Middlesex,dark purple
+675000,4,2,0.74,Westford,1886,1836,21/10/1993,Middlesex,pink
+699000,4,3,1.5,Bolton,1740,2260,31/05/1977,Worcester,pink
+499900,4,3,0.07,Lowell,1850,2118,31/12/2003,Middlesex,pink
+485000,3,2,0.5,Westford,1886,1647,22/09/1961,Middlesex,pink
+699000,3,3,1.5,Marlborough,1752,2694,21/07/1997,Middlesex,pink
+489900,4,2,0.34,Hudson,1749,1985,29/09/1989,Middlesex,pink
+935000,3,3,0.95,Boxborough,1719,2931,30/07/2003,Middlesex,pink
+699000,4,2,0.46,Acton,1720,2209,11/08/1988,Middlesex,pink
+739900,4,3,1.01,Tyngsborough,1879,2498,28/09/2004,Middlesex,pink
+1599000,4,4,2.2,Westford,1886,4824,15/06/2005,Middlesex,dark purple
+469000,3,1,0.8,Bolton,1740,1580,08/08/2005,Worcester,pink
+499900,5,3,0.7,Leominster,1453,2788,16/01/1985,Worcester,dark purple
+525000,3,2,0.37,Lancaster,1523,2207,02/09/1988,Worcester,pink
+750000,5,4,0.53,Lowell,1854,4698,01/07/1999,Middlesex,dark purple
+549000,3,3,0.46,Tyngsborough,1879,2310,14/05/2009,Middlesex,pink
+299900,4,2,0.21,Fitchburg,1420,2180,12/12/2005,Worcester,pink
+749000,4,4,1.5,Bolton,1740,3252,19/11/1998,Worcester,dark purple
+399900,2,1,0.24,Chelmsford,1824,902,28/04/1994,Middlesex,pink
+799000,4,3,1.94,Stow,1775,2420,29/10/1998,Middlesex,pink
+785000,5,4,1.01,Sterling,1564,3196,30/12/1993,Worcester,dark purple
+489900,4,2,0.06,Pepperell,1463,2457,11/08/2003,Middlesex,pink
+499900,3,2,1.04,Dracut,1826,1666,11/01/2002,Middlesex,pink
+329900,2,1,0.18,Leominster,1453,870,13/01/2003,Worcester,pink
+899800,3,3,2.96,Tyngsborough,1879,3808,29/03/1996,Middlesex,pink
+575000,4,2,0.55,Lowell,1851,2100,02/01/2007,Middlesex,pink
+549000,3,2,0.24,Lowell,1854,1422,30/01/1998,Middlesex,pink
+829900,3,3,0.6,Chelmsford,1824,2900,28/10/1996,Middlesex,pink
+599900,6,3,0.17,Lowell,1854,1859,15/08/2008,Middlesex,dark purple
+929000,4,3,0.47,Acton,1720,2665,03/12/2004,Middlesex,pink
+749999,2,3,5.25,Chelmsford,1824,2312,24/04/1984,Middlesex,pink
+399900,3,3,0.5,Townsend,1474,2069,26/11/1974,Middlesex,pink
+489900,3,2,0.23,Billerica,1862,1600,19/02/1999,Middlesex,pink
+499900,4,3,0.34,Billerica,1821,2371,05/12/1986,Middlesex,pink
+1198000,3,3,2,Carlisle,1741,3914,16/11/1999,Middlesex,pink
+424000,3,3,0.24,Fitchburg,1420,1800,07/03/1989,Worcester,pink
+349900,3,1,0.91,Lunenburg,1462,1029,17/03/1978,Worcester,pink
+649000,4,2,1.46,Lunenburg,1462,2063,01/10/1990,Worcester,pink
+309000,2,1,0.14,Leominster,1453,1212,28/09/2001,Worcester,pink
+699000,4,3,1.59,Fitchburg,1420,2952,01/10/2018,Worcester,pink
+429900,2,3,0.2,Lunenburg,1462,1444,02/09/2003,Worcester,pink
+995000,4,4,0.84,Acton,1720,4325,30/03/1990,Middlesex,dark purple
+599900,3,2,0.35,Billerica,1862,1998,29/08/2001,Middlesex,pink
+929900,6,4,1.13,Billerica,1862,3549,13/07/2007,Middlesex,dark purple
+1525000,4,6,7.94,Concord,1742,4871,16/03/2001,Middlesex,dark purple
+579000,4,4,0.77,Leominster,1453,3577,15/10/2002,Worcester,dark purple
+384900,3,2,0.24,Leominster,1453,2292,29/01/2004,Worcester,pink
+495000,8,3,0.19,Leominster,1453,3595,29/09/2015,Worcester,dark purple
+524900,4,3,0.34,Leominster,1453,3035,05/04/1985,Worcester,pink
+209900,2,2,0.11,Worcester,1606,1176,24/05/1985,Worcester,pink
+449000,3,2,1.06,Pepperell,1463,2261,20/07/1983,Middlesex,pink
+525000,4,2,0.51,Pepperell,1463,2126,11/01/2007,Middlesex,pink
+625000,4,2,1.79,Boxborough,1719,2018,04/09/1992,Middlesex,pink
+329900,3,1,0.96,Townsend,1469,1210,08/07/2002,Middlesex,pink
+5400000,6,10,1.38,Weston,2493,10000,21/08/2007,Middlesex,purple
+3500000,4,5,0.93,Weston,2493,4896,09/07/1992,Middlesex,dark purple
+1250000,6,4,1.71,Burlington,1803,3036,03/07/1996,Middlesex,dark purple
+349888,3,1,0.74,Shrewsbury,1545,1152,15/08/2003,Worcester,pink
+319900,3,1,0.2,Worcester,1605,935,20/11/2003,Worcester,pink
+544900,5,3,0.57,Shrewsbury,1545,1728,11/04/2005,Worcester,pink
+799900,4,3,0.94,Northborough,1532,3275,29/05/2002,Worcester,dark purple
+2795000,4,4,40.66,Shrewsbury,1545,2495,12/10/2010,Worcester,dark purple
+440000,3,2,0.12,Westborough,1581,1047,29/07/1983,Worcester,pink
+439000,3,1,0.5,Northborough,1532,1913,01/02/1978,Worcester,pink
+739000,4,4,0.53,Westborough,1581,3482,23/12/2003,Worcester,dark purple
+549000,3,2,1.01,Shrewsbury,1545,1632,27/09/1995,Worcester,pink
+779900,4,3,1.34,Shrewsbury,1545,2412,15/05/1989,Worcester,pink
+599000,4,2,0.2,Shrewsbury,1545,2640,28/09/1998,Worcester,pink
+425000,2,2,12.26,Northborough,1532,1640,03/06/2011,Worcester,pink
+699000,4,3,0.25,Westborough,1581,2088,29/04/1987,Worcester,pink
+699900,5,3,0.41,Westborough,1581,2721,01/10/2004,Worcester,dark purple
+649900,4,3,0.7,Shrewsbury,1545,2716,22/01/1988,Worcester,pink
+684900,3,3,9.38,Northborough,1532,2784,20/05/2016,Worcester,pink
+289900,3,2,0.2,Fitchburg,1420,1216,24/05/2007,Worcester,pink
+224900,3,2,0.71,Fitchburg,1420,1152,01/01/1968,Worcester,pink
+500000,3,2,0.99,Acton,1720,1988,21/02/1992,Middlesex,pink
+359000,3,3,0.09,Worcester,1604,1320,09/07/2004,Worcester,pink
+574900,4,3,0.42,Rutland,1543,2304,01/07/2002,Worcester,pink
+319900,2,2,0.13,Worcester,1606,888,28/05/2004,Worcester,pink
+889900,4,2,1.06,Sudbury,1776,2859,28/08/1996,Middlesex,pink
+630000,4,3,0.35,Shrewsbury,1545,2104,31/12/1985,Worcester,pink
+399900,3,2,0.34,Marlborough,1752,1252,21/02/1988,Middlesex,pink
+4695000,6,8,3.3,Concord,1742,9849,25/05/2006,Middlesex,purple
+699999,4,2,0.22,Shrewsbury,1545,2500,20/11/1995,Worcester,pink
+559900,4,2,0.15,Shrewsbury,1545,2421,27/04/2001,Worcester,pink
+1899000,5,5,1.19,Sudbury,1776,7044,11/04/2006,Middlesex,dark purple
+549900,4,3,0.23,Worcester,1602,2652,25/11/1986,Worcester,pink
+350000,5,2,0.61,Grafton,1536,1892,30/06/2006,Worcester,pink
+1365000,4,4,0.46,Concord,1742,2831,15/11/2019,Middlesex,dark purple
+500000,4,4,0.47,Grafton,1536,2784,01/06/1998,Worcester,dark purple
+378000,2,1,0.15,Ashland,1721,952,15/09/1995,Middlesex,pink
+450000,3,2,0.62,Southborough,1772,1356,06/11/1995,Worcester,pink
+639900,3,2,0.25,Southborough,1772,1824,30/09/2005,Worcester,pink
+1200000,4,4,0.88,Westborough,1581,4190,01/04/1994,Worcester,dark purple
+4995000,6,11,2.17,Sudbury,1776,13946,09/10/2007,Middlesex,purple
+609900,2,3,53.42,Upton,1568,2224,06/04/2021,Worcester,pink
+449000,3,1,0.68,Southborough,1772,1200,29/06/1994,Worcester,pink
+499900,4,3,0.42,Milford,1757,2104,18/03/1988,Worcester,pink
+425000,4,2,1.09,Uxbridge,1569,1596,20/08/2002,Worcester,pink
+535000,3,3,21.67,Grafton,1536,1846,06/10/2020,Worcester,pink
+599000,3,2,1.56,Framingham,1701,1620,02/06/2003,Middlesex,pink
+775000,3,2,0.9,Sudbury,1776,2092,31/05/2002,Middlesex,pink
+399000,5,2,1,Westborough,1581,2074,24/01/2002,Worcester,pink
+950000,4,5,1.24,Southborough,1772,5169,15/11/2000,Worcester,dark purple
+650000,5,4,1.15,Westborough,1581,3445,23/09/2002,Worcester,dark purple
+789900,5,4,0.56,Framingham,1702,5000,18/07/2007,Middlesex,dark purple
+850000,4,3,1.59,Hopkinton,1748,3030,16/07/1992,Middlesex,dark purple
+1090000,4,4,1.16,Sudbury,1776,4100,31/03/1993,Middlesex,dark purple
+4795000,3,4,109.22,Upton,1568,4770,24/09/1992,Worcester,purple
+780000,3,3,0.48,Wayland,1778,1894,25/04/2008,Middlesex,pink
+1699900,4,4,1.75,Hopkinton,1748,3900,16/10/1995,Middlesex,dark purple
+525000,3,1,0.42,Westborough,1581,1922,22/06/1998,Worcester,pink
+2600000,5,6,1,Sudbury,1776,8795,03/01/2001,Middlesex,dark purple
+529000,3,2,0.23,Framingham,1702,1476,01/02/1987,Middlesex,pink
+599900,3,2,0.21,Framingham,1702,1536,06/10/2003,Middlesex,pink
+599900,4,3,0.38,Hopkinton,1748,2124,02/03/1988,Middlesex,pink
+995000,3,2,0.46,Concord,1742,2003,05/09/2001,Middlesex,pink
+1548000,4,5,0.48,Concord,1742,3450,01/05/2003,Middlesex,dark purple
+475000,4,2,1.3,Douglas,1516,2167,19/12/2006,Worcester,pink
+649900,4,3,0.41,Framingham,1702,2819,28/04/2006,Middlesex,pink
+499900,3,2,0.21,Framingham,1701,1532,31/03/2009,Middlesex,pink
+875000,4,3,1,Framingham,1701,2868,01/07/1986,Middlesex,pink
+975000,4,3,1.53,Wayland,1778,2684,19/08/1994,Middlesex,pink
+7200000,6,12,7.11,Concord,1742,12806,30/06/1995,Middlesex,purple
+679900,4,3,0.46,Framingham,1701,1934,29/09/2006,Middlesex,pink
+3200000,4,5,1.84,Concord,1742,5158,28/01/1994,Middlesex,dark purple
+899900,5,4,0.42,Framingham,1701,4279,18/01/2000,Middlesex,dark purple
+659000,4,2,0.85,Westborough,1581,1948,27/06/2003,Worcester,pink
+349900,3,2,3.77,Northbridge,1534,1728,03/06/1991,Worcester,pink
+815000,3,3,0.11,Hopkinton,1748,2556,01/04/2004,Middlesex,pink
+689900,3,3,0.23,Framingham,1701,2073,13/12/2002,Middlesex,pink
+1579900,5,4,1.15,Hopkinton,1748,5291,16/08/2001,Middlesex,dark purple
+4975000,5,7,4.76,Wayland,1778,8401,10/03/1997,Middlesex,purple
+670000,4,3,0.92,Grafton,1560,2578,30/09/2005,Worcester,pink
+675000,4,3,0.95,Hopkinton,1748,2060,08/11/1993,Middlesex,pink
+1750000,4,4,0.46,Concord,1742,4202,16/08/1996,Middlesex,dark purple
+399900,3,2,0.65,Uxbridge,1569,1878,04/11/2003,Worcester,pink
+699900,4,4,1.05,Milford,1757,3764,02/05/1990,Worcester,dark purple
+469900,3,2,0.19,Ashland,1721,1084,01/06/1998,Middlesex,pink
+600000,4,2,0.69,Westborough,1581,1829,26/07/2005,Worcester,pink
+1295000,5,3,2.76,Lincoln,1773,3487,09/06/2000,Middlesex,dark purple
+615000,4,3,0.21,Framingham,1701,2137,01/06/1984,Middlesex,pink
+899000,3,3,4.74,Concord,1742,1809,31/08/1995,Middlesex,pink
+574900,3,3,0.67,Grafton,1560,3176,01/10/2003,Worcester,pink
+479900,3,3,0.23,Northbridge,1588,2240,20/06/1997,Worcester,pink
+320000,4,1,0.18,Northbridge,1588,1673,08/06/2009,Worcester,pink
+599900,3,2,0.32,Framingham,1701,2194,01/07/2005,Middlesex,pink
+675000,4,2,0.29,Westborough,1581,2317,02/12/1997,Worcester,pink
+615000,4,2,1.16,Ashland,1721,1632,31/07/2009,Middlesex,pink
+1095000,3,3,0.14,Concord,1742,2047,21/03/2001,Middlesex,pink
+324900,2,1,0.11,Worcester,1606,908,13/02/2018,Worcester,pink
+330000,2,2,0.45,Upton,1568,1492,14/12/2010,Worcester,pink
+449900,3,2,2.03,Sutton,1590,2043,04/06/2002,Worcester,pink
+289000,2,1,0.35,Oxford,1537,1056,10/04/2008,Worcester,pink
+279900,2,2,0.1,Worcester,1603,1330,01/04/2005,Worcester,pink
+309900,2,2,0.23,Auburn,1501,1000,04/08/2008,Worcester,pink
+499900,3,3,0.18,Upton,1568,2133,24/06/1993,Worcester,pink
+799000,2,2,0.05,Concord,1742,1112,04/09/2008,Middlesex,pink
+850000,4,4,1.22,Hopkinton,1748,2292,08/06/1989,Middlesex,dark purple
+549900,4,3,0.49,Northbridge,1588,1888,14/10/2008,Worcester,pink
+299000,3,2,0.27,Worcester,1607,1302,06/07/2005,Worcester,pink
+849500,4,3,0.46,Framingham,1701,2762,28/02/2008,Middlesex,pink
+1295000,4,3,0.67,Sudbury,1776,4335,01/08/2005,Middlesex,dark purple
+1299900,4,3,0.58,Wayland,1778,2805,31/08/1992,Middlesex,dark purple
+6250000,6,7,2.28,Weston,2493,12544,01/04/2008,Middlesex,purple
+1799900,4,4,0.62,Burlington,1803,4297,23/08/2005,Middlesex,dark purple
+5295000,6,8,1.44,Weston,2493,10016,22/05/1996,Middlesex,purple
+8499000,5,9,2.17,Weston,2493,8809,18/08/2006,Middlesex,purple
+3500000,6,8,0.37,Lexington,2420,6687,29/12/2005,Middlesex,purple
+3849000,7,9,0.71,Lexington,2420,6662,11/01/1999,Middlesex,purple
+9995000,6,10,2.62,Weston,2493,11942,12/10/2006,Middlesex,purple
+4288000,6,8,0.79,Lexington,2420,6800,14/07/1997,Middlesex,purple
+2650000,6,4,3.5,Lexington,2420,3041,22/11/2005,Middlesex,dark purple
+799900,3,3,0.46,Burlington,1803,1942,21/09/2004,Middlesex,pink
+619000,4,2,0.3,Burlington,1803,1766,28/10/1991,Middlesex,pink
+1390000,4,4,1.16,Lincoln,1773,4515,27/03/1987,Middlesex,dark purple
+1245000,3,3,0.48,Winchester,1890,2168,25/06/2007,Middlesex,pink
+1475000,4,3,0.93,Concord,1742,4450,08/07/1997,Middlesex,dark purple
+624900,2,3,5.5,Bedford,1730,1706,21/11/2006,Middlesex,pink
+5795000,5,8,1.38,Weston,2493,7146,17/07/2008,Middlesex,purple
+724900,3,2,0.47,Burlington,1803,1911,29/05/1992,Middlesex,pink
+1299000,4,5,0.32,Woburn,1801,4323,22/07/1998,Middlesex,dark purple
+1399000,4,3,0.51,Lexington,2421,2361,16/07/2021,Middlesex,pink
+1999000,4,4,0.98,Winchester,1890,4662,15/07/1993,Middlesex,dark purple
+1896000,6,5,0.98,Bedford,1730,4828,27/10/1995,Middlesex,dark purple
+3200000,5,9,4.32,Lincoln,1773,14600,05/09/1997,Middlesex,purple
+1195000,3,3,0.09,Lexington,2420,1880,29/07/2002,Middlesex,pink
+1629000,8,5,2.5,Bedford,1730,4952,17/08/1999,Middlesex,dark purple
+629900,3,3,0.07,Waltham,2451,2374,31/07/2007,Middlesex,pink
+1699900,4,4,0.24,Woburn,1801,4200,01/07/1985,Middlesex,dark purple
+679900,3,2,0.72,Burlington,1803,2070,27/06/2002,Middlesex,pink
+649000,3,2,0.11,Waltham,2453,1352,23/12/2002,Middlesex,pink
+1575000,4,3,0.36,Lexington,2421,4000,30/10/1995,Middlesex,dark purple
+3248000,7,5,0.39,Lexington,2420,6682,01/07/1968,Middlesex,dark purple
+1800000,4,3,0.64,Lexington,2420,3623,19/02/2008,Middlesex,dark purple
+18899000,9,9,18.48,Weston,2493,12589,05/09/2000,Middlesex,purple
+1780000,5,4,0.46,Waltham,2452,5481,06/06/2008,Middlesex,dark purple
+1748000,5,4,0.23,Bedford,1730,4312,06/06/1997,Middlesex,dark purple
+2450000,6,8,0.15,Lexington,2420,5000,15/12/1988,Middlesex,dark purple
+574900,3,2,0.28,Lowell,1851,1400,25/05/1999,Middlesex,pink
+1899999,4,4,0.46,Burlington,1803,5050,11/06/1987,Middlesex,dark purple
+439900,2,1,0.07,Waltham,2451,1049,31/12/1993,Middlesex,pink
+829900,3,2,0.38,Waltham,2452,2526,15/11/1999,Middlesex,pink
+1695000,4,4,1.1,Waltham,2452,4395,08/12/1997,Middlesex,dark purple
+639900,4,2,2.3,Billerica,1821,2602,06/11/1992,Middlesex,pink
+664900,4,3,1,Tewksbury,1876,2128,28/04/1983,Middlesex,pink
+1150000,4,3,0.42,Lexington,2421,3224,26/06/2000,Middlesex,dark purple
+789900,4,2,0.24,Woburn,1801,1638,16/09/1996,Middlesex,pink
+589900,4,2,0.61,Billerica,1821,1823,29/01/1999,Middlesex,pink
+829000,4,3,0.92,Bedford,1730,2235,30/04/1980,Middlesex,pink
+939000,3,3,0.35,Winchester,1890,2342,01/07/1981,Middlesex,pink
+629900,3,2,0.54,Burlington,1803,1350,21/12/2012,Middlesex,pink
+1399000,4,2,0.39,Winchester,1890,2760,06/07/2006,Middlesex,pink
+899000,4,4,0.69,Bedford,1730,2514,02/08/2004,Middlesex,dark purple
+1800000,4,5,0.92,Natick,1760,6300,20/08/2008,Middlesex,dark purple
+980000,3,2,0.15,Wellesley,2482,1965,22/07/2005,Norfolk,pink
+580000,3,2,0.16,Framingham,1702,1976,28/03/1997,Middlesex,pink
+1390000,5,3,0.74,Natick,1760,3715,11/03/2005,Middlesex,dark purple
+2700000,6,6,1.53,Weston,2493,6299,18/09/2007,Middlesex,dark purple
+5750000,6,7,2.11,Weston,2493,8000,16/12/1992,Middlesex,purple
+679900,3,3,0.28,Natick,1760,1706,30/06/2004,Middlesex,pink
+539900,2,1,0.15,Natick,1760,1332,30/11/2007,Middlesex,pink
+379900,2,2,0,Tewksbury,1876,1026,28/04/2020,Middlesex,pink
+1399990,4,3,0.35,Natick,1760,3350,28/09/1998,Middlesex,dark purple
+629900,4,3,0.94,Dracut,1826,2316,25/07/1997,Middlesex,pink
+379900,2,1,0.15,Lowell,1852,768,02/05/2005,Middlesex,pink
+695000,4,4,0.39,Ashland,1721,2965,28/10/1988,Middlesex,dark purple
+1575000,4,4,0.25,Wellesley,2481,2813,27/07/2004,Norfolk,dark purple
+599900,3,2,0.3,Southborough,1772,1824,17/12/2003,Worcester,pink
+599800,3,2,0.28,Framingham,1701,1737,13/11/2008,Middlesex,pink
+1499000,4,4,0.74,Natick,1760,3869,16/08/1989,Middlesex,dark purple
+599999,5,3,0.12,Lowell,1850,4019,01/11/2001,Middlesex,dark purple
+799000,3,2,0.19,Natick,1760,1790,15/09/2008,Middlesex,pink
+1025000,4,2,0.23,Wellesley,2482,1612,03/05/2004,Norfolk,pink
+759900,2,3,0.3,Natick,1760,1849,21/08/2003,Middlesex,pink
+2050000,4,3,0.54,Wellesley,2481,3996,30/11/2009,Norfolk,dark purple
+899000,4,3,0.33,Wayland,1778,2736,31/08/2000,Middlesex,pink
+1550000,5,4,0.28,Natick,1760,4014,29/12/1987,Middlesex,dark purple
+1679000,4,3,1.18,Wayland,1778,3440,26/09/1997,Middlesex,dark purple
+449900,3,1,0.2,Lowell,1850,1156,14/12/2007,Middlesex,pink
+1600000,4,2,3.33,Methuen,1844,5056,01/08/1984,Essex,dark purple
+599900,3,2,1.03,Tewksbury,1876,1372,14/07/1972,Middlesex,pink
+599900,3,2,0.95,Methuen,1844,1826,31/10/1991,Essex,pink
+419000,2,2,0,Tewksbury,1876,1240,28/09/2007,Middlesex,pink
+879900,3,4,0.76,Billerica,1821,2509,22/10/2007,Middlesex,pink
+549000,4,2,0.34,Billerica,1821,2146,28/07/2006,Middlesex,pink
+374900,3,3,2.27,Blackstone,1504,1740,04/11/2004,Worcester,pink
+439900,3,2,0.62,Holden,1520,1591,27/02/1997,Worcester,pink
+630000,9,3,0.13,Worcester,1610,3702,04/06/2003,Worcester,dark purple
+409000,3,2,0.23,Worcester,1604,1542,24/09/2002,Worcester,pink
+899000,4,4,0.6,Shrewsbury,1545,2867,13/01/1999,Worcester,dark purple
+699900,4,4,0.47,Holden,1520,2424,15/08/1988,Worcester,dark purple
+359900,3,1,0.33,Douglas,1516,1196,27/10/2008,Worcester,pink
+474900,3,3,2.09,Douglas,1516,1944,12/11/1997,Worcester,pink
+879000,6,5,1.09,Douglas,1516,5019,16/05/1996,Worcester,dark purple
+429900,3,2,0.89,Uxbridge,1569,1873,01/06/2007,Worcester,pink
+575000,3,3,1.22,Grafton,1560,2674,28/09/1995,Worcester,pink
+519000,4,2,0.72,Hopedale,1747,2326,14/09/1982,Worcester,pink
+479000,3,2,0.15,Northbridge,1588,1641,29/05/1998,Worcester,pink
+639900,4,4,0.74,Mendon,1756,4130,31/05/2002,Worcester,dark purple
+525000,3,2,0.28,Milford,1757,2990,31/05/2005,Worcester,pink
+465000,3,2,0.11,Milford,1757,1257,11/04/1990,Worcester,pink
+529000,4,3,0.25,Milford,1757,2400,28/03/2008,Worcester,pink
+549900,4,3,0.5,Hopedale,1747,2735,08/07/1998,Worcester,pink
+330000,5,2,0.15,Milford,1757,1536,05/03/1986,Worcester,pink
+565000,3,3,2.82,Uxbridge,1569,2868,27/05/2005,Worcester,pink
+849900,5,4,2.08,Mendon,1756,4130,28/02/2008,Worcester,dark purple
+230000,3,1,0.08,Milford,1757,856,01/08/2000,Worcester,pink
+1150000,5,4,2.25,Grafton,1536,4574,11/04/2005,Worcester,dark purple
+679900,4,3,0.91,Hopedale,1747,3118,25/05/2000,Worcester,dark purple
+379900,2,2,0.2,Milford,1757,1364,02/08/2004,Worcester,pink
+739000,3,3,3.57,Sutton,1590,2700,15/07/2004,Worcester,pink
+349900,1,2,0.17,Webster,1570,1680,27/08/1997,Worcester,pink
+200000,4,2,0.18,Webster,1570,1313,03/08/1999,Worcester,pink
+379900,4,2,0.41,Webster,1570,1896,24/08/1994,Worcester,pink
+465000,3,3,1.17,Oxford,1540,2037,24/08/1989,Worcester,pink
+724900,3,2,0.17,Webster,1570,2406,30/07/2004,Worcester,pink
+419900,3,3,0.37,Webster,1570,1810,01/02/2006,Worcester,pink
+999900,5,6,1.21,Ashland,1721,5504,15/12/2006,Middlesex,dark purple
+325000,4,3,0.23,Webster,1570,2009,24/12/2001,Worcester,pink
+499000,5,3,0.23,Webster,1570,2400,20/05/2004,Worcester,dark purple
+499000,3,2,0.31,Maynard,1754,1440,01/10/2007,Middlesex,pink
+699000,4,3,0.92,North Attleboro,2760,2700,04/03/2005,,pink
+450000,3,3,0.57,Oxford,1540,1609,30/09/2004,Worcester,pink
+449900,9,3,0.12,Southbridge,1550,3768,18/06/2004,Worcester,dark purple
+599000,3,3,1.06,Milford,1757,2857,10/11/2006,Worcester,pink
+1200000,4,4,1.01,Medway,2053,4000,03/08/2005,Norfolk,dark purple
+329000,3,2,0.07,Holliston,1746,1619,29/05/2009,Middlesex,pink
+850000,5,4,1.5,Norfolk,2056,3203,17/10/1966,Norfolk,dark purple
+979900,3,3,1.55,Medway,2053,3024,29/04/2003,Norfolk,pink
+800000,4,3,1.76,Franklin,2038,3240,27/08/1992,Norfolk,dark purple
+568900,3,2,0.92,Franklin,2038,1568,23/10/2009,Norfolk,pink
+575000,3,2,1.63,Franklin,2038,1344,14/07/2006,Norfolk,pink
+789000,4,3,0.77,Franklin,2038,3576,08/12/1995,Norfolk,dark purple
+929900,4,4,0.52,Medway,2053,3697,16/05/2006,Norfolk,dark purple
+959900,4,3,0.48,Franklin,2038,3745,23/08/2004,Norfolk,dark purple
+360000,2,1,0.44,Holliston,1746,844,26/06/1986,Middlesex,pink
+1099000,4,5,6.1,Sherborn,1770,4530,24/06/1983,Middlesex,dark purple
+899900,3,3,1.98,Sherborn,1770,3117,17/12/2007,Middlesex,pink
+439900,4,2,0.19,Ashland,1721,2281,31/08/1999,Middlesex,pink
+879000,4,3,0.72,Holliston,1746,3036,27/11/2002,Middlesex,dark purple
+1250000,3,4,2.09,Sherborn,1770,3525,01/12/1998,Middlesex,dark purple
+384800,3,2,0.32,Bellingham,2019,1514,02/04/2004,Norfolk,pink
+2250000,5,6,2.83,Franklin,2038,8000,20/04/2007,Norfolk,dark purple
+309900,2,1,0.06,Bellingham,2019,990,16/04/2004,Norfolk,pink
+349900,3,1,0.25,Wrentham,2093,1145,10/11/1999,Norfolk,pink
+799900,4,3,0.47,Franklin,2038,2152,11/03/1999,Norfolk,pink
+579900,4,3,0.7,Franklin,2038,1918,28/03/2003,Norfolk,pink
+349000,2,2,0.57,Bellingham,2019,1069,31/01/1996,Norfolk,pink
+10000,4,2,8.8,Wrentham,2093,3281,24/12/2003,Norfolk,pink
+975000,4,3,0.92,Franklin,2038,4240,16/12/1998,Norfolk,dark purple
+1499900,4,4,0.68,North Attleboro,2760,4967,26/03/2003,,dark purple
+370000,3,1,0.22,Plainville,2762,998,30/11/1973,Norfolk,pink
+499900,3,2,0.34,Franklin,2038,967,29/04/2021,Norfolk,pink
+429999,3,1,0.47,Bellingham,2019,1750,12/04/2004,Norfolk,pink
+299900,2,2,0.16,North Attleboro,2760,759,01/04/1987,,pink
+430000,3,1,1.49,Wrentham,2093,1044,22/01/2010,Norfolk,pink
+339900,3,1,0.09,Franklin,2038,1260,23/06/1971,Norfolk,pink
+500000,4,2,0.92,Bellingham,2019,1703,01/12/2003,Norfolk,pink
+325000,2,2,0.43,Bellingham,2019,1563,12/08/2019,Norfolk,pink
+499900,3,2,0.6,North Attleboro,2760,1692,15/11/1984,,pink
+625000,3,2,1.36,Franklin,2038,1809,06/09/1977,Norfolk,pink
+2285000,4,5,17.61,Sherborn,1770,5287,29/01/1992,Middlesex,dark purple
+1599000,4,3,2.21,Dover,2030,3649,26/05/2006,Norfolk,dark purple
+1250000,4,3,0.93,Natick,1760,3140,14/06/2002,Middlesex,dark purple
+980000,4,3,0.62,Natick,1760,2546,28/06/1996,Middlesex,pink
+599000,3,2,2.49,Seekonk,2771,3060,25/04/2005,Bristol,pink
+1399999,4,4,6.53,Norfolk,2056,5100,16/10/1986,Norfolk,dark purple
+374900,3,1,0.14,Seekonk,2771,1456,09/08/1999,Bristol,pink
+545900,4,2,6.7,Foxboro,2035,1476,14/12/2005,,pink
+420000,5,2,0.25,Attleboro,2703,1966,24/12/2008,Bristol,pink
+280000,3,1,0.11,Seekonk,2771,1337,30/04/1991,Bristol,pink
+485000,3,2,0.37,Attleboro,2703,2004,21/06/1999,Bristol,pink
+5895000,5,9,6.7,Dover,2030,13185,07/11/2000,Norfolk,purple
+449000,3,2,0.34,Seekonk,2771,1788,05/10/1998,Bristol,pink
+615000,2,2,0.13,Medfield,2052,1644,07/12/2001,Norfolk,pink
+675900,4,3,0.37,Attleboro,2703,3000,28/12/2007,Bristol,pink
+5900000,7,8,6.3,Dover,2030,9986,28/03/1997,Norfolk,purple
+1039000,4,3,3.91,Norfolk,2056,3470,02/11/1993,Norfolk,dark purple
+455900,4,3,0.34,North Attleboro,2760,1170,01/08/1988,,pink
+575000,3,2,5.05,Attleboro,2703,1672,28/11/2003,Bristol,pink
+4595000,6,6,1.04,Weston,2493,7412,30/03/2007,Middlesex,purple
+429000,3,1,0.37,Attleboro,2703,1471,02/09/1997,Bristol,pink
+500000,5,2,0.29,Attleboro,2703,2200,10/01/2003,Bristol,pink
+1149000,5,4,1.27,Medfield,2052,4105,28/11/2005,Norfolk,dark purple
+349000,3,2,14,North Attleboro,2760,1545,17/05/2007,,pink
+499000,4,2,0.66,Seekonk,2771,2085,26/10/1999,Bristol,pink
+379900,2,1,0.28,Attleboro,2703,1140,07/05/2009,Bristol,pink
+3595000,6,4,0.89,Wellesley,2481,5059,30/10/1998,Norfolk,dark purple
+2995000,5,5,0.48,Wellesley,2481,6164,16/05/2008,Norfolk,dark purple
+459900,4,1,0.48,North Attleboro,2760,1800,30/09/1999,,pink
+379900,3,2,0.26,North Attleboro,2760,1202,30/11/1998,,pink
+379900,3,1,0.44,Attleboro,2703,1667,28/02/1994,Bristol,pink
+499500,3,1,0.63,Wrentham,2093,1198,02/08/1991,Norfolk,pink
+1700000,4,5,0.92,Seekonk,2771,4178,13/07/2006,Bristol,dark purple
+2195000,4,5,0.75,Wellesley,2481,3252,31/10/1997,Norfolk,dark purple
+474900,4,2,0.26,Attleboro,2703,1894,26/07/2006,Bristol,pink
+449900,3,1,0.48,Seekonk,2771,1417,09/06/2005,Bristol,pink
+749900,3,3,0.92,Seekonk,2771,3170,15/09/2009,Bristol,pink
+475000,2,1,0.23,Medfield,2052,809,21/08/1986,Norfolk,pink
+250000,2,1,0.29,Attleboro,2703,739,27/04/1994,Bristol,pink
+599900,3,3,1.07,North Attleboro,2760,1562,14/05/2004,,pink
+525000,3,2,0.3,Attleboro,2703,1732,29/05/2009,Bristol,pink
+429900,3,1,0.17,Attleboro,2703,1044,25/03/1991,Bristol,pink
+1049900,4,3,0.92,Medfield,2052,3610,23/03/1990,Norfolk,dark purple
+699000,5,3,2.5,Seekonk,2771,3088,29/07/2004,Bristol,dark purple
+649900,3,3,1.8,Seekonk,2771,2641,01/04/2004,Bristol,pink
+595000,4,2,0.39,Attleboro,2703,2292,18/01/1995,Bristol,pink
+450000,4,2,1.1,Seekonk,2771,2241,05/05/2000,Bristol,pink
+699900,3,3,0.39,Seekonk,2771,2914,02/05/2006,Bristol,pink
+850000,4,2,0.18,Wellesley,2482,1876,01/12/1982,Norfolk,pink
+389900,3,1,0.29,North Attleboro,2760,1152,29/09/2008,,pink
+799000,4,4,0.29,North Attleboro,2760,3722,25/11/2009,,dark purple
+535000,3,2,0.34,Wrentham,2093,1968,15/12/2006,Norfolk,pink
+725000,3,3,0.32,Franklin,2038,2288,12/08/1971,Norfolk,pink
+649900,4,3,0.37,Milford,1757,2255,28/06/1994,Worcester,pink
+399900,3,1,0.09,Framingham,1702,1402,01/08/1989,Middlesex,pink
+835000,4,3,0.72,Andover,1810,2855,09/10/1987,Essex,pink
+650000,1,1,0.02,Boston,2135,688,01/06/2018,Suffolk,pink
+739000,2,1,0.03,Boston,2130,1250,30/08/2007,Suffolk,pink
+1200000,9,3,0.09,Boston,2131,3204,06/08/1998,Suffolk,dark purple
+3700000,7,7,0.81,Newton,2458,8542,08/12/1995,Middlesex,purple
+1659000,4,3,0.17,Needham,2492,2900,16/10/1998,Norfolk,dark purple
+2250000,5,5,0.37,Winchester,1890,5677,31/10/1983,Middlesex,dark purple
+1250000,4,3,2.01,Carlisle,1741,3279,01/08/2000,Middlesex,dark purple
+565000,3,3,0.23,Holliston,1746,1722,28/11/2006,Middlesex,pink
+499000,6,3,0.08,Attleboro,2703,3300,11/06/2003,Bristol,dark purple
+498000,7,4,0.22,Lawrence,1841,2484,29/09/2009,Essex,dark purple
+389999,4,2,0.12,Lawrence,1841,1071,10/08/1995,Essex,pink
+609900,6,4,0.14,Lawrence,1841,2128,19/04/2006,Essex,dark purple
+460000,3,2,0.1,North Andover,1845,1087,24/03/2006,Essex,pink
+6395000,6,11,5.8,Weston,2493,18235,07/05/2007,Middlesex,purple
+489900,3,2,0.11,Saugus,1906,1792,31/05/2005,Essex,pink
+14000000,6,10,1.43,Wellesley,2481,14000,18/05/2009,Norfolk,purple
+4999999,5,4,0.04,Boston,2115,3737,14/04/1994,Suffolk,dark purple
+575000,5,2,0.14,Woburn,1801,2567,27/10/1997,Middlesex,pink
+499000,3,2,0.34,Rehoboth,2769,1812,05/09/2003,Bristol,pink
+339800,3,2,1,Attleboro,2703,1308,12/11/2010,Bristol,pink
+399900,3,1,0.44,Attleboro,2703,1144,28/04/2000,Bristol,pink
+699900,4,3,0.48,Attleboro,2703,2146,29/06/2006,Bristol,pink
+750000,3,2,2.3,North Attleboro,2760,1704,28/04/1998,,pink
+300000,3,2,0.99,Norton,2766,1960,01/06/1990,Bristol,pink
+524900,4,2,0.22,Attleboro,2703,1984,09/06/2009,Bristol,pink
+600000,3,3,0.25,North Attleboro,2760,2400,31/10/1997,,pink
+695000,3,3,0.68,Mansfield,2048,2146,10/08/2001,Bristol,pink
+670000,4,3,0.69,Norfolk,2056,2560,01/05/2002,Norfolk,pink
+1400000,5,5,0.98,Norfolk,2056,4618,19/09/2002,Norfolk,dark purple
+399900,3,1,0.3,Attleboro,2703,1280,06/12/2021,Bristol,pink
+599900,4,2,0.79,Norfolk,2056,2080,16/07/2019,Norfolk,pink
+639900,6,2,0.1,Malden,2148,2110,14/12/1998,Middlesex,dark purple
+4200000,3,5,0.03,Boston,2108,3177,30/11/2001,Suffolk,dark purple
+8500000,9,11,2.83,Newton,2458,12437,15/08/1995,Middlesex,purple
+4995000,6,7,1.26,Belmont,2478,7801,25/03/1991,Middlesex,purple
+7800000,6,10,1.22,Andover,1810,19311,01/03/2000,Essex,purple
+759000,4,3,0.21,Wakefield,1880,2660,06/07/2007,Middlesex,pink
+750000,2,1,0.02,Boston,2115,862,03/01/2007,Suffolk,pink
+15300000,7,7,0.64,Cambridge,2138,5709,22/10/1982,Middlesex,purple
+4800000,5,7,0.66,Belmont,2478,5922,17/08/1993,Middlesex,purple
+1500000,5,5,0.28,Newton,2458,2952,28/02/2006,Middlesex,dark purple
+5850000,5,6,1.37,Weston,2493,7500,17/01/1997,Middlesex,purple
+1800000,7,6,0.24,Boston,2135,3732,31/05/2005,Suffolk,dark purple
+3750000,2,3,0.04,Boston,2116,1905,30/05/2014,Suffolk,pink
+798000,4,2,0.04,Somerville,2145,1319,01/11/1996,Middlesex,pink
+575000,1,2,17.48,Newton,2467,899,20/01/2004,Middlesex,pink
+859999,4,3,0.19,Medford,2155,2411,30/07/2019,Middlesex,pink
+5800000,6,5,0.13,Cambridge,2138,5432,04/11/1991,Middlesex,dark purple
+3250000,3,3,0.05,Boston,2116,2323,06/06/2003,Suffolk,pink
+2200000,2,2,0.23,Boston,2116,1339,15/12/2006,Suffolk,pink
+3245000,3,3,0.44,Brookline,2446,2556,02/10/1984,Norfolk,pink
+679000,1,1,0.01,Boston,2108,519,22/04/2011,Suffolk,pink
+741500,2,2,0.03,Boston,2114,1296,10/09/1987,Suffolk,pink
+699000,4,2,0.03,Somerville,2145,1192,15/10/2004,Middlesex,pink
+849900,2,2,0.05,Somerville,2145,1450,12/12/2005,Middlesex,pink
+760000,4,3,0.58,Wakefield,1880,2716,24/10/2011,Middlesex,pink
+2495000,8,7,2.27,Andover,1810,9017,26/11/2003,Essex,purple
+3250000,3,2,0.05,Boston,2108,2200,03/06/2004,Suffolk,pink
+4399000,5,5,0.13,Brookline,2446,4973,01/07/1971,Norfolk,dark purple
+850000,2,2,1,Medford,2155,1226,08/11/2001,Middlesex,pink
+1849900,4,3,0.31,Watertown,2472,2800,07/06/2019,Middlesex,dark purple
+479000,2,2,0.23,Chelsea,2150,738,17/06/2019,Suffolk,pink
+1329990,4,2,0.07,Cambridge,2140,1380,29/05/1991,Middlesex,pink
+2890000,11,6,0.14,Cambridge,2139,4386,08/05/1986,Middlesex,dark purple
+4495000,7,8,0.43,Newton,2465,6383,16/07/2008,Middlesex,purple
+1235000,3,3,0.05,Boston,2135,3300,04/12/2008,Suffolk,pink
+1080000,5,3,0.07,Cambridge,2139,2349,04/04/2006,Middlesex,dark purple
+649000,1,1,0.01,Boston,2215,620,15/05/2007,Suffolk,pink
+1425000,8,6,0.17,Arlington,2476,3653,15/05/1998,Middlesex,dark purple
+1100000,3,3,0.06,Medford,2155,1836,14/08/2009,Middlesex,pink
+1299000,6,3,0.07,Somerville,2143,3357,22/04/1987,Middlesex,dark purple
+1799000,7,3,0.06,Cambridge,2139,2340,27/02/1976,Middlesex,dark purple
+1250000,2,1,0.06,Cambridge,2141,1120,13/03/1970,Middlesex,pink
+1049900,4,1,0.03,Cambridge,2141,1400,08/04/1986,Middlesex,pink
+624900,1,1,0.02,Boston,2114,908,28/01/2011,Suffolk,pink
+4499000,5,6,0.74,Newton,2468,6119,11/03/2003,Middlesex,dark purple
+1525000,4,3,0.26,Winchester,1890,2868,28/07/1995,Middlesex,dark purple
+3199000,8,6,0.11,Brookline,2445,5217,20/11/1992,Norfolk,dark purple
+3999900,5,7,0.36,Belmont,2478,7445,30/12/1977,Middlesex,purple
+4350000,7,5,0.18,Brookline,2446,5055,30/12/2003,Norfolk,dark purple
+629900,5,3,0.11,Revere,2151,3200,14/02/2007,Suffolk,dark purple
+949900,6,4,0.17,Malden,2148,3808,07/05/1992,Middlesex,dark purple
+787787,2,1,0.02,Boston,2115,884,04/02/1994,Suffolk,pink
+449000,2,1,0.01,Boston,2135,649,09/03/2022,Suffolk,pink
+1200000,4,3,0.46,Wilmington,1887,3736,10/10/2008,Middlesex,dark purple
+789888,6,2,0.12,Everett,2149,2152,15/09/2009,Middlesex,dark purple
+595000,2,1,4.04,Newton,2467,959,12/08/2019,Middlesex,pink
+999999,4,3,0.57,Wakefield,1880,2375,17/05/1984,Middlesex,pink
+1550000,4,3,0.09,Brookline,2445,1942,25/06/2020,Norfolk,pink
+3350000,3,3,0.05,Boston,2116,2220,14/12/1995,Suffolk,pink
+2499000,12,6,0.1,Brookline,2445,4473,01/08/2007,Norfolk,dark purple
+549900,2,1,1.73,Newton,2460,731,10/01/2022,Middlesex,pink
+7500000,4,6,1.57,Newton,2468,8614,30/09/1987,Middlesex,purple
+3550000,6,8,0.07,Brookline,2446,4514,01/11/2019,Norfolk,dark purple
+1500000,3,4,0.26,Newton,2458,2654,30/04/2002,Middlesex,pink
+829000,2,2,17.48,Newton,2467,1285,26/04/2012,Middlesex,pink
+4500000,6,6,0.41,Newton,2459,5429,01/11/1999,Middlesex,dark purple
+928000,3,2,0.08,Somerville,2145,1005,31/08/2004,Middlesex,pink
+435000,3,1,0.05,Wakefield,1880,952,24/10/1986,Middlesex,pink
+1025000,2,2,0.03,Cambridge,2138,1643,08/12/1993,Middlesex,pink
+9500000,7,8,0.86,Brookline,2445,9500,03/05/2000,Norfolk,purple
+949900,3,2,0.38,Andover,1810,2230,08/03/2002,Essex,pink
+2399000,5,5,0.4,Winchester,1890,5353,10/07/2007,Middlesex,dark purple
+1250000,7,4,0.11,Medford,2155,3373,04/11/2016,Middlesex,dark purple
+734900,4,2,0.25,Reading,1867,2241,30/08/2004,Middlesex,pink
+579000,4,1,0.03,Boston,2135,1266,13/07/2011,Suffolk,pink
+680000,3,2,0.39,Wakefield,1880,1946,22/11/1985,Middlesex,pink
+849000,5,2,0.11,Malden,2148,2571,04/08/1999,Middlesex,pink
+944900,5,2,0.07,Watertown,2472,2550,31/10/1985,Middlesex,pink
+3750000,5,4,0.4,Brookline,2445,4433,16/04/1997,Norfolk,dark purple
+659000,2,1,0.11,Watertown,2472,1217,18/09/2003,Middlesex,pink
+499900,5,2,0.05,Chelsea,2150,1598,29/08/1997,Suffolk,pink
+8850000,7,9,0.99,Brookline,2445,9300,08/01/2004,Norfolk,purple
+579000,1,1,0.02,Boston,2215,659,20/04/2010,Suffolk,pink
+2500000,4,4,0.04,Boston,2129,3000,02/10/2002,Suffolk,dark purple
+639900,3,1,0.2,Wakefield,1880,1600,28/05/2010,Middlesex,pink
+719900,4,2,0.38,North Andover,1845,2218,28/10/2021,Essex,pink
+869000,3,2,0.23,Newton,2461,1980,01/07/1994,Middlesex,pink
+589000,2,2,0.13,Belmont,2478,1035,30/09/1996,Middlesex,pink
+705000,4,2,0.07,Everett,2149,1856,27/05/2005,Middlesex,pink
+985000,9,3,0.11,Everett,2149,3864,30/10/2008,Middlesex,dark purple
+809999,3,2,0.09,Arlington,2476,1470,15/01/2003,Middlesex,pink
+745900,3,3,0.23,Stoneham,2180,2765,18/08/1997,Middlesex,pink
+699000,5,2,0.08,Everett,2149,2624,05/10/2005,Middlesex,pink
+719900,4,2,0.07,Malden,2148,2159,30/06/1997,Middlesex,pink
+3500000,5,5,0.52,Brookline,2467,3913,14/10/2004,Norfolk,dark purple
+6000000,7,6,0.52,Newton,2468,9326,27/11/2006,Middlesex,purple
+4950000,5,5,0.05,Boston,2114,4318,28/05/2008,Suffolk,dark purple
+14000000,7,11,0.29,Cambridge,2138,9080,25/09/1992,Middlesex,purple
+989900,3,2,0.13,Winchester,1890,2759,01/09/1988,Middlesex,pink
+500000,2,2,0.09,Revere,2151,1286,15/12/1993,Suffolk,pink
+1699000,4,3,0.23,Winchester,1890,2957,04/05/1982,Middlesex,dark purple
+495000,2,1,0.05,Malden,2148,908,13/06/1995,Middlesex,pink
+1799000,5,4,0.3,Winchester,1890,3129,15/03/2000,Middlesex,dark purple
+1349900,9,3,0.11,Somerville,2145,3171,01/04/2002,Middlesex,dark purple
+2500000,3,3,0.14,Cambridge,2138,2200,01/09/2006,Middlesex,pink
+3100000,6,5,0.19,Brookline,2446,4357,23/08/2001,Norfolk,dark purple
+599900,3,2,0.03,Malden,2148,1612,03/02/2012,Middlesex,pink
+699900,4,2,0.08,Waltham,2452,2176,28/12/2004,Middlesex,pink
+899900,6,2,0.06,Medford,2155,2424,25/05/2000,Middlesex,dark purple
+699500,6,3,0.06,Everett,2149,2704,08/06/1999,Middlesex,dark purple
+1999900,4,5,0.28,Belmont,2478,3431,15/08/2006,Middlesex,dark purple
+8250000,3,4,0.07,Boston,2116,2864,30/08/2000,Suffolk,dark purple
+895000,4,2,0.13,Medford,2155,1924,19/04/2005,Middlesex,pink
+1365000,3,2,0.02,Boston,2114,1070,09/08/2004,Suffolk,pink
+2900000,5,5,2.3,Brookline,2446,3531,18/07/2003,Norfolk,dark purple
+1650000,3,4,3.33,Newton,2459,3146,15/02/2002,Middlesex,dark purple
+1750000,4,4,0.93,Newton,2460,2220,15/06/2012,Middlesex,dark purple
+514900,4,2,0.34,Tewksbury,1876,1472,29/01/2008,Middlesex,pink
+499900,2,1,1,Methuen,1844,714,01/10/1984,Essex,pink
+629000,3,2,0.35,North Reading,1864,1800,31/05/2007,Middlesex,pink
+889900,4,3,0.76,Andover,1810,2486,30/10/2003,Essex,pink
+1089000,4,4,0.25,Reading,1867,3131,27/09/2002,Middlesex,dark purple
+1995000,4,3,0.03,Cambridge,2139,3126,26/06/1998,Middlesex,dark purple
+399000,1,1,0.01,Boston,2134,578,03/06/2013,Suffolk,pink
+749900,3,2,0.07,Malden,2148,1800,01/02/2002,Middlesex,pink
+1675000,6,3,0.08,Somerville,2144,3231,02/08/2005,Middlesex,dark purple
+1179000,6,3,0.33,Medford,2155,3236,31/01/1997,Middlesex,dark purple
+799000,5,2,0.09,Malden,2148,2080,31/05/1991,Middlesex,pink
+599000,2,1,0.02,Boston,2135,875,09/05/1989,Suffolk,pink
+599900,3,2,1.18,Wilmington,1887,1644,09/07/1999,Middlesex,pink
+650000,3,3,0.22,Wakefield,1880,1772,08/12/2003,Middlesex,pink
+575000,3,2,0.1,Melrose,2176,1296,31/03/2006,Middlesex,pink
+2795000,3,3,0.01,Boston,2114,1941,01/06/1994,Suffolk,pink
+596000,2,1,0.02,Boston,2134,935,09/09/1999,Suffolk,pink
+2099000,6,3,0.12,Somerville,2144,2907,01/07/1999,Middlesex,dark purple
+369900,2,2,0,Tewksbury,1876,1023,24/08/2006,Middlesex,pink
+695000,3,2,0.47,Andover,1810,1705,28/02/2002,Essex,pink
+3995000,5,4,0.03,Boston,2114,3300,02/04/2007,Suffolk,dark purple
+1699000,4,4,0.98,North Reading,1864,5372,28/11/2006,Middlesex,dark purple
+430000,1,1,0.02,Boston,2135,755,04/06/1987,Suffolk,pink
+529900,2,2,0.02,Boston,2130,811,27/04/2001,Suffolk,pink
+619900,2,1,0.03,Belmont,2478,1138,31/10/2018,Middlesex,pink
+535000,2,2,0.02,Boston,2134,777,05/05/2006,Suffolk,pink
+499900,1,1,0.38,Newton,2467,840,14/09/2020,Middlesex,pink
+475000,1,1,0.26,Newton,2458,740,27/07/1993,Middlesex,pink
+6250000,5,6,0.12,Cambridge,2138,5300,02/05/1972,Middlesex,purple
+549900,3,2,0.17,Wilmington,1887,1470,20/11/2009,Middlesex,pink
+599900,3,2,1.88,Tewksbury,1876,1692,31/03/1971,Middlesex,pink
+699900,4,3,0.21,Reading,1867,1904,27/11/2006,Middlesex,pink
+1149000,5,4,0.24,Melrose,2176,2978,14/09/1994,Middlesex,dark purple
+1249000,3,3,0.03,Boston,2129,1864,31/12/2007,Suffolk,pink
+1450000,2,2,0.16,Belmont,2478,2452,22/09/2003,Middlesex,pink
+534900,1,1,0.02,Boston,2114,942,26/03/2009,Suffolk,pink
+3399000,5,6,0.38,Winchester,1890,7103,03/02/1977,Middlesex,dark purple
+549000,1,1,0.02,Brookline,2446,724,28/06/1996,Norfolk,pink
+529900,2,2,1,Medford,2155,1226,16/08/2005,Middlesex,pink
+468000,1,1,0.02,Boston,2135,700,25/10/2006,Suffolk,pink
+899000,4,3,0.21,Andover,1810,2916,06/07/1998,Essex,pink
+599000,2,2,1,Medford,2155,1168,28/12/2021,Middlesex,pink
+675000,3,2,1.14,Andover,1810,1685,27/09/1994,Essex,pink
+455000,1,1,4.46,Newton,2467,960,03/05/2004,Middlesex,pink
+869000,2,1,0.02,Boston,2114,750,13/05/2005,Suffolk,pink
+859000,1,1,0.02,Boston,2114,987,14/02/2020,Suffolk,pink
+759000,2,2,0.03,Boston,2114,1216,31/05/2019,Suffolk,pink
+2595000,5,7,0.19,Newton,2465,5016,28/08/2003,Middlesex,dark purple
+605000,3,2,0.66,North Andover,1845,1983,31/07/1995,Essex,pink
+699000,3,2,0.12,Woburn,1801,1656,04/01/2002,Middlesex,pink
+599000,2,1,0.08,Brookline,2445,890,12/08/1988,Norfolk,pink
+1699000,4,4,0.2,Newton,2461,3229,31/03/2003,Middlesex,dark purple
+819000,3,3,0.11,Waltham,2453,2240,27/04/1998,Middlesex,pink
+10999999,6,10,0.81,Brookline,2445,9945,18/08/1978,Norfolk,purple
+1250000,3,3,0.57,Andover,1810,2719,17/03/2015,Essex,pink
+1849000,4,4,0.33,Wellesley,2481,3278,12/07/1991,Norfolk,dark purple
+1899000,5,3,0.28,Winchester,1890,3371,06/08/1997,Middlesex,dark purple
+3595000,6,5,0.34,Newton,2465,5160,01/05/2007,Middlesex,dark purple
+460000,2,1,0.02,Boston,2130,828,29/08/2013,Suffolk,pink
+824900,2,2,0.12,Somerville,2145,1334,30/08/1995,Middlesex,pink
+979000,5,4,0.4,Reading,1867,2900,17/09/1996,Middlesex,dark purple
+1599000,4,3,0.02,Boston,2129,2170,22/04/2005,Suffolk,pink
+879000,4,3,0.1,Melrose,2176,2160,21/02/2002,Middlesex,pink
+899000,1,2,0.02,Boston,2467,1001,16/02/2011,Suffolk,pink
+1380000,4,3,0.14,Arlington,2474,3000,01/03/1989,Middlesex,dark purple
+2750000,6,6,0.32,Newton,2462,5224,01/10/1990,Middlesex,dark purple
+1875000,4,4,0.23,Cambridge,2139,2172,24/11/2020,Middlesex,dark purple
+849000,3,2,0.09,Winchester,1890,1710,24/11/2009,Middlesex,pink
+1065000,2,2,0.01,Boston,2116,1250,01/10/2003,Suffolk,pink
+2349000,4,4,0.3,Newton,2468,4147,23/04/1997,Middlesex,dark purple
+535000,1,1,0.02,Boston,2114,833,02/06/1997,Suffolk,pink
+650000,4,1,0.14,Medford,2155,1656,10/08/2005,Middlesex,pink
+1999000,2,2,0.03,Boston,2116,1160,12/12/2018,Suffolk,pink
+5750000,5,6,1.25,Wellesley,2481,6348,01/07/1981,Norfolk,purple
+725000,2,2,0.18,Newton,2465,1072,15/05/2018,Middlesex,pink
+589000,2,2,1,Medford,2155,1347,17/02/1987,Middlesex,pink
+679000,1,1,0.02,Boston,2115,1088,13/06/2014,Suffolk,pink
+1200000,6,3,0.07,Boston,2134,2270,10/02/1999,Suffolk,dark purple
+1695000,2,2,0.03,Boston,2114,1225,23/12/2003,Suffolk,pink
+599000,1,1,0.02,Boston,2114,923,03/05/2005,Suffolk,pink
+2850000,5,5,0.23,Newton,2461,5228,21/05/1999,Middlesex,dark purple
+2425000,3,2,0.04,Boston,2116,1752,07/06/2012,Suffolk,pink
+1850000,4,4,0.37,Reading,1867,3961,08/03/1965,Middlesex,dark purple
+2100000,5,5,0.28,Wellesley,2481,4403,01/10/1994,Norfolk,dark purple
+2550000,6,4,0.17,Somerville,2144,3025,02/12/1999,Middlesex,dark purple
+889900,5,4,0.77,Andover,1810,2973,09/12/2002,Essex,dark purple
+829900,3,3,0.21,Reading,1867,2179,06/07/2001,Middlesex,pink
+1495000,3,3,0.12,Cambridge,2138,1920,14/01/2004,Middlesex,pink
+1689000,6,4,0.46,Saugus,1906,7403,12/04/2005,Essex,dark purple
+859900,5,2,0.06,Somerville,2145,1878,17/06/1994,Middlesex,pink
+1799000,4,4,0.21,Reading,1867,3850,20/08/1975,Middlesex,dark purple
+869900,4,3,0.23,Lowell,1852,3635,15/04/2005,Middlesex,dark purple
+479900,3,2,0.23,Lowell,1852,1292,02/04/1968,Middlesex,pink
+557900,3,2,0.24,Lowell,1852,1696,13/09/1999,Middlesex,pink
+949900,4,3,1.01,Andover,1810,3254,05/12/2003,Essex,dark purple
+419900,2,2,0,Tewksbury,1876,1240,28/05/1998,Middlesex,pink
+879000,3,3,0.14,Melrose,2176,2146,15/10/1987,Middlesex,pink
+849000,4,3,0.11,Waltham,2453,2182,31/10/2000,Middlesex,pink
+849000,3,2,0.15,Melrose,2176,1955,09/06/1986,Middlesex,pink
+590000,3,1,0.02,Boston,2134,1024,15/08/2008,Suffolk,pink
+429900,2,1,1,Medford,2155,843,27/04/2021,Middlesex,pink
+2295000,2,2,0.03,Boston,2116,1390,01/12/2003,Suffolk,pink
+569900,3,2,0.46,Wilmington,1887,1751,30/04/2007,Middlesex,pink
+799900,4,3,0.38,Tewksbury,1876,2168,03/10/1995,Middlesex,pink
+635000,2,2,0.11,Waltham,2453,1432,30/09/2003,Middlesex,pink
+899000,4,2,0.15,Melrose,2176,1925,01/07/2002,Middlesex,pink
+639000,3,2,0.11,Medford,2155,1419,23/02/1990,Middlesex,pink
+899000,4,2,0.13,Medford,2155,2293,30/11/2007,Middlesex,pink
+1750000,3,3,0.03,Boston,2129,2312,23/03/2007,Suffolk,pink
+1150000,1,1,0.02,Boston,2116,825,30/09/2002,Suffolk,pink
+2190000,5,3,0.05,Brookline,2446,2763,01/03/1991,Norfolk,dark purple
+2299000,3,3,0.1,Brookline,2446,2543,01/05/2003,Norfolk,pink
+489900,3,2,2.26,Stoneham,2180,1462,01/06/1988,Middlesex,pink
+899000,4,2,0.18,Arlington,2474,2869,18/07/1995,Middlesex,pink
+725000,3,2,0.3,Melrose,2176,1561,16/11/2009,Middlesex,pink
+875000,4,3,0.15,Arlington,2474,2250,04/04/2008,Middlesex,pink
+549000,2,1,0.04,Boston,2130,966,10/06/2011,Suffolk,pink
+679900,3,2,0.09,Waltham,2453,1344,20/01/2004,Middlesex,pink
+899999,3,2,0.24,Belmont,2478,1290,30/06/2011,Middlesex,pink
+2195000,5,4,0.25,Newton,2465,3329,14/02/1992,Middlesex,dark purple
+525000,1,1,0.32,Cambridge,2138,540,26/10/2007,Middlesex,pink
+429900,3,1,0.06,Wakefield,1880,1236,18/07/2007,Middlesex,pink
+849900,4,2,0.12,Medford,2155,2052,20/11/2000,Middlesex,pink
+849900,3,3,0.36,North Reading,1864,2510,27/08/2004,Middlesex,pink
+719000,3,2,0.54,Wilmington,1887,2054,30/04/2002,Middlesex,pink
+639000,3,2,0.19,Wakefield,1880,1871,31/08/2000,Middlesex,pink
+789000,2,1,0.02,Boston,2115,1004,31/05/2012,Suffolk,pink
+619900,3,1,0.18,Stoneham,2180,1390,25/07/2003,Middlesex,pink
+749900,3,2,0.07,Medford,2155,2098,31/10/2014,Middlesex,pink
+1098306,4,3,0.27,Reading,1867,2838,25/05/2005,Middlesex,pink
+1275000,8,4,0.09,Somerville,2144,3740,01/09/2006,Middlesex,dark purple
+2400000,4,3,0.03,Boston,2129,2749,14/03/2008,Suffolk,dark purple
+649900,4,4,0.46,Methuen,1844,3357,16/05/2006,Essex,dark purple
+965000,3,2,0.09,Winchester,1890,1545,28/09/2001,Middlesex,pink
+649995,3,3,0.2,Malden,2148,1500,01/02/2006,Middlesex,pink
+670000,4,2,0.11,Everett,2149,1629,29/02/2000,Middlesex,pink
+1175000,2,2,0.02,Boston,2116,975,03/04/2009,Suffolk,pink
+1665000,4,4,0.18,Belmont,2478,2412,29/07/1988,Middlesex,dark purple
+1100000,3,4,0.18,Belmont,2478,2374,10/02/1989,Middlesex,pink
+2198000,5,4,0.31,Newton,2468,3772,23/06/2004,Middlesex,dark purple
+2495000,4,5,0.33,Wellesley,2481,3786,04/08/2008,Norfolk,dark purple
+1675000,8,3,0.28,Watertown,2472,4723,24/03/2006,Middlesex,dark purple
+3495000,5,7,0.59,Newton,2465,6470,11/01/2005,Middlesex,dark purple
+499900,3,2,0.15,Lawrence,1843,2182,30/04/2008,Essex,pink
+779900,3,3,1.34,North Reading,1864,2356,29/08/1994,Middlesex,pink
+1349000,3,2,0.26,Newton,2468,1700,31/07/2008,Middlesex,pink
+599900,3,2,0.09,Wakefield,1880,1511,21/11/1989,Middlesex,pink
+699900,3,3,0.15,Wakefield,1880,1708,31/07/2001,Middlesex,pink
+989000,3,2,0.16,Newton,2461,1425,15/05/2003,Middlesex,pink
+1450000,5,4,0.24,Winchester,1890,2845,12/12/1995,Middlesex,dark purple
+2200000,7,3,0.08,Cambridge,2138,4500,31/01/1974,Middlesex,dark purple
+799900,3,3,0.16,Melrose,2176,1080,16/09/1987,Middlesex,pink
+740000,4,2,0.17,Waltham,2453,1344,01/11/1988,Middlesex,pink
+1899000,4,3,0.02,Boston,2129,2584,19/02/2010,Suffolk,dark purple
+469900,2,1,0.02,Boston,2135,673,15/07/2005,Suffolk,pink
+299900,3,2,0.31,Tewksbury,1876,1850,28/12/2004,Middlesex,pink
+589900,3,2,0.14,Revere,2151,1762,06/03/2009,Suffolk,pink
+589900,3,2,0.06,Malden,2148,1594,01/06/2009,Middlesex,pink
+599000,4,2,0.09,Malden,2148,1820,01/03/2002,Middlesex,pink
+1398000,4,2,0.35,Winchester,1890,2682,11/04/2003,Middlesex,pink
+819900,5,2,0.06,Somerville,2143,2131,03/12/2004,Middlesex,pink
+1550000,3,3,0.42,Wellesley,2481,2942,18/04/1997,Norfolk,pink
+780000,3,2,0.23,Newton,2466,1270,16/07/2002,Middlesex,pink
+3299000,5,5,0.74,Andover,1810,8132,29/08/2006,Essex,dark purple
+1489900,3,3,0.18,Belmont,2478,2518,15/07/2005,Middlesex,pink
+1200000,3,5,0.19,Newton,2460,2800,31/08/2012,Middlesex,dark purple
+2950000,6,7,0.31,Newton,2468,6740,02/08/2007,Middlesex,dark purple
+929000,6,3,0.08,Everett,2149,2288,01/06/2000,Middlesex,dark purple
+590000,3,2,0.35,Wakefield,1880,1320,02/03/2007,Middlesex,pink
+619000,4,2,0.42,Stoneham,2180,1568,01/11/1999,Middlesex,pink
+1100000,4,4,0.46,Andover,1810,4199,30/11/1993,Essex,dark purple
+719900,3,2,0.19,Andover,1810,1750,28/06/2016,Essex,pink
+549000,1,1,0.02,Boston,2115,770,01/08/2018,Suffolk,pink
+499000,1,1,0.01,Boston,2116,496,13/08/2009,Suffolk,pink
+649900,4,2,0.21,Melrose,2176,1186,01/08/1997,Middlesex,pink
+899900,4,3,0.25,Watertown,2472,2578,25/06/1993,Middlesex,pink
+2349000,5,5,0.21,Newton,2465,4959,30/04/2003,Middlesex,dark purple
+1375000,4,3,0.48,Winchester,1890,2847,16/11/2009,Middlesex,dark purple
+1095000,4,2,0.17,Arlington,2474,2824,14/10/1993,Middlesex,pink
+3795000,6,5,0.11,Brookline,2446,4688,31/07/2003,Norfolk,dark purple
+485000,3,2,0.19,Melrose,2176,1080,02/11/2009,Middlesex,pink
+549900,3,2,0.62,North Reading,1864,1398,30/09/2003,Middlesex,pink
+589900,2,2,0.11,Melrose,2176,2180,30/10/2009,Middlesex,pink
+650000,4,3,0.31,Reading,1867,2200,11/09/1987,Middlesex,pink
+649900,3,3,0.2,Wakefield,1880,2112,25/05/2000,Middlesex,pink
+479900,3,1,0.42,Billerica,1821,1149,22/10/2009,Middlesex,pink
+1195000,4,2,0.49,Newton,2468,2052,13/08/1996,Middlesex,pink
+4750000,2,3,0.05,Boston,2199,1985,28/12/2010,Suffolk,pink
+399000,1,1,0.5,Boston,2130,620,03/02/1998,Suffolk,pink
+699000,3,2,0.14,Medford,2155,1222,29/08/2003,Middlesex,pink
+419000,1,1,0.01,Boston,2135,625,20/07/2018,Suffolk,pink
+750000,3,2,0.09,Medford,2155,1315,06/09/2007,Middlesex,pink
+1035000,6,3,0.05,Boston,2119,2000,30/06/2009,Suffolk,dark purple
+295550,1,1,0.02,Boston,2120,654,16/02/2001,Suffolk,pink
+5495000,5,5,0.05,Boston,2115,5098,24/05/2007,Suffolk,dark purple
+299000,1,1,0.01,Boston,2131,617,12/04/2005,Suffolk,pink
+459000,2,2,0.1,Boston,2132,700,31/07/1997,Suffolk,pink
+1335000,6,3,0.18,Boston,2119,3776,26/08/2005,Suffolk,dark purple
+659900,5,5,0.25,Lowell,1854,3288,20/10/2003,Middlesex,dark purple
+679900,4,3,0.34,Billerica,1821,2564,10/03/1988,Middlesex,pink
+379900,2,2,0,Tewksbury,1876,1469,31/08/2018,Middlesex,pink
+869000,4,4,0.6,Andover,1810,2489,29/08/1997,Essex,dark purple
+825000,3,2,0.11,Newton,2458,1569,14/08/2003,Middlesex,pink
+649000,4,2,0.11,Malden,2148,1644,05/10/2009,Middlesex,pink
+375000,2,1,0.24,Medford,2155,686,22/06/2004,Middlesex,pink
+799900,6,3,0.09,Everett,2149,2918,06/06/1989,Middlesex,dark purple
+959000,3,2,0.1,Arlington,2476,1599,24/03/2006,Middlesex,pink
+1900000,4,3,0.25,Winchester,1890,3346,26/07/1991,Middlesex,dark purple
+2595000,2,3,0.03,Boston,2116,1375,04/05/2006,Suffolk,pink
+379000,2,1,0.01,Boston,2132,615,08/03/2019,Suffolk,pink
+850000,6,4,0.1,Boston,2131,2392,15/12/1997,Suffolk,dark purple
+1650000,11,5,0.07,Boston,2121,4650,20/05/1991,Suffolk,dark purple
+2749999,6,7,0.38,Newton,2459,7797,24/11/2004,Middlesex,dark purple
+6750000,8,13,3.48,Westwood,2090,15400,19/06/1997,Norfolk,purple
+749000,4,3,0.09,Boston,2131,1860,28/09/2000,Suffolk,pink
+2395000,5,6,1.01,North Andover,1845,5522,09/01/1992,Essex,dark purple
+1749000,1,2,0.03,Boston,2116,1404,23/07/2004,Suffolk,pink
+1800000,8,4,0.17,Boston,2131,3528,08/12/2006,Suffolk,dark purple
+6249000,7,9,0.57,Newton,2459,9000,23/12/2008,Middlesex,purple
+729000,3,2,0.17,Boston,2132,1425,23/02/2007,Suffolk,pink
+850000,3,3,0.13,Boston,2131,1080,19/09/2005,Suffolk,pink
+985000,3,2,0.23,Wellesley,2481,1521,10/05/2005,Norfolk,pink
+2845000,5,7,0.36,Wellesley,2481,7148,20/02/2003,Norfolk,dark purple
+5450000,6,5,3.43,Needham,2492,6700,02/01/1998,Norfolk,purple
+1050000,3,4,1,North Andover,1845,4438,15/07/2002,Essex,dark purple
+1250000,4,2,0.39,Westwood,2090,2468,12/04/1989,Norfolk,pink
+585000,2,2,0.02,Boston,2132,968,25/03/2021,Suffolk,pink
+849000,2,2,0.02,Boston,2118,1004,29/10/2010,Suffolk,pink
+1500000,4,3,0.23,Needham,2494,2806,03/08/1994,Norfolk,dark purple
+2800000,6,7,0.5,Newton,2467,5146,01/02/2008,Middlesex,dark purple
+859900,3,3,0.1,Boston,2132,1652,16/04/1991,Suffolk,pink
+2985000,6,7,0.31,Needham,2492,6005,31/12/1998,Norfolk,dark purple
+950000,2,1,0.02,Boston,2118,750,02/07/2014,Suffolk,pink
+3550000,3,3,0.04,Boston,2116,1795,05/01/2010,Suffolk,pink
+1725000,6,4,0.27,Newton,2459,3020,15/04/1987,Middlesex,dark purple
+2499000,5,5,0.34,Needham,2494,5113,30/10/2001,Norfolk,dark purple
+879900,4,4,0.44,North Andover,1845,2851,12/09/2005,Essex,dark purple
+1650000,4,3,1.67,Needham,2494,3847,20/05/1996,Norfolk,dark purple
+2050000,2,3,0.04,Boston,2118,1898,23/05/2019,Suffolk,pink
+498000,4,3,0.36,North Andover,1845,1272,30/04/1998,Essex,pink
+725000,2,2,0.13,Boston,2131,1345,26/11/1991,Suffolk,pink
+1199000,3,3,0.24,Newton,2461,2100,20/06/2008,Middlesex,pink
+2395000,6,5,1,Needham,2492,5019,28/11/2001,Norfolk,dark purple
+15500000,15,12,27,Westwood,2090,14000,03/06/1997,Norfolk,purple
+555000,2,2,0.09,Boston,2132,1303,09/12/2002,Suffolk,pink
+799000,3,3,0.33,Dedham,2026,1800,12/02/2003,Norfolk,pink
+770000,4,2,0.1,Boston,2131,1424,04/04/2006,Suffolk,pink
+700000,2,1,0.02,Boston,2130,968,30/04/2018,Suffolk,pink
+700000,4,2,0.2,Dedham,2026,2336,06/07/2001,Norfolk,pink
+699000,4,3,0.29,Boston,2132,1711,16/05/2005,Suffolk,pink
+2995000,5,6,0.51,Wellesley,2482,6137,01/09/1983,Norfolk,dark purple
+689000,3,3,0.13,Dedham,2026,1540,20/04/2001,Norfolk,pink
+999000,3,3,0.36,Boston,2467,2700,15/07/2005,Suffolk,pink
+15000000,6,9,35.96,Westwood,2090,10309,08/03/1987,Norfolk,purple
+915000,2,1,0.03,Boston,2118,1128,30/04/2018,Suffolk,pink
+560500,3,2,0.03,Boston,2131,1426,14/08/2018,Suffolk,pink
+379900,3,1,0.03,North Andover,1845,1126,07/12/2001,Essex,pink
+6995000,6,7,0.68,Wellesley,2481,9215,01/04/1994,Norfolk,purple
+2895000,6,6,0.64,Brookline,2467,6023,12/09/1997,Norfolk,dark purple
+1825000,4,3,0.58,Wellesley,2481,3001,30/04/1999,Norfolk,dark purple
+1800000,4,3,0.36,Wellesley,2481,3876,12/06/1997,Norfolk,dark purple
+610000,2,2,0.16,Newton,2464,1298,24/11/2009,Middlesex,pink
+899000,4,3,0.08,Boston,2131,3307,27/11/1991,Suffolk,dark purple
+450000,2,1,0.08,Boston,2132,1000,30/05/2012,Suffolk,pink
+665000,3,2,0.16,Andover,1810,1650,19/03/2003,Essex,pink
+849000,3,2,0.07,Boston,2119,1909,02/10/2008,Suffolk,pink
+695000,1,1,0.01,Boston,2116,606,04/09/2007,Suffolk,pink
+544900,3,2,0.04,Boston,2119,1626,07/05/2010,Suffolk,pink
+565000,2,1,0.03,Boston,2131,1248,07/07/2011,Suffolk,pink
+595000,2,2,0.28,Boston,2130,880,30/03/2006,Suffolk,pink
+1750000,4,3,0.13,Boston,2130,2700,30/11/2004,Suffolk,dark purple
+599999,3,3,0.31,North Andover,1845,2042,30/06/2009,Essex,pink
+874900,4,3,1.42,North Andover,1845,3412,29/08/2008,Essex,dark purple
+739000,4,2,0.08,Boston,2131,1868,27/06/1997,Suffolk,pink
+645000,1,1,0.01,Boston,2118,645,17/06/2003,Suffolk,pink
+599000,4,2,0.04,Boston,2130,1720,19/01/1989,Suffolk,pink
+639000,3,3,0.17,Boston,2131,1375,07/08/1995,Suffolk,pink
+959900,4,4,0.47,Middleton,1949,3840,01/03/1988,Essex,dark purple
+3750000,5,8,4.32,Dover,2030,8382,30/04/2008,Norfolk,purple
+949000,1,1,0.02,Boston,2118,881,08/09/1999,Suffolk,pink
+849000,4,4,2.86,Georgetown,1833,3626,02/06/2004,Essex,dark purple
+1400000,4,3,0.17,Needham,2494,2674,30/06/1999,Norfolk,pink
+850000,3,2,0.24,Boston,2131,2000,01/02/1996,Suffolk,pink
+1199000,4,3,0.35,Dedham,2026,3039,27/08/2004,Norfolk,dark purple
+875000,3,3,0.12,Boston,2132,1894,24/05/2005,Suffolk,pink
+1995000,5,5,0.24,Newton,2459,4095,04/06/2004,Middlesex,dark purple
+2995000,5,7,0.46,Wellesley,2481,7061,01/06/1992,Norfolk,dark purple
+835000,4,2,0.14,Boston,2131,2344,03/09/1996,Suffolk,pink
+799000,3,2,0.11,Boston,2130,1321,08/03/2004,Suffolk,pink
+865000,1,1,0.01,Boston,2116,600,09/08/2018,Suffolk,pink
+2200000,6,5,1.59,Wellesley,2481,5714,11/01/1994,Norfolk,dark purple
+2595000,4,5,0.9,Needham,2492,5600,04/03/2002,Norfolk,dark purple
+1350000,2,2,0.02,Boston,2118,1008,20/05/2002,Suffolk,pink
+824900,4,3,2.05,Boxford,1921,3005,24/08/1994,Essex,dark purple
+1290000,5,5,0.96,North Andover,1845,5233,28/07/2009,Essex,dark purple
+779900,1,1,0.02,Boston,2118,768,16/08/2004,Suffolk,pink
+599000,3,1,0.03,Boston,2119,1362,28/01/2002,Suffolk,pink
+965000,6,2,0.13,Boston,2132,3501,23/01/2002,Suffolk,dark purple
+600000,2,2,0.17,Boston,2131,1300,22/12/1995,Suffolk,pink
+1999999,5,5,0.2,Needham,2494,4314,31/01/2006,Norfolk,dark purple
+819900,4,3,1,North Andover,1845,2492,01/08/1995,Essex,pink
+829000,2,1,0.02,Boston,2115,803,31/05/2013,Suffolk,pink
+539900,3,2,0.94,Sharon,2067,1080,07/06/2006,Norfolk,pink
+494000,2,1,0.24,Norwood,2062,710,21/07/1992,Norfolk,pink
+564900,5,2,0.07,Boston,2124,1671,09/02/2004,Suffolk,pink
+825000,5,5,0.64,Canton,2021,2814,16/07/2001,Norfolk,dark purple
+599900,2,2,0.02,Chelsea,2150,1712,06/07/1994,Suffolk,pink
+519000,2,1,0.02,Boston,2128,787,06/01/2012,Suffolk,pink
+499289,2,2,0.07,Woburn,1801,864,12/01/2007,Middlesex,pink
+549900,3,2,0.11,Andover,1810,1000,15/09/2008,Essex,pink
+769900,4,3,0.92,Dracut,1826,2728,15/09/2004,Middlesex,pink
+434900,3,1,0.51,Dracut,1826,1218,30/11/1992,Middlesex,pink
+579900,4,3,0.35,Haverhill,1830,3284,28/06/2002,Essex,dark purple
+474000,3,2,0.17,Haverhill,1830,2000,22/10/2008,Essex,pink
+529900,3,3,0.54,Haverhill,1830,2322,29/09/2006,Essex,pink
+399999,4,3,0.28,Haverhill,1830,1482,03/06/2002,Essex,pink
+609000,3,3,0.2,Haverhill,1830,1824,23/01/1997,Essex,pink
+369900,3,1,0.44,Haverhill,1830,1096,20/08/1999,Essex,pink
+669900,3,3,0.23,Methuen,1844,2228,09/02/2000,Essex,pink
+269900,2,1,0.35,Methuen,1844,1008,28/12/2006,Essex,pink
+509900,4,1,0.23,Tewksbury,1876,1205,30/08/2006,Middlesex,pink
+2695000,5,5,3.63,Westwood,2090,6499,22/01/1988,Norfolk,dark purple
+3930000,7,8,0.69,Lexington,2420,8257,06/05/2008,Middlesex,purple
+2750000,5,6,1.84,Westwood,2090,7840,30/06/1992,Norfolk,dark purple
+8000000,7,11,74.36,Westwood,2090,10600,12/06/2002,Norfolk,purple
+3795000,3,4,0.06,Boston,2111,2707,21/07/2008,Suffolk,dark purple
+359900,2,2,0.02,Boston,2125,936,01/04/1999,Suffolk,pink
+780000,5,4,0.06,Boston,2125,2016,18/08/2005,Suffolk,dark purple
+1000000,6,3,0.16,Revere,2151,4371,31/10/1989,Suffolk,dark purple
+950000,4,2,0.03,Boston,2111,1295,02/02/2005,Suffolk,pink
+449000,2,1,0.02,Boston,2127,915,23/03/2010,Suffolk,pink
+4495000,2,3,0.05,Boston,2116,2258,24/08/2004,Suffolk,pink
+1290000,3,2,0.05,Boston,2109,2226,29/04/2005,Suffolk,pink
+1085000,6,3,0.07,Boston,2125,3008,01/05/2000,Suffolk,dark purple
+895000,1,1,0.02,Boston,2116,725,15/08/2018,Suffolk,pink
+679000,1,2,0.03,Boston,2111,1286,30/09/2005,Suffolk,pink
+750000,4,3,0.12,Boston,2128,2558,04/11/1994,Suffolk,pink
+455000,2,2,0.03,Boston,2136,1292,11/04/2005,Suffolk,pink
+2100000,2,2,0.03,Boston,2110,1700,31/07/2007,Suffolk,pink
+695000,2,2,0.02,Boston,2127,1023,30/07/2007,Suffolk,pink
+895000,3,2,0.08,Boston,2122,1116,21/01/1998,Suffolk,pink
+709000,6,2,0.06,Boston,2125,2330,13/11/2009,Suffolk,dark purple
+799900,3,2,0.12,Milton,2186,1536,22/12/2009,Norfolk,pink
+799000,1,1,0.02,Boston,2116,705,08/01/1999,Suffolk,pink
+899000,6,3,0.09,Boston,2124,3000,16/11/2000,Suffolk,dark purple
+549000,2,1,0.02,Boston,2127,713,04/08/2005,Suffolk,pink
+6495000,4,5,0.04,Boston,2114,5948,30/12/1997,Suffolk,purple
+7599000,4,6,0.04,Boston,2114,5799,31/10/2008,Suffolk,purple
+579000,3,2,0.23,Boston,2113,702,01/02/1994,Suffolk,pink
+3300000,3,5,0.06,Boston,2111,2667,12/06/2007,Suffolk,dark purple
+537000,3,2,0.03,Chelsea,2150,1035,05/06/2002,Suffolk,pink
+650000,1,1,0.02,Boston,2128,1022,15/05/2006,Suffolk,pink
+685000,2,1,0.02,Boston,2127,800,30/05/2018,Suffolk,pink
+799000,2,1,0.02,Boston,2118,753,20/09/2004,Suffolk,pink
+929000,1,1,0.02,Boston,2127,1087,01/08/2013,Suffolk,pink
+715000,5,4,0.09,Boston,2125,2929,01/07/1996,Suffolk,dark purple
+859000,8,4,0.17,Boston,2136,3204,22/06/2001,Suffolk,dark purple
+1299999,12,3,0.08,Boston,2122,3720,25/01/2008,Suffolk,dark purple
+639000,2,1,0.02,Boston,2113,736,14/07/2000,Suffolk,pink
+839900,4,3,0.12,Boston,2136,2374,21/08/2008,Suffolk,pink
+659000,1,2,0.02,Boston,2111,1067,26/09/2005,Suffolk,pink
+1199999,4,3,0.4,Boston,2124,2314,26/03/1993,Suffolk,pink
+565000,1,1,0.01,Boston,2113,636,03/09/2004,Suffolk,pink
+450000,2,2,0.04,Boston,2125,980,11/08/1992,Suffolk,pink
+1500000,12,3,0.18,Boston,2124,4464,04/03/2008,Suffolk,dark purple
+1099000,2,2,0.03,Boston,2127,1183,19/06/2007,Suffolk,pink
+599000,2,2,0.1,Milton,2186,1106,02/06/1998,Norfolk,pink
+599000,2,1,0.02,Boston,2127,915,30/05/2008,Suffolk,pink
+569000,1,1,0.01,Boston,2127,641,14/10/2016,Suffolk,pink
+749900,3,3,0.03,Boston,2128,1540,07/12/2000,Suffolk,pink
+589900,2,2,0.02,Boston,2128,923,28/10/2019,Suffolk,pink
+1299000,2,2,0.03,Boston,2113,1328,09/04/2021,Suffolk,pink
+850000,4,2,0.05,Boston,2128,2594,08/10/2008,Suffolk,pink
+799000,4,3,0.09,Milton,2186,2090,23/12/1996,Norfolk,pink
+1149000,6,3,0.08,Boston,2122,2995,27/11/2006,Suffolk,dark purple
+325000,1,1,0.02,Boston,2122,686,29/06/2001,Suffolk,pink
+505000,2,1,0.02,Boston,2125,747,30/06/2021,Suffolk,pink
+525000,1,1,0.01,Boston,2127,543,31/05/2018,Suffolk,pink
+1895000,2,3,0.03,Boston,2111,1504,01/06/2010,Suffolk,pink
+309000,1,1,4.25,Dedham,2026,744,23/10/2014,Norfolk,pink
+399000,1,1,0.02,Boston,2125,673,08/05/2009,Suffolk,pink
+889900,4,2,0.18,Dedham,2026,1875,30/09/1996,Norfolk,pink
+1349000,2,2,0.02,Boston,2118,1049,01/04/2019,Suffolk,pink
+619000,1,1,0.01,Boston,2118,577,24/12/2020,Suffolk,pink
+2325000,3,3,0.04,Boston,2109,1686,07/02/2008,Suffolk,pink
+899900,4,3,0.46,Westwood,2090,1751,28/02/1994,Norfolk,pink
+649900,3,2,0.09,Revere,2151,2107,12/04/2004,Suffolk,pink
+269850,1,1,0.01,Boston,2136,623,04/09/2014,Suffolk,pink
+1149999,8,4,0.12,Boston,2126,4452,11/05/2005,Suffolk,dark purple
+630000,3,2,0.14,Boston,2136,1232,17/02/1993,Suffolk,pink
+989000,3,3,0.03,Boston,2127,1464,29/04/2008,Suffolk,pink
+415000,3,2,0.02,Boston,2119,1199,20/12/1996,Suffolk,pink
+935000,4,2,0.07,Boston,2125,1830,23/04/1997,Suffolk,pink
+1299000,2,2,0.03,Boston,2110,1168,29/05/2013,Suffolk,pink
+1225000,2,2,0.03,Boston,2110,1216,14/10/2014,Suffolk,pink
+419000,1,1,0.01,Boston,2127,560,18/09/2002,Suffolk,pink
+949000,2,3,0.03,Boston,2127,1137,15/06/2007,Suffolk,pink
+1995000,3,2,0.04,Boston,2113,1645,01/06/2006,Suffolk,pink
+649900,3,2,0.01,Revere,2151,1710,11/02/2002,Suffolk,pink
+999999,7,4,0.2,Boston,2136,3397,25/05/1988,Suffolk,dark purple
+749000,3,2,0.14,Milton,2186,1430,28/02/2002,Norfolk,pink
+650000,3,2,0.15,Boston,2136,1676,29/07/2005,Suffolk,pink
+599000,2,1,0.06,Boston,2128,902,30/08/2005,Suffolk,pink
+899000,3,2,0.85,Milton,2186,2526,06/12/1983,Norfolk,pink
+570000,4,2,0.02,Boston,2128,1728,29/04/2002,Suffolk,pink
+675000,2,2,0.02,Boston,2127,887,18/06/2019,Suffolk,pink
+579000,2,1,0.02,Boston,2127,695,06/08/2020,Suffolk,pink
+550000,3,1,0.17,Dedham,2026,1580,22/06/2001,Norfolk,pink
+3250000,3,3,0.04,Boston,2111,1882,11/12/2018,Suffolk,pink
+789900,3,2,0.12,Milton,2186,1530,29/06/2007,Norfolk,pink
+999000,4,4,0.06,Boston,2125,2876,01/12/2004,Suffolk,dark purple
+1695000,3,3,0.05,Boston,2118,2040,24/06/2013,Suffolk,pink
+355000,2,1,0.02,Boston,2136,877,27/12/2004,Suffolk,pink
+1498000,2,2,0.03,Boston,2210,1510,27/06/2019,Suffolk,pink
+675000,2,2,0.03,Boston,2127,1318,21/08/2009,Suffolk,pink
+750000,4,3,0.06,Dedham,2026,2624,15/02/2005,Norfolk,pink
+1299000,2,2,0.04,Boston,2127,1664,27/07/2018,Suffolk,pink
+850000,4,3,0.12,Dedham,2026,2136,31/03/2005,Norfolk,pink
+574900,4,3,0.04,Boston,2119,1760,08/11/2002,Suffolk,pink
+919000,6,2,0.04,Boston,2128,1888,16/05/2005,Suffolk,dark purple
+959000,2,2,0.02,Boston,2116,949,27/01/2005,Suffolk,pink
+835000,3,2,0.04,Boston,2125,1716,11/12/2003,Suffolk,pink
+995000,2,2,0.03,Boston,2118,1168,30/11/2012,Suffolk,pink
+1589000,2,2,0.04,Boston,2118,1725,30/04/2009,Suffolk,pink
+525000,3,2,0.17,Boston,2136,1024,23/11/1999,Suffolk,pink
+849900,3,3,0.48,Dedham,2026,2189,28/07/1995,Norfolk,pink
+523900,3,2,0.1,Hyde Park,2136,1104,31/03/2004,,pink
+760000,6,3,0.06,Chelsea,2150,1429,09/12/2002,Suffolk,dark purple
+1050000,4,4,0.04,Milton,2186,2800,23/12/2004,Norfolk,dark purple
+499900,1,1,0.01,Boston,2127,505,01/03/2001,Suffolk,pink
+1575000,2,2,0.03,Boston,2111,1308,16/01/2014,Suffolk,pink
+850000,2,2,0.03,Boston,2127,1209,30/05/2007,Suffolk,pink
+879000,1,1,0.02,Boston,2113,913,15/09/2008,Suffolk,pink
+549000,3,2,0.05,Revere,2151,1621,07/10/1984,Suffolk,pink
+849900,7,3,0.12,Boston,2125,2941,01/07/1999,Suffolk,dark purple
+739000,1,1,0.01,Boston,2116,642,22/11/2013,Suffolk,pink
+1199000,5,5,0.12,Boston,2126,3528,11/09/2002,Suffolk,dark purple
+520000,3,2,0.13,Boston,2136,2007,30/12/2008,Suffolk,pink
+899900,3,3,0.03,Boston,2128,1760,31/07/2003,Suffolk,pink
+849900,4,3,0.12,Boston,2128,2950,02/12/2002,Suffolk,pink
+1725000,2,2,0.03,Boston,2108,1437,17/07/2012,Suffolk,pink
+1095000,2,2,0.02,Boston,2111,812,16/09/2009,Suffolk,pink
+749900,3,2,0.19,Milton,2186,1722,31/03/2005,Norfolk,pink
+1599000,5,5,1.05,Milton,2186,4711,20/04/2004,Norfolk,dark purple
+775000,4,2,0.15,Boston,2121,2633,13/08/1999,Suffolk,pink
+599000,1,1,0.01,Boston,2127,574,10/07/2020,Suffolk,pink
+985000,9,3,0.1,Boston,2126,3648,26/10/2005,Suffolk,dark purple
+749000,1,1,0.02,Boston,2110,732,02/09/2009,Suffolk,pink
+479000,1,1,0.01,Boston,2127,451,26/02/2013,Suffolk,pink
+2950000,2,3,0.05,Boston,2210,2178,31/07/2012,Suffolk,pink
+599000,3,2,0.09,Revere,2151,2039,12/04/2006,Suffolk,pink
+699000,2,2,0.01,Boston,2127,1260,29/09/1995,Suffolk,pink
+639000,2,1,0.02,Boston,2127,914,11/12/2009,Suffolk,pink
+489900,6,2,0.09,Boston,2124,2062,15/04/2005,Suffolk,dark purple
+578000,3,2,0.03,Boston,2125,1506,14/02/2020,Suffolk,pink
+449900,2,1,0.02,Boston,2124,1036,01/07/2011,Suffolk,pink
+1125000,3,2,0.23,Milton,2186,2090,07/05/1984,Norfolk,pink
+1649000,4,3,0.06,Boston,2127,2043,27/02/1987,Suffolk,pink
+1099000,1,2,0.02,Boston,2109,923,10/12/2013,Suffolk,pink
+1949000,3,2,0.03,Boston,2114,1500,20/03/2009,Suffolk,pink
+925000,2,2,0.03,Boston,2127,1100,03/05/2019,Suffolk,pink
+599000,1,1,0.01,Boston,2127,550,09/04/2020,Suffolk,pink
+499000,3,2,0.25,Dedham,2026,1192,09/11/2011,Norfolk,pink
+400000,2,1,0.02,Boston,2119,744,03/02/2003,Suffolk,pink
+1100000,2,2,0.03,Boston,2118,1173,14/05/2010,Suffolk,pink
+825000,5,3,0.26,Malden,2148,2180,09/12/1991,Middlesex,dark purple
+499000,2,1,0.01,Boston,2127,639,24/11/2010,Suffolk,pink
+699000,1,1,0.01,Boston,2108,600,15/07/2004,Suffolk,pink
+880000,6,3,0.08,Revere,2151,4337,02/12/1996,Suffolk,dark purple
+1299000,5,4,0.17,Boston,2124,3472,10/09/1993,Suffolk,dark purple
+819000,5,3,0.15,Revere,2151,2160,27/03/2006,Suffolk,dark purple
+874900,5,3,0.13,Malden,2148,3300,22/03/1994,Middlesex,dark purple
+1499000,5,4,0.35,Milton,2186,3137,10/01/1990,Norfolk,dark purple
+529000,2,1,0.02,Boston,2135,852,22/04/2005,Suffolk,pink
+1150000,6,2,0.1,Boston,2125,2638,29/07/2005,Suffolk,dark purple
+525000,2,2,0.05,Boston,2126,1010,30/03/2007,Suffolk,pink
+545000,3,3,0.04,Boston,2125,1644,30/04/2009,Suffolk,pink
+509900,2,2,0.29,Dedham,2026,1000,30/09/2016,Norfolk,pink
+649900,2,1,0.02,Boston,2125,826,01/05/2006,Suffolk,pink
+780000,1,1,0.01,Boston,2111,585,05/06/2018,Suffolk,pink
+619900,2,1,0.02,Boston,2127,800,18/09/2007,Suffolk,pink
+875000,2,2,0.03,Boston,2127,1193,31/01/2019,Suffolk,pink
+749000,5,3,0.12,Boston,2136,2681,12/02/1999,Suffolk,dark purple
+1099000,2,1,0.03,Boston,2109,1183,08/06/2018,Suffolk,pink
+729000,3,2,0.09,Boston,2136,1612,28/10/1993,Suffolk,pink
+600000,3,1,0.02,Boston,2127,964,02/06/2000,Suffolk,pink
+1775000,7,6,0.46,Milton,2186,7071,28/10/1998,Norfolk,dark purple
+1199000,5,3,0.41,Dedham,2026,3602,17/09/1992,Norfolk,dark purple
+1150000,3,3,0.92,Westwood,2090,2100,15/09/2004,Norfolk,pink
+1199000,5,2,0.14,Milton,2186,2632,11/07/2005,Norfolk,pink
+799000,2,3,0.03,Boston,2127,1429,04/09/2009,Suffolk,pink
+1595000,2,2,0.03,Boston,2118,1496,27/06/2018,Suffolk,pink
+829000,3,3,0.36,Milton,2186,2464,31/03/2000,Norfolk,pink
+685000,2,1,0.02,Boston,2127,855,25/09/2009,Suffolk,pink
+489000,2,2,0.16,Saugus,1906,1207,28/04/1995,Essex,pink
+1388000,4,3,0.45,Lynnfield,1940,3794,28/06/2007,Essex,dark purple
+1490000,2,2,0.02,Boston,2118,1052,21/05/2018,Suffolk,pink
+459000,2,1,0.12,Saugus,1906,1289,21/07/2004,Essex,pink
+725000,3,2,0.25,Dedham,2026,1906,30/10/1987,Norfolk,pink
+799900,5,2,0.36,Peabody,1960,2288,07/06/1985,Essex,pink
+1399000,7,4,0.04,Boston,2128,2870,27/04/2012,Suffolk,dark purple
+1600000,2,2,0.03,Boston,2116,1358,24/04/2014,Suffolk,pink
+2599000,2,3,0.04,Boston,2210,1840,01/05/2019,Suffolk,pink
+589900,2,1,0.14,Malden,2148,2013,06/08/1992,Middlesex,pink
+689000,3,2,0.22,Waltham,2452,2223,01/03/1984,Middlesex,pink
+995000,2,1,0.03,Boston,2116,1273,20/09/2004,Suffolk,pink
+1095000,5,3,0.15,Waltham,2453,2524,15/10/1998,Middlesex,dark purple
+1099000,3,4,0.08,Waltham,2451,3000,31/07/1989,Middlesex,pink
+899900,2,3,0.55,Sharon,2067,1987,18/10/2005,Norfolk,pink
+1100000,6,4,0.49,Randolph,2368,4038,19/09/2003,Norfolk,dark purple
+1575000,5,4,1.44,Sharon,2067,4448,18/08/2005,Norfolk,dark purple
+739900,2,1,0.19,Milton,2186,1110,25/08/1983,Norfolk,pink
+549900,3,2,0.23,Stoughton,2072,1527,19/08/2003,Norfolk,pink
+869000,3,3,3.29,Foxboro,2035,2920,05/12/2014,,pink
+860000,4,4,0.57,Foxboro,2035,3119,28/06/2001,,dark purple
+600000,4,1,0.44,Stoughton,2072,1900,27/06/2003,Norfolk,pink
+1150000,4,3,0.92,Sharon,2067,3325,10/05/1991,Norfolk,dark purple
+1099000,2,1,0.03,Boston,2116,1207,26/03/2014,Suffolk,pink
+2300000,5,4,3.26,Milton,2186,5003,17/12/2004,Norfolk,dark purple
+869000,4,3,0.11,Milton,2186,2438,17/01/1995,Norfolk,pink
+599900,4,2,0.26,Walpole,2032,1734,28/12/1993,Norfolk,pink
+625000,3,2,0.26,Norwood,2062,2110,21/03/2003,Norfolk,pink
+699900,4,2,0.25,Milton,2186,1691,02/04/1991,Norfolk,pink
+519900,3,2,0.17,Stoughton,2072,1332,04/10/2013,Norfolk,pink
+519900,3,2,0.23,Stoughton,2072,1547,02/07/2001,Norfolk,pink
+825000,4,3,0.28,Sharon,2067,2680,23/12/2009,Norfolk,pink
+585000,4,3,0.33,Canton,2021,1757,04/05/2001,Norfolk,pink
+1090000,4,4,0.46,Sharon,2067,4973,21/09/1995,Norfolk,dark purple
+600000,3,2,0.46,Sharon,2067,1628,16/11/2006,Norfolk,pink
+849900,4,3,1.38,Foxboro,2035,2776,10/04/1992,,pink
+549000,3,2,0.4,Walpole,2081,1527,16/04/2010,Norfolk,pink
+540000,2,2,0.08,Norwood,2062,1796,06/07/1978,Norfolk,pink
+849999,4,3,0.5,Foxboro,2035,2728,18/08/2000,,pink
+499900,6,2,0.09,Norwood,2062,2089,26/12/1984,Norfolk,dark purple
+1749900,6,6,1.43,Canton,2021,5421,30/05/2001,Norfolk,dark purple
+874900,4,3,0.27,Norwood,2062,3026,01/09/1964,Norfolk,dark purple
+490000,3,2,0.18,Canton,2021,1247,12/02/2010,Norfolk,pink
+985000,4,3,2.36,Easton,2356,3863,13/02/1990,Bristol,dark purple
+890000,3,3,0.17,Milton,2186,1839,30/06/2004,Norfolk,pink
+785000,2,3,1,Walpole,2032,2105,07/03/2005,Norfolk,pink
+1075000,4,3,0.35,Canton,2021,3532,26/11/1997,Norfolk,dark purple
+589000,4,3,0.19,Boston,2131,1394,22/06/2006,Suffolk,pink
+699900,4,2,0.51,Foxboro,2035,2496,16/11/2021,,pink
+469000,3,2,0.69,Mansfield,2048,1540,29/11/2007,Bristol,pink
+420000,3,1,0.26,Walpole,2081,852,15/04/2009,Norfolk,pink
+825000,4,3,1.67,Foxboro,2035,3120,05/03/2010,,dark purple
+625000,3,2,0.37,Norwood,2062,1895,01/07/2004,Norfolk,pink
+849900,4,3,0.35,Canton,2021,2520,29/09/2006,Norfolk,pink
+1595000,4,4,0.93,Milton,2186,3041,27/09/2001,Norfolk,dark purple
+249900,3,1,0.62,Stoughton,2072,1056,18/07/1984,Norfolk,pink
+525000,3,2,0.92,Easton,2375,1256,23/08/1996,Bristol,pink
+399900,3,1,0.19,Mansfield,2048,1068,30/10/1995,Bristol,pink
+674900,4,3,1.98,Foxboro,2035,2070,27/09/1996,,pink
+575000,3,2,0.46,Sharon,2067,1388,29/06/2001,Norfolk,pink
+529900,4,1,1.08,Walpole,2081,1500,24/08/2018,Norfolk,pink
+675000,3,3,0.37,Stoughton,2072,2951,30/10/2002,Norfolk,pink
+745000,4,3,0.5,Norwood,2062,1782,20/02/1967,Norfolk,pink
+525000,3,2,0.34,Foxboro,2035,1724,28/09/2000,,pink
+899000,4,3,0.75,Canton,2021,3000,12/02/2010,Norfolk,dark purple
+1188000,4,5,1.34,Wrentham,2093,4965,29/04/2005,Norfolk,dark purple
+569900,4,2,1.5,Rehoboth,2769,3046,30/09/1996,Bristol,pink
+925000,4,3,0.92,Foxboro,2035,2874,15/11/2007,,pink
+699000,2,3,1.19,Walpole,2081,2350,16/11/2000,Norfolk,pink
+297000,3,2,0.4,Rehoboth,2769,1609,10/02/1999,Bristol,pink
+679900,4,3,0.58,Attleboro,2703,2817,16/03/2004,Bristol,pink
+419900,3,2,0.15,Haverhill,1832,1806,12/11/1982,Essex,pink
+759000,3,3,1.84,Haverhill,1832,2941,01/11/2010,Essex,pink
+549900,3,2,1.3,Haverhill,1832,1870,15/12/2010,Essex,pink
+569000,3,3,0.25,Haverhill,1832,1690,18/06/2001,Essex,pink
+579900,5,3,0.1,Haverhill,1832,2276,13/06/2006,Essex,dark purple
+399900,2,1,0.23,Haverhill,1832,1108,04/10/2011,Essex,pink
+449900,4,1,1.08,Haverhill,1832,1098,12/03/2007,Essex,pink
+584900,7,3,0.08,Haverhill,1832,3337,09/06/2006,Essex,dark purple
+575000,3,3,0.52,Georgetown,1833,1626,03/08/1987,Essex,pink
+565000,3,2,0.29,Haverhill,1835,1803,10/10/2003,Essex,pink
+499900,3,3,0.71,Haverhill,1835,1674,30/03/2005,Essex,pink
+779900,4,3,3.44,Haverhill,1835,3526,14/07/2006,Essex,dark purple
+475000,3,2,0.17,Haverhill,1835,1632,24/05/1994,Essex,pink
+479900,7,3,0.04,Lawrence,1840,2900,06/03/2009,Essex,dark purple
+525000,3,2,0.21,Easton,2375,1615,14/12/2001,Bristol,pink
+649900,3,3,0.23,Canton,2021,1600,31/10/1991,Norfolk,pink
+455000,3,2,0.15,Methuen,1844,1944,31/07/2000,Essex,pink
+575000,3,3,0.33,Methuen,1844,2262,01/01/1981,Essex,pink
+549000,4,2,0.34,Methuen,1844,2308,01/06/1980,Essex,pink
+825000,3,2,0.22,Methuen,1844,2601,02/07/2003,Essex,pink
+450000,3,2,0.27,Methuen,1844,2373,07/08/2018,Essex,pink
+445000,3,1,0.25,Methuen,1844,1199,01/06/1981,Essex,pink
+649000,3,2,0.15,North Andover,1845,1456,19/11/1999,Essex,pink
+470000,3,1,0.13,North Andover,1845,1172,23/10/2009,Essex,pink
+1199000,4,4,1,North Andover,1845,4500,10/03/1989,Essex,dark purple
+599900,4,4,0.42,North Andover,1845,2318,09/07/2004,Essex,dark purple
+325000,2,1,0.13,Merrimac,1860,720,02/04/1993,Essex,pink
+749900,4,3,1.84,Merrimac,1860,2955,12/05/2000,Essex,pink
+729000,4,3,0.56,Merrimac,1860,2724,14/05/1999,Essex,pink
+549900,3,3,0.26,Salisbury,1952,1872,23/07/2001,Essex,pink
+1300000,2,2,0.55,Newbury,1951,1122,20/08/1987,Essex,pink
+1750000,3,4,0.44,Ipswich,1938,4400,26/12/1996,Essex,dark purple
+4650000,6,5,24.14,Wenham,1984,7760,15/09/1997,Essex,purple
+375000,5,2,0.15,Lawrence,1841,1608,26/08/2005,Essex,pink
+1995000,12,6,0.16,Salisbury,1952,4366,26/04/2004,Essex,dark purple
+825000,4,2,0.5,Salisbury,1952,2800,03/02/1987,Essex,pink
+1399900,3,4,0.07,Newburyport,1950,2722,21/01/2020,Essex,pink
+1700000,5,4,0.3,Lexington,2420,3285,11/07/1988,Middlesex,dark purple
+2449900,5,5,0.94,Newburyport,1950,7244,01/04/1993,Essex,dark purple
+2999900,4,4,0.7,Newburyport,1950,3397,31/07/2009,Essex,dark purple
+649000,3,2,0.24,Ipswich,1938,2515,06/01/2010,Essex,pink
+819900,4,3,1.13,Ipswich,1938,2264,05/05/1992,Essex,pink
+339900,3,2,0.03,Salisbury,1952,920,15/02/2006,Essex,pink
+489000,5,3,6.9,Salisbury,1952,2600,03/10/1988,Essex,dark purple
+525000,3,1,0.14,Ipswich,1938,1213,07/10/1999,Essex,pink
+650000,3,3,1.05,Newbury,1922,2141,27/06/2006,Essex,pink
+679000,3,2,1.06,Topsfield,1983,1952,30/10/1998,Essex,pink
+975000,3,3,0.54,Topsfield,1983,3355,05/11/2004,Essex,pink
+525000,3,2,0.5,West Newbury,1985,1834,13/02/1998,Essex,pink
+799000,3,4,2.26,Newbury,1951,3546,07/10/1988,Essex,dark purple
+798999,4,4,1.01,Ipswich,1938,3524,28/04/2003,Essex,dark purple
+650000,4,2,0.62,Newbury,1922,1862,15/09/2005,Essex,pink
+764900,3,3,2,Topsfield,1983,2269,15/11/2006,Essex,pink
+799000,2,2,0.04,Amesbury,1913,1713,26/02/2021,Essex,pink
+750000,4,2,0.97,Newbury,1951,2449,14/06/1996,Essex,pink
+679500,5,2,0.06,Salisbury,1952,1736,06/09/1996,Essex,pink
+359900,3,2,0.67,Salisbury,1952,1998,29/10/1998,Essex,pink
+749000,3,2,0.32,Rowley,1969,2300,18/05/2021,Essex,pink
+949000,4,3,0.74,West Newbury,1985,3392,10/06/2009,Essex,dark purple
+750000,7,4,0.25,Amesbury,1913,3195,26/04/2005,Essex,dark purple
+749900,4,2,0.06,Newburyport,1950,2171,01/10/1992,Essex,pink
+679000,3,5,4,Topsfield,1983,2910,29/12/1986,Essex,dark purple
+725000,2,2,0.07,Newburyport,1950,1540,17/09/2009,Essex,pink
+1250000,4,5,0.81,West Newbury,1985,4250,29/09/2006,Essex,dark purple
+475000,3,2,0.15,Salisbury,1952,1326,30/11/2000,Essex,pink
+1397000,4,4,0.47,Ipswich,1938,5207,24/04/2006,Essex,dark purple
+1199900,4,2,0.14,Salisbury,1952,1166,26/06/1997,Essex,pink
+869000,4,3,0.1,Newburyport,1950,2669,22/09/1992,Essex,pink
+1625000,4,3,0.86,Newburyport,1950,3819,25/07/2002,Essex,dark purple
+650000,4,2,0.15,Amesbury,1913,2524,30/07/2002,Essex,pink
+750000,2,3,0.03,Newburyport,1950,1140,15/01/1999,Essex,pink
+1175000,2,2,0.13,Newburyport,1950,1051,18/10/2021,Essex,pink
+619000,3,2,0.03,Salisbury,1952,1620,15/09/1995,Essex,pink
+1295000,2,1,0.34,Winchester,1890,1306,04/05/1992,Middlesex,pink
+539000,3,2,0.4,Peabody,1960,1679,28/02/2002,Essex,pink
+1295000,5,3,0.36,Peabody,1960,3500,10/10/2003,Essex,dark purple
+525000,3,3,0.08,Peabody,1960,1719,01/11/2004,Essex,pink
+459000,4,1,0.08,Beverly,1915,1846,10/12/1992,Essex,pink
+449000,2,2,0.15,Beverly,1915,1350,29/05/1998,Essex,pink
+649900,3,2,0.57,Beverly,1915,1874,18/09/2009,Essex,pink
+775000,3,2,0.36,Beverly,1915,2040,19/09/2000,Essex,pink
+695000,5,3,0.24,Peabody,1960,2328,16/12/2005,Essex,dark purple
+399900,2,1,0.53,Danvers,1923,1000,13/06/1996,Essex,pink
+789000,4,3,0.46,Hamilton,1982,2028,27/04/2000,Essex,pink
+1649000,4,5,0.92,Middleton,1949,4917,13/09/2002,Essex,dark purple
+685000,4,2,0.46,Danvers,1923,2255,30/11/2004,Essex,pink
+515000,3,2,0.11,Salem,1970,1790,24/05/2019,Essex,pink
+479000,2,3,85,Peabody,1960,2140,05/03/2003,Essex,pink
+769000,3,2,0.17,Hamilton,1982,1550,21/06/1995,Essex,pink
+539900,4,2,0.15,Salem,1970,1320,30/06/1988,Essex,pink
+579000,3,2,0.23,Beverly,1915,1452,02/07/2015,Essex,pink
+774900,3,3,0.14,Salem,1970,2884,06/04/1990,Essex,pink
+439900,3,2,0.05,Salem,1970,1214,01/07/2008,Essex,pink
+579000,3,2,0.1,Beverly,1915,1608,14/06/1991,Essex,pink
+689000,3,3,0.42,Danvers,1923,1992,17/06/1991,Essex,pink
+639999,3,2,0.3,Peabody,1960,2000,11/12/2000,Essex,pink
+1390000,4,4,0.98,Wenham,1984,3600,08/06/1999,Essex,dark purple
+689000,6,3,0.07,Salem,1970,2575,02/02/1996,Essex,dark purple
+799900,4,2,0.46,Hamilton,1982,2247,30/10/1998,Essex,pink
+550000,3,2,0.96,Wenham,1984,1443,24/08/1998,Essex,pink
+419900,1,1,0.16,Danvers,1923,637,27/07/2012,Essex,pink
+599900,3,2,0.13,Hamilton,1982,1575,11/03/2003,Essex,pink
+599995,3,2,0.34,Beverly,1915,1496,31/01/1989,Essex,pink
+495000,3,1,0.17,Beverly,1915,1248,31/08/1998,Essex,pink
+489900,2,2,0.14,Peabody,1960,1464,24/10/2003,Essex,pink
+1395000,3,3,0.43,Beverly,1915,2148,19/08/2005,Essex,pink
+409000,2,2,0.11,Salem,1970,781,13/11/2020,Essex,pink
+925000,4,3,1.31,Wenham,1984,3256,23/11/2004,Essex,dark purple
+530000,2,1,0.07,Salem,1970,1690,14/06/2005,Essex,pink
+1999000,4,4,9.45,Ipswich,1938,3987,26/02/1988,Essex,dark purple
+399900,1,1,0.58,Lynn,1901,1191,30/09/2020,Essex,pink
+374500,2,1,0.39,Lynn,1901,1110,31/05/2006,Essex,pink
+329000,3,1,0.09,Lynn,1902,1088,01/09/1982,Essex,pink
+249900,2,1,0.42,Lynn,1902,718,28/03/2003,Essex,pink
+479900,3,3,0.09,Lynn,1902,2112,19/07/2002,Essex,pink
+309900,3,2,0.09,Lynn,1902,1191,25/04/2002,Essex,pink
+759900,7,6,0.08,Lynn,1902,3963,15/06/1984,Essex,dark purple
+425000,2,2,0.1,Lynn,1902,2204,12/08/1997,Essex,pink
+599900,3,2,0.2,Lynn,1902,1400,27/01/2005,Essex,pink
+539900,4,3,0.12,Lynn,1902,1281,28/10/2016,Essex,pink
+780000,4,2,0.31,Lynn,1902,2466,16/03/2005,Essex,pink
+489900,3,2,0.08,Lynn,1902,1515,23/11/2009,Essex,pink
+829000,5,3,0.16,Lynn,1902,3165,28/05/1992,Essex,dark purple
+539990,4,2,0.07,Lynn,1902,1460,05/12/1995,Essex,pink
+169000,1,1,0.27,Lynn,1902,460,21/08/2001,Essex,pink
+739900,6,4,0.05,Lynn,1902,2839,31/10/2003,Essex,dark purple
+950000,6,5,0.12,Lynn,1902,2588,03/10/2005,Essex,dark purple
+849900,4,3,0.23,Lynn,1902,2712,25/08/2006,Essex,pink
+798500,6,3,0.06,Lynn,1902,2347,29/05/2007,Essex,dark purple
+399900,4,2,0.05,Lynn,1902,1595,14/12/2007,Essex,pink
+1200000,9,3,0.14,Lynn,1902,5391,03/06/2002,Essex,dark purple
+580000,3,2,0.12,Lynn,1902,1300,12/04/2011,Essex,pink
+710000,4,2,0.16,Lynn,1902,2544,30/06/2009,Essex,pink
+850000,4,4,0.34,Lynn,1904,5289,12/01/1989,Essex,dark purple
+500000,3,2,0.15,Lynn,1904,1368,20/08/1987,Essex,pink
+560000,3,2,0.11,Lynn,1904,1392,29/04/2004,Essex,pink
+665000,5,2,0.19,Lynn,1904,2164,14/01/2009,Essex,pink
+587877,4,3,0.11,Lynn,1905,1451,16/03/1989,Essex,pink
+419900,2,3,1.33,Lynn,1905,1430,11/03/2005,Essex,pink
+459900,3,2,0.04,Lynn,1905,1100,08/10/2004,Essex,pink
+369900,3,2,0.41,Lynn,1905,1249,27/05/2011,Essex,pink
+539900,4,2,0.18,Lynn,1905,1755,07/09/1994,Essex,pink
+309974,2,1,0.61,Lynn,1905,824,13/11/2020,Essex,pink
+400000,2,2,0.09,Lynn,1905,992,14/07/2000,Essex,pink
+415000,3,1,0.04,Lynn,1905,1004,01/10/2003,Essex,pink
+519900,3,2,0.07,Lynn,1905,1243,30/10/1997,Essex,pink
+740000,5,3,0.17,Saugus,1906,2631,27/05/1994,Essex,dark purple
+649000,4,2,0.09,Swampscott,1907,1673,09/01/2004,Essex,pink
+549000,3,2,0.06,Swampscott,1907,1764,27/05/2011,Essex,pink
+3300000,5,10,1.94,Swampscott,1907,14529,15/10/2001,Essex,purple
+589000,3,3,0.18,Swampscott,1907,2240,18/07/1988,Essex,pink
+630000,3,2,0.03,Nahant,1908,986,04/03/1999,Essex,pink
+779000,2,3,0.1,Essex,1929,1538,28/12/1992,Essex,pink
+588000,3,2,2.9,Gloucester,1930,1578,15/07/1996,Essex,pink
+4425000,4,5,1.09,Gloucester,1930,8443,29/09/1998,Essex,purple
+515000,3,1,0.13,Gloucester,1930,1351,02/12/1988,Essex,pink
+490000,3,2,0.13,Gloucester,1930,1232,28/03/2005,Essex,pink
+438800,3,1,0.07,Gloucester,1930,1377,27/06/1996,Essex,pink
+249000,1,1,0.97,Gloucester,1930,765,13/01/2000,Essex,pink
+9000000,3,6,2.34,Gloucester,1930,10400,13/09/1996,Essex,purple
+1295000,4,3,5.18,Gloucester,1930,2548,01/12/2016,Essex,pink
+1195000,3,3,0.17,Gloucester,1930,1848,20/08/2004,Essex,pink
+699000,3,2,0.23,Lynnfield,1940,2370,28/04/1995,Essex,pink
+6500000,5,7,1.43,Swampscott,1907,8399,15/04/1993,Essex,purple
+12900000,4,9,1.92,Manchester,1944,8122,02/10/2006,,purple
+749999,4,3,0.12,Revere,2151,2688,13/06/2005,Suffolk,pink
+749900,4,3,0.11,Winthrop,2152,2564,14/05/2008,Suffolk,pink
+990000,3,3,0.04,Hull,2045,2465,06/01/1997,Plymouth,pink
+1195000,4,3,0.32,Marblehead,1945,2420,12/08/1988,Essex,pink
+599000,4,2,0.25,Peabody,1960,2664,10/03/1994,Essex,pink
+449900,3,1,0.05,Salem,1970,1229,13/03/1990,Essex,pink
+570000,3,3,0.11,Salem,1970,1141,01/01/1965,Essex,pink
+599900,4,2,0.11,Hull,2045,1607,02/10/2002,Plymouth,pink
+675000,2,2,0.15,Marblehead,1945,1536,01/07/1997,Essex,pink
+850000,10,4,0.11,Salem,1970,5588,20/04/1993,Essex,dark purple
+795000,3,2,0.23,Marblehead,1945,1927,15/05/2006,Essex,pink
+679000,3,2,0.11,Swampscott,1907,1757,05/03/2009,Essex,pink
+659000,3,2,0.07,Revere,2151,2113,01/11/2004,Suffolk,pink
+829900,4,3,0.36,Peabody,1960,2860,04/11/1988,Essex,pink
+1950000,4,4,0.47,Swampscott,1907,3739,27/05/1988,Essex,dark purple
+749000,4,3,0.13,Hull,2045,1964,09/04/1998,Plymouth,pink
+875000,4,2,0.21,Marblehead,1945,2394,26/10/2007,Essex,pink
+595000,4,2,0.17,Hull,2045,1989,26/02/2002,Plymouth,pink
+2125000,6,5,0.21,Swampscott,1907,6055,29/07/1994,Essex,dark purple
+1699000,4,3,0.17,Hull,2045,3088,12/10/2007,Plymouth,dark purple
+399000,6,3,0.07,Peabody,1960,2547,29/08/1994,Essex,dark purple
+374900,2,1,0.11,Salem,1970,1121,29/03/2007,Essex,pink
+569900,3,1,0.24,Salem,1970,1456,01/01/1966,Essex,pink
+1025000,6,3,0.11,Hull,2045,2696,20/10/2008,Plymouth,dark purple
+449000,2,1,0.1,Salem,1970,1038,29/10/2020,Essex,pink
+749000,3,2,0.32,Hull,2045,1958,21/08/2001,Plymouth,pink
+1985000,4,5,0.37,Swampscott,1907,3263,17/02/1995,Essex,dark purple
+739900,3,2,0.23,Marblehead,1945,1600,03/09/2020,Essex,pink
+899000,3,3,0.29,Hull,2045,3000,31/10/2003,Plymouth,pink
+699000,4,2,0.07,Winthrop,2152,1536,22/08/2006,Suffolk,pink
+449000,2,1,0.14,Marblehead,1945,1090,01/07/2005,Essex,pink
+734999,3,2,0.07,Swampscott,1907,1703,13/10/2006,Essex,pink
+639900,4,2,0.35,Salem,1970,2259,15/08/1997,Essex,pink
+1399000,4,4,0.24,Swampscott,1907,4304,01/06/2007,Essex,dark purple
+1099000,4,2,0.3,Swampscott,1907,2611,10/03/2009,Essex,pink
+578000,3,2,0.1,Swampscott,1907,1538,16/04/1997,Essex,pink
+699999,2,2,0.11,Marblehead,1945,1980,09/09/2002,Essex,pink
+750000,6,2,0.13,Winthrop,2152,2560,25/06/1997,Suffolk,dark purple
+575000,3,2,0.08,Winthrop,2152,1412,26/01/2017,Suffolk,pink
+549000,3,1,0.11,Peabody,1960,1152,31/07/2006,Essex,pink
+1100000,4,3,0.18,Melrose,2176,2602,26/09/1997,Middlesex,pink
+699000,3,2,0.11,Swampscott,1907,2133,30/10/1995,Essex,pink
+1995000,4,5,0.15,Marblehead,1945,3207,01/10/1998,Essex,dark purple
+599900,5,3,0.11,Salem,1970,2080,01/03/2004,Essex,dark purple
+2495000,5,5,0.97,Swampscott,1907,7700,30/04/1998,Essex,dark purple
+739900,3,2,0.13,Winthrop,2152,1392,20/09/2007,Suffolk,pink
+1499000,5,6,0.11,Revere,2151,4984,18/08/1995,Suffolk,dark purple
+629000,4,2,0.18,Salem,1970,1992,30/11/1990,Essex,pink
+1295000,4,4,0.28,Hull,2045,3000,19/11/2004,Plymouth,dark purple
+1290000,5,3,0.11,Winthrop,2152,2030,15/06/2007,Suffolk,dark purple
+599000,3,2,0.13,Winthrop,2152,1541,27/06/2001,Suffolk,pink
+799900,4,2,0.11,Swampscott,1907,1906,30/11/1992,Essex,pink
+649900,4,2,0.2,Peabody,1960,1984,01/07/1979,Essex,pink
+345000,1,1,0.61,Salem,1970,688,25/11/2008,Essex,pink
+3895000,4,5,2.22,Manchester,1944,5500,16/02/1983,,dark purple
+1565000,4,5,1.61,Manchester,1944,4667,12/04/2001,,dark purple
+1795000,4,4,0.28,Manchester,1944,3077,18/02/2009,,dark purple
+3500000,4,4,14.83,Hamilton,1982,4232,08/01/1998,Essex,dark purple
+1150000,4,2,1.03,Manchester,1944,2307,21/07/1992,,pink
+1290000,4,4,0.65,Wenham,1984,3160,27/02/1998,Essex,dark purple
+715000,3,3,0.24,Rockport,1966,1870,07/10/2005,Essex,pink
+1825000,5,4,0.23,Rockport,1966,3303,07/10/2009,Essex,dark purple
+1595000,4,2,1.02,Scituate,2066,2416,01/01/1984,Plymouth,pink
+659999,4,3,0.55,Randolph,2368,2872,10/08/2006,Norfolk,pink
+3495000,6,5,0.55,Scituate,2066,6580,13/05/2004,Plymouth,dark purple
+3695000,5,10,26.55,Norwell,2061,8000,05/10/1999,Plymouth,purple
+3495000,4,5,1.2,Marshfield,2050,4848,20/04/2004,Plymouth,dark purple
+799900,3,2,0.58,Hingham,2043,1413,04/03/1991,Plymouth,pink
+450000,3,1,0.1,Quincy,2169,998,24/06/1996,Norfolk,pink
+679000,3,2,0.17,Quincy,2169,1300,18/11/1994,Norfolk,pink
+995000,11,6,0.24,Quincy,2169,3611,29/09/1989,Norfolk,dark purple
+1995000,10,4,0.36,Quincy,2169,5794,24/06/2002,Norfolk,dark purple
+685000,3,2,0.25,Scituate,2066,2194,15/12/1989,Plymouth,pink
+365000,2,1,0.11,Holbrook,2343,1152,16/03/2004,Norfolk,pink
+2885000,5,5,0.85,Hingham,2043,5200,24/05/2002,Plymouth,dark purple
+465000,3,1,0.13,Quincy,2169,1248,23/11/1999,Norfolk,pink
+1150000,3,3,0.26,Scituate,2066,1792,10/09/1991,Plymouth,pink
+899000,4,4,0.39,Weymouth,2188,3680,01/08/2005,Norfolk,dark purple
+1999900,4,4,0.09,Hingham,2043,3070,30/08/1989,Plymouth,dark purple
+2199000,4,4,0.92,Hingham,2043,3700,15/11/1972,Plymouth,dark purple
+1499000,3,3,0.15,Hingham,2043,2515,20/08/1993,Plymouth,pink
+489000,2,2,0.18,Braintree,2184,1152,27/02/2019,Norfolk,pink
+369900,3,2,0.17,Weymouth,2189,1454,28/06/1989,Norfolk,pink
+799000,3,4,0.23,Quincy,2169,2240,04/12/2009,Norfolk,pink
+525000,3,2,0.2,Abington,2351,1536,26/01/1990,Plymouth,pink
+399999,1,1,0.23,Quincy,2169,805,20/06/2008,Norfolk,pink
+419000,3,1,0.22,Randolph,2368,1220,16/10/2006,Norfolk,pink
+599000,3,2,0.03,Hingham,2043,1492,04/05/2021,Plymouth,pink
+699900,3,2,0.79,Weymouth,2190,2192,23/06/1987,Norfolk,pink
+699900,4,2,0.34,Braintree,2184,2196,08/01/1986,Norfolk,pink
+5100000,6,5,1.1,Cohasset,2025,7210,28/06/2002,Norfolk,purple
+459000,2,1,0.05,Quincy,2169,867,02/06/2008,Norfolk,pink
+989000,4,4,0.19,Quincy,2169,2676,01/11/2007,Norfolk,dark purple
+799900,4,2,0.13,Quincy,2169,2557,27/04/2004,Norfolk,pink
+599999,3,3,0.28,Randolph,2368,1968,05/12/2008,Norfolk,pink
+479999,3,2,0.23,Randolph,2368,1212,31/10/2007,Norfolk,pink
+879000,4,3,0.46,Cohasset,2025,1904,25/06/2009,Norfolk,pink
+689900,3,2,0.15,Scituate,2066,1440,30/11/1998,Plymouth,pink
+1499000,5,6,0.83,Hanover,2339,5000,30/01/2008,Plymouth,dark purple
+515000,2,2,0.12,Quincy,2171,1017,29/12/2005,Norfolk,pink
+600000,4,3,0.26,Randolph,2368,1995,09/06/2004,Norfolk,pink
+549900,3,2,0.28,Randolph,2368,1700,30/04/2002,Norfolk,pink
+630000,4,2,0.09,Quincy,2170,1221,01/07/2008,Norfolk,pink
+599000,4,2,0.2,Weymouth,2189,1974,28/09/2000,Norfolk,pink
+2800000,5,4,0.95,Scituate,2066,3479,16/09/1992,Plymouth,dark purple
+949000,4,4,0.28,Cohasset,2025,3000,21/02/2002,Norfolk,dark purple
+560000,4,2,0.13,Weymouth,2191,2155,06/10/1995,Norfolk,pink
+369000,2,2,3.57,Weymouth,2190,1300,30/05/2003,Norfolk,pink
+599900,4,2,0.28,Randolph,2368,2132,28/04/2005,Norfolk,pink
+549900,2,3,0.14,Braintree,2184,2008,22/01/1991,Norfolk,pink
+459000,3,1,0.17,Marshfield,2050,1064,21/09/2005,Plymouth,pink
+649000,3,2,0.18,Norwell,2061,1764,31/03/2006,Plymouth,pink
+1049000,4,5,1.18,Norwell,2061,2508,14/04/1987,Plymouth,dark purple
+3495000,5,5,0.7,Hingham,2043,6040,31/08/2007,Plymouth,dark purple
+699000,3,2,1,Norwell,2061,2224,02/11/2006,Plymouth,pink
+450000,2,3,0.11,Weymouth,2190,1260,01/12/1992,Norfolk,pink
+1249000,5,4,5.5,Norwell,2061,3960,04/11/2005,Plymouth,dark purple
+499000,2,1,0.1,Quincy,2169,1166,30/10/1997,Norfolk,pink
+549900,4,1,0.13,Braintree,2184,1475,01/08/2005,Norfolk,pink
+648000,4,2,0.09,Quincy,2169,1730,30/06/2005,Norfolk,pink
+3295000,6,6,0.11,Scituate,2066,5680,01/03/2000,Plymouth,dark purple
+778800,4,2,0.15,Quincy,2171,1979,23/11/1993,Norfolk,pink
+3895000,5,6,1.37,Cohasset,2025,6234,21/05/1998,Norfolk,dark purple
+599000,2,3,0.68,Hull,2045,2202,22/04/2019,Plymouth,pink
+383000,2,1,0.06,Weymouth,2191,866,27/10/1993,Norfolk,pink
+749000,3,3,0.19,Scituate,2066,1512,29/06/2000,Plymouth,pink
+780000,4,4,0.31,Randolph,2368,2652,03/11/1997,Norfolk,dark purple
+1849000,4,4,23.69,Norwell,2061,4526,14/10/2009,Plymouth,dark purple
+799000,4,2,0.1,Hingham,2043,1518,16/06/2010,Plymouth,pink
+519900,3,2,0.2,Winthrop,2152,1500,08/10/1996,Suffolk,pink
+899000,5,4,0.55,Braintree,2184,3191,21/06/1994,Norfolk,dark purple
+690000,5,2,0.11,Quincy,2170,1610,21/01/1999,Norfolk,pink
+469900,3,1,0.21,Randolph,2368,1264,03/11/1997,Norfolk,pink
+4495000,7,8,2,Cohasset,2025,8615,24/07/2009,Norfolk,purple
+229000,2,1,0.02,Boston,2126,790,02/10/2009,Suffolk,pink
+525000,4,2,0.17,Randolph,2368,1904,02/02/2004,Norfolk,pink
+525000,3,2,0.35,Randolph,2368,1512,27/09/2004,Norfolk,pink
+474900,3,2,0.19,Randolph,2368,1422,19/07/2019,Norfolk,pink
+469900,3,1,0.11,Braintree,2184,1358,30/09/1999,Norfolk,pink
+589900,3,1,0.69,Hanover,2339,1570,12/05/2004,Plymouth,pink
+1495000,5,4,0.63,Cohasset,2025,3830,30/09/2008,Norfolk,dark purple
+1430000,5,6,0.98,Hanover,2339,5972,30/08/2004,Plymouth,dark purple
+969000,4,2,0.14,Cohasset,2025,2241,30/06/2006,Norfolk,pink
+525000,3,1,0.23,Weymouth,2188,936,08/11/2001,Norfolk,pink
+459000,3,1,0.14,Quincy,2169,1166,31/01/1997,Norfolk,pink
+629000,3,3,0.35,Stoughton,2072,2172,06/11/2009,Norfolk,pink
+729000,3,3,0.11,Quincy,2170,1784,26/06/1998,Norfolk,pink
+1275000,3,3,0.48,Hingham,2043,2300,27/06/2007,Plymouth,pink
+550000,4,2,0.59,Randolph,2368,2408,29/07/2005,Norfolk,pink
+698500,3,3,0.12,Quincy,2169,1824,16/09/1985,Norfolk,pink
+929000,3,3,0.26,Norwell,2061,2700,13/07/2018,Plymouth,pink
+749900,4,2,0.85,Hingham,2043,2097,21/10/1991,Plymouth,pink
+730000,3,3,0.26,Hull,2045,2147,31/07/2002,Plymouth,pink
+579999,4,2,0.26,Weymouth,2190,1432,17/07/2008,Norfolk,pink
+574900,3,2,0.19,Randolph,2368,1428,24/10/2001,Norfolk,pink
+674900,3,2,0.23,Scituate,2066,1746,02/07/2007,Plymouth,pink
+550000,3,2,0.16,Braintree,2184,1176,05/10/2006,Norfolk,pink
+2199000,3,3,0.3,Hingham,2043,3650,22/10/1992,Plymouth,dark purple
+529900,3,2,0.36,Randolph,2368,2106,30/11/1994,Norfolk,pink
+539000,3,2,0.17,Weymouth,2189,1262,15/12/2000,Norfolk,pink
+620000,3,2,0.12,Quincy,2170,1218,15/01/1998,Norfolk,pink
+1100000,6,4,0.17,Boston,2136,3480,30/10/1998,Suffolk,dark purple
+4725000,6,6,0.46,Hingham,2043,7640,24/06/2005,Plymouth,purple
+799900,5,2,0.12,Quincy,2170,1885,01/06/2000,Norfolk,pink
+499000,3,2,0.16,Braintree,2184,1348,29/12/2004,Norfolk,pink
+499000,2,2,0.11,Peabody,1960,1176,01/02/2010,Essex,pink
+350000,1,1,0.14,Canton,2021,572,04/10/1995,Norfolk,pink
+1895000,4,3,0.54,Cohasset,2025,4072,27/08/1993,Norfolk,dark purple
+899900,3,3,0.24,Hull,2045,3757,27/08/1996,Plymouth,pink
+850000,4,3,0.23,Hull,2045,2184,20/04/2007,Plymouth,pink
+325000,3,1,0.07,Marshfield,2050,808,01/09/2005,Plymouth,pink
+529900,4,2,0.53,Pembroke,2359,1960,17/06/2003,Plymouth,pink
+850000,4,3,0.93,Duxbury,2332,2709,26/10/1987,Plymouth,pink
+659900,3,3,0.25,Duxbury,2332,2508,12/04/2010,Plymouth,pink
+639000,3,2,0.92,Kingston,2364,1671,30/04/2003,Plymouth,pink
+479900,3,1,0.55,Pembroke,2359,912,25/08/2009,Plymouth,pink
+1089000,4,4,14.32,Duxbury,2332,2866,23/11/2009,Plymouth,dark purple
+745000,4,2,0.2,Marshfield,2050,2419,16/06/2005,Plymouth,pink
+1400000,5,4,2.02,Hanover,2339,4811,23/09/2005,Plymouth,dark purple
+1545000,5,4,0.99,Duxbury,2332,4648,28/05/2004,Plymouth,dark purple
+949000,5,3,0.23,Scituate,2066,2984,22/05/1997,Plymouth,dark purple
+949900,3,3,0.13,Scituate,2066,1728,03/09/1993,Plymouth,pink
+1795900,4,3,0.35,Duxbury,2332,3600,15/02/1972,Plymouth,dark purple
+449900,3,1,0.92,Pembroke,2359,864,19/12/1963,Plymouth,pink
+2275000,6,5,0.58,Duxbury,2332,3865,25/02/2000,Plymouth,dark purple
+699900,3,3,0.75,Marshfield,2050,2319,29/12/1992,Plymouth,pink
+578800,3,2,1,Marshfield,2050,1527,10/10/1991,Plymouth,pink
+475000,3,1,0.34,Norwell,2061,1100,08/06/2007,Plymouth,pink
+480000,3,1,0.23,Norwood,2062,1123,23/10/1963,Norfolk,pink
+749900,3,3,0.29,Norwood,2062,2036,05/09/1991,Norfolk,pink
+359900,3,1,0.17,Brockton,2301,1462,22/06/1987,Plymouth,pink
+439900,4,1,0.17,Brockton,2302,1636,17/10/1997,Plymouth,pink
+329000,3,1,0.09,Brockton,2301,1070,20/10/1998,Plymouth,pink
+329900,2,2,0.06,Brockton,2301,929,17/09/2004,Plymouth,pink
+569900,4,2,0.14,Brockton,2301,1844,14/05/2009,Plymouth,pink
+299950,2,1,0.14,Whitman,2382,1275,01/05/1972,Plymouth,pink
+600000,4,2,0.17,Brockton,2301,3140,02/05/2001,Plymouth,pink
+630000,3,2,3.9,Duxbury,2332,2000,21/05/2004,Plymouth,pink
+690000,4,3,1.02,Pembroke,2359,2750,03/06/2002,Plymouth,pink
+439900,2,1,0.3,Pembroke,2359,864,19/09/1988,Plymouth,pink
+429000,3,1,0.32,Kingston,2364,864,31/05/2002,Plymouth,pink
+1025000,4,3,1.68,Duxbury,2332,2763,02/10/1998,Plymouth,pink
+1449000,4,4,1.04,Duxbury,2332,3310,08/05/2009,Plymouth,dark purple
+4800000,5,5,1.12,Duxbury,2332,7193,29/07/2005,Plymouth,dark purple
+439900,4,3,0.14,Brockton,2301,1756,30/04/2009,Plymouth,pink
+350000,2,2,0.21,Brockton,2301,816,08/06/1994,Plymouth,pink
+749500,8,3,0.06,Brockton,2301,2832,04/05/2007,Plymouth,dark purple
+899000,5,5,0.8,Raynham,2767,4000,18/07/1989,Bristol,dark purple
+470000,5,2,0.27,Taunton,2780,1930,12/02/2004,Bristol,pink
+519900,3,2,1.12,Raynham,2767,2169,27/04/2001,Bristol,pink
+449000,3,2,0.21,Brockton,2301,1342,20/06/2002,Plymouth,pink
+799900,8,3,0.15,Brockton,2301,2892,14/01/2002,Plymouth,dark purple
+310000,2,1,0.1,Brockton,2301,1190,01/08/2007,Plymouth,pink
+889900,4,4,1.38,Taunton,2780,5162,19/04/2005,Bristol,dark purple
+525000,4,2,0.21,West Bridgewater,2379,1805,07/10/1994,Plymouth,pink
+650000,4,2,0.95,Easton,2375,1609,28/05/2003,Bristol,pink
+499900,5,2,0.24,Brockton,2301,1548,31/07/1998,Plymouth,pink
+664900,6,3,0.28,Brockton,2301,2982,02/02/2007,Plymouth,dark purple
+649999,7,5,0.24,Brockton,2301,4070,13/08/1987,Plymouth,dark purple
+389999,3,1,0.22,Brockton,2301,1056,27/02/2004,Plymouth,pink
+1995000,4,6,0.99,Sharon,2067,7281,27/08/2003,Norfolk,dark purple
+379900,3,1,0.12,Brockton,2301,884,24/01/2001,Plymouth,pink
+489900,3,1,0.28,Avon,2322,1710,25/11/2019,Norfolk,pink
+580000,6,2,0.12,Brockton,2301,3005,12/11/1996,Plymouth,dark purple
+969000,4,4,2.98,Easton,2356,4483,03/08/1981,Bristol,dark purple
+549900,3,3,0.23,Brockton,2301,2073,23/06/2003,Plymouth,pink
+399900,3,1,0.26,Brockton,2301,960,03/01/2008,Plymouth,pink
+449000,5,2,0.1,Brockton,2301,1810,11/07/2003,Plymouth,pink
+400000,3,2,0.08,Brockton,2301,1620,16/11/2005,Plymouth,pink
+499900,3,2,0.09,Brockton,2301,1255,10/07/2000,Plymouth,pink
+535000,4,2,0.22,Brockton,2301,1977,01/07/2009,Plymouth,pink
+499000,3,2,0.69,Brockton,2301,1957,19/04/2002,Plymouth,pink
+449900,3,2,0.11,Holbrook,2343,1440,20/08/2002,Norfolk,pink
+379900,3,1,0.28,Brockton,2302,1172,30/06/2005,Plymouth,pink
+449900,3,2,0.17,Brockton,2301,2075,30/06/2004,Plymouth,pink
+429900,3,1,0.16,Brockton,2301,912,30/09/2009,Plymouth,pink
+479900,3,2,0.17,Brockton,2301,1860,30/04/1998,Plymouth,pink
+525000,3,2,0.34,Brockton,2301,1900,02/05/1995,Plymouth,pink
+560000,4,2,0.33,Brockton,2301,2168,08/02/2007,Plymouth,pink
+425000,4,2,0.26,Brockton,2301,1539,29/09/2000,Plymouth,pink
+450000,5,3,0.28,Brockton,2301,1596,10/04/2006,Plymouth,pink
+849900,3,3,2.01,Easton,2375,2300,19/05/2005,Bristol,pink
+692000,3,2,0.86,Easton,2375,3072,19/06/1986,Bristol,pink
+649900,3,2,0.08,Brockton,2301,1707,01/06/2001,Plymouth,pink
+349900,3,2,0.13,Taunton,2780,1492,01/10/2002,Bristol,pink
+575000,3,2,0.24,Brockton,2301,2700,30/01/2008,Plymouth,pink
+849000,3,2,0.7,Easton,2375,2560,01/08/1986,Bristol,pink
+699900,4,3,0.88,Easton,2375,2278,03/03/2008,Bristol,pink
+499900,7,3,0.11,Taunton,2780,2070,12/11/2004,Bristol,dark purple
+695000,6,3,0.14,Brockton,2301,3057,03/04/1998,Plymouth,dark purple
+625000,6,3,0.13,Brockton,2301,1504,20/10/2003,Plymouth,dark purple
+449000,3,1,0.18,Brockton,2302,1627,23/06/2005,Plymouth,pink
+789000,3,2,0.36,Stoughton,2072,2938,25/01/1999,Norfolk,pink
+499900,3,3,0.05,Brockton,2301,1500,07/03/1995,Plymouth,pink
+479900,3,3,0.14,Brockton,2301,1540,27/07/2009,Plymouth,pink
+479000,3,2,0.38,Raynham,2767,1786,21/08/2009,Bristol,pink
+435500,3,2,0.37,West Bridgewater,2379,1152,02/12/2005,Plymouth,pink
+419000,5,2,0.22,Taunton,2780,1800,08/05/2009,Bristol,pink
+624900,4,3,0.37,Raynham,2767,3120,18/11/1991,Bristol,dark purple
+735000,4,4,0.45,Norton,2766,2901,20/09/1991,Bristol,dark purple
+529900,3,3,1.16,Norton,2766,1908,19/08/1987,Bristol,pink
+475000,3,2,0.39,Brockton,2301,1856,30/03/2001,Plymouth,pink
+550000,3,3,0.28,Brockton,2301,2038,11/01/2007,Plymouth,pink
+560000,3,2,0.26,Brockton,2301,2118,03/09/1999,Plymouth,pink
+1300000,6,6,1.05,Easton,2356,5300,27/02/2004,Bristol,dark purple
+469900,3,2,0.17,Brockton,2301,1804,14/10/1993,Plymouth,pink
+1299900,4,3,0.93,Easton,2356,3874,25/08/1986,Bristol,dark purple
+469000,3,2,0.28,Brockton,2302,1768,01/03/2004,Plymouth,pink
+449900,3,2,0.14,Brockton,2301,1260,01/05/2002,Plymouth,pink
+669900,5,3,0.26,Brockton,2302,3280,17/03/2008,Plymouth,dark purple
+484900,3,2,0.27,Brockton,2302,1452,10/08/2012,Plymouth,pink
+655000,7,3,0.1,Brockton,2302,2237,16/09/2005,Plymouth,dark purple
+449900,3,2,0.29,Abington,2351,1575,31/05/2006,Plymouth,pink
+649900,3,2,0.45,Abington,2351,1932,03/06/1985,Plymouth,pink
+489900,4,2,0.28,Brockton,2301,1314,06/02/2006,Plymouth,pink
+389900,3,1,0.16,Brockton,2302,1338,08/10/2009,Plymouth,pink
+589900,3,2,0.25,Abington,2351,1860,28/09/2001,Plymouth,pink
+529900,5,2,0.55,Abington,2351,1587,21/04/2000,Plymouth,pink
+410000,2,2,0.2,Brockton,2302,1158,15/03/2004,Plymouth,pink
+625000,4,3,0.42,Brockton,2301,2813,30/11/1998,Plymouth,pink
+339000,2,1,0.19,Brockton,2302,1000,26/03/2013,Plymouth,pink
+409900,4,1,0.23,Brockton,2302,1540,30/07/2001,Plymouth,pink
+699900,4,2,1.38,Norton,2766,2597,01/05/1986,Bristol,pink
+599999,6,3,0.1,Brockton,2301,2342,28/11/2000,Plymouth,dark purple
+499900,3,1,0.46,Abington,2351,1963,02/04/2001,Plymouth,pink
+359900,3,1,0.19,Brockton,2302,1084,14/11/2003,Plymouth,pink
+599900,3,2,0.47,Abington,2351,2148,21/02/1995,Plymouth,pink
+650000,5,3,0.56,Abington,2351,2454,16/11/1978,Plymouth,dark purple
+459900,3,2,0.31,Brockton,2302,1270,20/11/2009,Plymouth,pink
+599900,3,1,0.11,Quincy,2169,1365,29/10/1998,Norfolk,pink
+459900,4,1,0.3,Rockland,2370,1835,02/09/1988,Plymouth,pink
+245000,2,1,4.47,Rockland,2370,916,02/06/1998,Plymouth,pink
+549900,3,1,0.39,Holbrook,2343,2011,30/07/2002,Norfolk,pink
+629900,5,3,0.43,Randolph,2368,2236,27/09/2004,Norfolk,dark purple
+386000,3,1,0.23,Brockton,2302,745,26/10/2007,Plymouth,pink
+419900,3,2,0.19,Brockton,2302,1300,30/10/1998,Plymouth,pink
+649900,5,2,0.17,Brockton,2302,2236,14/07/2008,Plymouth,pink
+599000,4,2,0.15,Brockton,2302,2440,20/12/1994,Plymouth,pink
+439900,3,1,0.16,Brockton,2302,1536,07/08/2009,Plymouth,pink
+450000,3,3,3.41,Bridgewater,2324,2880,08/11/2000,Plymouth,pink
+475000,4,2,0.42,Bridgewater,2324,2351,01/03/2006,Plymouth,pink
+650000,4,3,1,Bridgewater,2324,2488,19/10/1993,Plymouth,pink
+580000,4,2,1,Bridgewater,2324,1872,01/07/1999,Plymouth,pink
+479900,3,2,7.9,Bridgewater,2324,2448,17/05/2001,Plymouth,pink
+399900,3,2,2.03,Carver,2330,1206,07/12/2006,Plymouth,pink
+599900,4,3,0.3,Carver,2330,3436,30/06/2008,Plymouth,dark purple
+340000,2,1,0.18,Carver,2330,864,16/01/2004,Plymouth,pink
+559900,3,2,0.86,Carver,2330,2536,13/09/1989,Plymouth,pink
+589000,3,2,0.59,Carver,2330,1856,11/06/2001,Plymouth,pink
+679900,3,4,0.88,East Bridgewater,2333,2730,11/12/2007,Plymouth,pink
+499900,2,2,0.23,East Bridgewater,2333,1624,01/12/2006,Plymouth,pink
+700000,4,3,0.96,Halifax,2338,3102,23/10/2003,Plymouth,dark purple
+459000,3,1,1.87,Halifax,2338,1350,15/07/1994,Plymouth,pink
+439900,3,1,0.21,Halifax,2338,1300,28/03/2001,Plymouth,pink
+815000,4,3,0.91,Hanover,2339,2943,20/11/1995,Plymouth,pink
+1195000,4,4,1.3,Hanover,2339,3763,02/07/1999,Plymouth,dark purple
+800000,4,3,0.7,Hanover,2339,2880,03/12/1992,Plymouth,pink
+439900,3,2,0.32,Taunton,2780,1706,01/03/2006,Bristol,pink
+525000,5,2,0.32,Taunton,2780,2472,19/12/2008,Bristol,pink
+649900,5,4,0.7,Hanson,2341,5133,30/11/2001,Plymouth,dark purple
+449900,3,2,0.88,Hanson,2341,1418,30/11/2009,Plymouth,pink
+415000,3,1,1.11,Hanson,2341,1012,07/01/2005,Plymouth,pink
+639000,4,2,0.97,Rockland,2370,2036,27/04/2001,Plymouth,pink
+349000,2,1,0.09,Hanson,2341,1054,26/01/2010,Plymouth,pink
+495000,3,2,0.69,Hanson,2341,1470,28/12/2007,Plymouth,pink
+545500,4,3,0.99,Plympton,2367,2289,15/06/1994,Plymouth,pink
+419900,2,1,0.71,Raynham,2767,1092,21/05/1998,Bristol,pink
+389900,6,2,0.29,Taunton,2780,2518,31/03/2004,Bristol,dark purple
+399900,3,3,2.01,Taunton,2780,2142,01/05/1997,Bristol,pink
+424900,2,1,0.6,Taunton,2780,1348,15/03/2001,Bristol,pink
+499900,6,3,0.14,Taunton,2780,2256,08/07/2004,Bristol,dark purple
+299000,2,1,0.17,Hanson,2341,666,21/02/2007,Plymouth,pink
+760000,8,4,0.19,Taunton,2780,2850,05/10/2006,Bristol,dark purple
+399999,4,2,0.19,Taunton,2780,1678,07/11/2003,Bristol,pink
+549900,4,2,0.34,Whitman,2382,2024,19/04/2005,Plymouth,pink
+429900,3,3,0.42,Whitman,2382,2110,15/07/2008,Plymouth,pink
+525000,6,3,0.08,Taunton,2780,4064,22/12/2003,Bristol,dark purple
+549000,3,1,0.19,Rockland,2370,1554,22/03/1994,Plymouth,pink
+499900,3,2,6.1,Middleboro,2346,2200,16/01/2009,,pink
+799000,15,6,0.11,Fall River,2720,5100,16/09/2005,Bristol,dark purple
+474900,5,2,0.54,Freetown,2717,1872,30/04/2004,Bristol,pink
+499900,2,1,0.31,Freetown,2717,880,22/09/1989,Bristol,pink
+799000,5,3,0.4,Fall River,2720,2896,01/06/2009,Bristol,dark purple
+1226000,4,4,2.53,Lakeville,2347,4076,27/06/2003,Plymouth,dark purple
+460000,4,1,1.98,Middleboro,2346,1607,22/07/2005,,pink
+549900,4,2,0.23,Somerset,2726,1856,01/12/1995,Bristol,pink
+399900,3,2,0.53,Fall River,2720,1680,28/05/1993,Bristol,pink
+350000,2,2,0.36,Freetown,2717,1024,30/07/1975,Bristol,pink
+589900,5,6,1.69,Somerset,2726,2832,27/04/2004,Bristol,dark purple
+489000,3,2,0.25,Lakeville,2347,1456,17/09/2015,Plymouth,pink
+385000,3,2,0.2,Fall River,2720,1546,22/05/2006,Bristol,pink
+499900,5,2,0.13,Middleboro,2346,2214,25/05/1990,,pink
+1449000,9,7,6.84,Middleboro,2346,8830,31/01/2000,,purple
+689900,4,3,2.83,Middleboro,2346,2580,01/06/1990,,pink
+539000,3,2,0.24,Somerset,2726,2900,05/02/2001,Bristol,pink
+530000,3,2,0.8,Dighton,2715,1562,17/08/2007,Bristol,pink
+679900,3,3,2,Middleboro,2346,2532,05/06/1996,,pink
+349000,2,1,0.48,Middleboro,2346,807,18/06/2010,,pink
+429900,3,2,2.22,Middleboro,2346,1560,23/01/2006,,pink
+385000,3,1,0.5,Berkley,2779,960,22/06/2004,Bristol,pink
+724900,4,3,4.33,Raynham,2767,3627,14/12/2009,Bristol,dark purple
+374900,3,2,0.2,Dighton,2715,1279,31/05/1968,Bristol,pink
+620000,3,3,0.75,Middleboro,2346,2304,30/01/2006,,pink
+399900,3,2,0.35,Fall River,2720,1872,29/01/1997,Bristol,pink
+478000,3,2,0.64,Plymouth,2360,2437,28/06/2002,Plymouth,pink
+799999,3,3,0.21,Plymouth,2360,2398,03/09/2008,Plymouth,pink
+399900,2,1,0.31,Plymouth,2360,725,29/02/1988,Plymouth,pink
+474900,3,2,0.49,Plymouth,2360,1558,28/07/2006,Plymouth,pink
+669000,4,3,0.37,Plymouth,2360,2210,07/10/2005,Plymouth,pink
+449900,3,2,0.46,Plymouth,2360,2506,15/08/2005,Plymouth,pink
+725000,4,4,0.23,Plymouth,2360,2574,29/04/2016,Plymouth,dark purple
+459000,4,2,0.39,Plymouth,2360,2028,16/02/2005,Plymouth,pink
+350000,2,1,0.17,Plymouth,2360,800,03/11/2008,Plymouth,pink
+399900,2,1,0.15,Plymouth,2360,963,09/03/2007,Plymouth,pink
+459000,3,1,0.21,Plymouth,2360,1100,30/12/2008,Plymouth,pink
+739900,4,3,0.21,Plymouth,2360,2560,08/08/2008,Plymouth,pink
+429900,3,1,0.2,Plymouth,2360,1070,11/12/2003,Plymouth,pink
+1495000,3,4,3.81,Plymouth,2360,3755,11/03/2005,Plymouth,dark purple
+425000,2,1,0.68,Plymouth,2360,1040,28/10/2005,Plymouth,pink
+995000,3,2,0.32,Plymouth,2360,2358,03/05/2010,Plymouth,pink
+519999,2,2,0.68,Plymouth,2360,1368,22/11/2000,Plymouth,pink
+630000,4,2,0.35,Kingston,2364,2871,18/10/1985,Plymouth,pink
+800000,4,3,0.93,Kingston,2364,3073,24/07/1998,Plymouth,dark purple
+420000,4,2,0.15,Wareham,2538,1700,28/03/1997,Plymouth,pink
+389000,3,1,0.13,Taunton,2780,1500,19/12/2005,Bristol,pink
+895000,4,3,1.97,Rochester,2770,4650,27/05/1994,Plymouth,dark purple
+599900,4,3,0.35,Taunton,2718,2056,02/12/2005,Bristol,pink
+500000,4,2,0.36,Marion,2738,1710,30/03/2007,Plymouth,pink
+489000,4,2,0.21,Wareham,2571,1299,07/05/2004,Plymouth,pink
+525000,2,2,6.03,Bourne,2532,1615,27/02/1989,Barnstable,pink
+2850000,5,4,0.3,Wareham,2571,4896,30/04/1999,Plymouth,dark purple
+1100000,4,4,0.39,Bourne,2532,1539,16/04/1996,Barnstable,pink
+949900,3,3,0.18,Bourne,2532,1697,17/04/1998,Barnstable,pink
+450000,3,2,0.11,Plymouth,2360,1616,14/06/1993,Plymouth,pink
+190000,2,2,0.28,Plymouth,2360,1630,02/01/2002,Plymouth,pink
+628400,3,3,0.35,Plymouth,2360,1876,23/03/2022,Plymouth,pink
+550000,3,2,1.27,Plymouth,2360,2295,30/04/2002,Plymouth,pink
+699900,3,2,0.46,Buzzards Bay,2532,1326,05/10/1993,,pink
+895000,4,4,0.48,Marion,2738,2523,17/06/1994,Plymouth,dark purple
+3500000,6,10,0.63,Mattapoisett,2739,10313,21/10/2004,Plymouth,purple
+799000,2,3,0.11,Mattapoisett,2739,1872,13/07/1998,Plymouth,pink
+714900,4,3,0.51,Marion,2738,2569,17/11/2006,Plymouth,pink
+639900,4,3,0.76,Plymouth,2360,2617,27/06/2002,Plymouth,pink
+439000,4,2,0.11,Wareham,2571,1820,20/04/2004,Plymouth,pink
+249900,1,1,0.12,Wareham,2532,757,30/12/1994,Plymouth,pink
+635000,5,2,0.37,Plymouth,2360,3649,02/09/2004,Plymouth,dark purple
+473000,2,2,0.14,Plymouth,2360,1332,11/01/2001,Plymouth,pink
+589999,5,3,0.19,Plymouth,2360,2299,30/08/2002,Plymouth,dark purple
+619900,4,3,0.77,Wareham,2532,2660,01/11/2000,Plymouth,pink
+472000,3,2,0.92,Freetown,2717,1700,17/01/1990,Bristol,pink
+1895000,3,3,0.33,Buzzards Bay,2532,2886,10/01/1996,,pink
+975000,3,3,0.35,Mattapoisett,2739,1827,11/01/2002,Plymouth,pink
+310000,2,1,0.14,East Wareham,2538,768,11/04/2014,,pink
+1995000,4,4,2.07,Marion,2738,3663,09/07/1998,Plymouth,dark purple
+425000,4,2,0.06,Wareham,2571,1488,10/06/2010,Plymouth,pink
+459900,3,3,0.22,Wareham,2571,2244,06/03/2006,Plymouth,pink
+649900,4,3,0.65,Plymouth,2360,2802,01/06/2001,Plymouth,pink
+499900,2,2,1.94,Rochester,2770,1491,26/05/1995,Plymouth,pink
+799900,3,3,0.38,West Wareham,2576,1972,27/10/2005,,pink
+385000,3,1,0.28,Wareham,2571,1072,30/11/2004,Plymouth,pink
+339900,3,1,0.11,Wareham,2532,799,24/07/2009,Plymouth,pink
+475000,4,2,0.23,Wareham,2571,1842,23/10/1987,Plymouth,pink
+392500,6,3,0.33,Wareham,2538,1980,15/10/1997,Plymouth,dark purple
+585000,3,3,1.38,West Wareham,2576,1392,24/10/2008,,pink
+459000,3,1,0.69,Rochester,2770,1275,15/12/1989,Plymouth,pink
+499900,3,1,0.22,Bourne,2532,1280,15/07/1997,Barnstable,pink
+699000,2,2,0.17,Pocasset,2559,1408,28/04/2011,,pink
+595000,3,3,2.75,Plymouth,2360,2160,07/04/2005,Plymouth,pink
+425000,2,2,0.45,Plymouth,2360,1140,07/04/2008,Plymouth,pink
+1150000,9,7,0.19,Bourne,2532,5586,09/08/2005,Barnstable,dark purple
+598000,3,2,0.53,Plymouth,2360,1535,30/06/2005,Plymouth,pink
+549900,4,3,0.9,Plymouth,2360,2408,04/09/1996,Plymouth,pink
+349900,3,1,0.17,New Bedford,2745,960,30/06/2009,Bristol,pink
+329900,2,1,0.05,Plymouth,2360,528,31/05/2007,Plymouth,pink
+450000,3,2,0.14,New Bedford,2745,2088,05/05/2003,Bristol,pink
+799000,3,2,0.67,Plymouth,2360,2594,30/06/2006,Plymouth,pink
+350000,3,1,0.22,Plymouth,2360,1004,06/10/2008,Plymouth,pink
+650000,3,2,1.06,Plymouth,2360,2334,11/03/1996,Plymouth,pink
+499900,3,2,0.95,Berkley,2779,1596,18/10/1991,Bristol,pink
+575000,4,3,0.93,Bournedale,2532,1748,10/09/1991,,pink
+679900,6,2,0.2,Brockton,2301,2414,15/07/1994,Plymouth,dark purple
+999900,4,3,0.92,Foxboro,2035,4812,25/07/2002,,dark purple
+1650000,5,4,0.28,Newton,2459,3049,01/06/2006,Middlesex,dark purple
+199500,2,2,29.98,Buzzards Bay,2532,1320,23/03/1987,,pink
+265000,2,1,21.64,Bourne,2532,1060,23/06/2003,Barnstable,pink
+580000,3,3,0.37,Bourne,2532,3704,10/12/1992,Barnstable,pink
+535000,4,2,0.54,Bourne,2532,2040,25/03/1988,Barnstable,pink
+319900,3,3,0.75,Bourne,2532,1868,13/12/2019,Barnstable,pink
+640000,5,4,0.4,Bourne,2532,2585,07/10/2005,Barnstable,dark purple
+599900,3,4,0.92,Bourne,2532,2455,30/07/1999,Barnstable,pink
+799900,4,4,1.15,Buzzards Bay,2532,3628,28/12/2001,,dark purple
+1199000,4,3,0.92,Bourne,2532,3568,27/06/2002,Barnstable,dark purple
+499900,2,2,0.99,Bourne,2532,1052,22/04/2010,Barnstable,pink
+555900,3,2,0.5,Buzzards Bay,2532,2442,09/10/1996,,pink
+535000,2,3,8.88,Buzzards Bay,2532,1790,25/04/2008,,pink
+459900,2,1,0.35,Centerville,2632,1156,29/07/2005,,pink
+889900,4,4,1.92,Sandwich,2537,2869,15/11/1999,Barnstable,dark purple
+699900,3,1,0.28,Centerville,2632,906,01/01/1987,,pink
+499900,3,2,0.34,Centerville,2632,1546,29/01/1997,,pink
+549900,3,3,0.46,Barnstable,2648,1691,30/04/2001,Barnstable,pink
+499900,3,2,0.25,Falmouth,2536,1550,17/11/2003,Barnstable,pink
+675000,3,2,0.39,Marstons Mills,2648,1728,12/03/1992,,pink
+475000,3,2,0.3,Sandwich,2563,1344,18/09/1991,Barnstable,pink
+575000,3,3,0.36,West Barnstable,2668,1248,11/09/2007,,pink
+365000,2,1,0.19,Barnstable,2601,768,03/11/1989,Barnstable,pink
+550000,3,2,0.46,Falmouth,2536,1662,19/07/1996,Barnstable,pink
+1095000,3,4,0.34,Falmouth,2540,2914,29/12/1999,Barnstable,pink
+1750000,4,6,1.13,East Falmouth,2536,4293,19/07/2007,,dark purple
+689900,3,3,0.59,Sandwich,2563,1568,28/06/1994,Barnstable,pink
+1395000,4,3,2.09,Sandwich,2563,2593,28/03/2001,Barnstable,pink
+1875000,3,2,0.51,Sandwich,2537,2100,02/06/2005,Barnstable,pink
+3800000,5,7,0.76,Falmouth,2540,5700,21/05/2004,Barnstable,dark purple
+15000000,6,6,4.5,Chilmark,2535,4706,04/10/2005,Dukes,purple
+6750000,4,4,0.6,Chilmark,2535,3052,15/12/2021,Dukes,dark purple
+8900000,3,5,1.1,Chilmark,2535,4033,31/05/2022,Dukes,purple
+2950000,5,2,7.1,Chilmark,2535,2455,15/02/2022,Dukes,dark purple
+295000,3,1,0.36,East Falmouth,2536,1040,07/12/2009,,pink
+429000,3,2,0.63,Falmouth,2536,1596,10/08/2001,Barnstable,pink
+589900,2,3,0.55,East Falmouth,2536,1588,07/04/2006,,pink
+1100000,4,4,0.92,East Falmouth,2536,3726,21/01/2005,,dark purple
+525000,3,2,0.48,East Falmouth,2536,1238,03/03/1988,,pink
+424999,2,1,0.23,East Falmouth,2536,864,06/11/1987,,pink
+520000,3,2,0.39,East Falmouth,2536,1777,24/09/2008,,pink
+520000,3,2,0.17,Falmouth,2536,1463,07/02/1996,Barnstable,pink
+449000,3,2,0.47,East Falmouth,2536,984,19/09/2005,,pink
+675000,3,2,0.6,East Falmouth,2536,1580,18/08/2009,,pink
+599000,3,2,0.47,East Falmouth,2536,1862,13/09/2002,,pink
+1900000,4,4,0.21,East Falmouth,2536,2400,08/12/1992,,dark purple
+589000,3,2,0.17,East Falmouth,2536,1650,06/06/2002,,pink
+550000,3,2,0.33,East Falmouth,2536,1406,25/09/1990,,pink
+479000,3,2,0.34,Sandwich,2537,1404,31/07/1996,Barnstable,pink
+489900,3,2,0.34,East Sandwich,2537,1629,25/04/1997,,pink
+689000,3,3,0.48,East Sandwich,2537,1632,14/02/2003,,pink
+489000,4,2,0.44,East Sandwich,2537,1828,10/09/1990,,pink
+599999,3,2,0.93,East Sandwich,2537,2037,29/10/1998,,pink
+527500,4,2,0.57,East Sandwich,2537,1428,09/12/2005,,pink
+1950000,4,6,0.86,East Sandwich,2537,4726,10/11/2004,,dark purple
+799000,4,2,1.25,Sandwich,2537,2417,25/07/2008,Barnstable,pink
+1150000,4,4,1.64,East Sandwich,2537,4454,16/04/1996,,dark purple
+939000,4,3,3.71,East Sandwich,2537,2772,30/04/2004,,pink
+995000,3,2,0.08,East Sandwich,2537,1008,24/04/1992,,pink
+1875000,4,3,0.82,East Sandwich,2537,3090,30/11/2005,,dark purple
+1825000,4,4,0.69,East Sandwich,2537,3600,05/12/2006,,dark purple
+1750000,3,3,0.4,Edgartown,2539,3479,02/02/1998,Dukes,pink
+1050000,2,1,0.39,Edgartown,2539,784,11/03/2009,Dukes,pink
+1299999,2,2,1,Edgartown,2539,1900,12/05/2022,Dukes,pink
+1499000,4,2,0.5,Edgartown,2539,1500,05/10/2007,Dukes,pink
+2200000,4,3,0.72,Edgartown,2539,3080,31/03/2004,Dukes,dark purple
+2300000,4,3,0.46,Edgartown,2539,2605,16/02/1994,Dukes,dark purple
+1749000,3,2,0.5,Edgartown,2539,1443,11/05/2022,Dukes,pink
+2995000,2,1,0.16,Edgartown,2539,600,30/04/2002,Dukes,pink
+8250000,5,6,6.8,Edgartown,2539,5100,29/06/2000,Dukes,purple
+4200000,4,4,0.18,Edgartown,2539,2446,12/01/2004,Dukes,dark purple
+3795000,4,2,3.91,Edgartown,2539,2339,31/10/2008,Dukes,pink
+5395000,4,6,1.64,Edgartown,2539,6477,16/12/2002,Dukes,purple
+3450000,4,4,0.49,Edgartown,2539,2708,28/10/1998,Dukes,dark purple
+3489000,5,5,0.2,Edgartown,2539,3156,19/02/2004,Dukes,dark purple
+995000,4,4,0.56,Falmouth,2540,3293,28/06/2005,Barnstable,dark purple
+825000,3,3,0.19,Falmouth,2540,1910,27/10/1988,Barnstable,pink
+849995,4,3,0.98,West Falmouth,2540,2263,14/08/1998,,pink
+1299000,6,4,0.86,Falmouth,2540,2870,08/04/1992,Barnstable,dark purple
+14500000,4,6,22.9,Falmouth,2540,4244,15/01/2008,Barnstable,purple
+420000,2,2,25,Falmouth,2540,1265,01/10/2007,Barnstable,pink
+2150000,4,4,0.46,Falmouth,2540,4700,16/05/2008,Barnstable,dark purple
+875000,2,1,0.34,Falmouth,2540,1247,14/12/2004,Barnstable,pink
+1170000,5,5,1.05,Falmouth,2540,3200,04/03/1996,Barnstable,dark purple
+1100000,4,3,0.35,Falmouth,2540,2020,22/05/1997,Barnstable,pink
+1995000,5,4,0.38,Falmouth,2540,3909,14/03/1997,Barnstable,dark purple
+1200000,4,2,0.24,Falmouth,2540,1830,01/05/2008,Barnstable,pink
+1350000,4,3,0.42,Falmouth,2540,3262,29/04/1988,Barnstable,dark purple
+1399000,5,3,0.93,Falmouth,2540,2614,15/05/2007,Barnstable,dark purple
+2575000,5,5,0.49,Falmouth,2540,3816,08/08/2006,Barnstable,dark purple
+489000,3,2,0.31,Mashpee,2649,1330,13/09/2012,Barnstable,pink
+555000,3,2,0.35,Mashpee,2649,1500,13/11/1992,Barnstable,pink
+595000,3,2,0.32,Mashpee,2649,1572,12/02/2001,Barnstable,pink
+739000,3,3,0.31,Mashpee,2649,2009,20/12/2002,Barnstable,pink
+959900,4,3,0.6,Fairhaven,2719,1800,01/06/2004,Bristol,pink
+699900,3,2,0.21,Mashpee,2649,1643,17/07/2008,Barnstable,pink
+799000,3,2,0.43,Osterville,2655,1930,18/07/1997,,pink
+1299000,4,3,0.82,Barnstable,2655,2656,01/07/1990,Barnstable,pink
+5195000,4,4,0.91,Vineyard Haven,2568,2581,02/06/2005,,dark purple
+609900,4,3,0.46,Sandwich,2644,2037,26/04/2002,Barnstable,pink
+600000,4,3,0.1,Bourne,2559,1750,31/07/2003,Barnstable,pink
+1499000,2,2,0.27,Sandwich,2563,1743,12/10/2001,Barnstable,pink
+849995,2,2,0.1,Nantucket,2554,1030,30/05/2022,Nantucket,pink
+12750000,8,8,0.45,Nantucket,2554,5085,09/01/2008,Nantucket,purple
+1550000,3,3,0.13,Nantucket,2554,2870,24/01/2006,Nantucket,pink
+2895000,3,4,0.12,Nantucket,2554,1700,01/04/1998,Nantucket,pink
+2250000,4,3,0.49,Nantucket,2554,2028,23/05/2022,Nantucket,pink
+3695000,4,4,2.75,Nantucket,2554,2801,15/11/1989,Nantucket,dark purple
+5350000,6,7,0.17,Nantucket,2554,4747,11/06/1999,Nantucket,purple
+4495000,4,4,0.11,Nantucket,2554,2158,17/08/2020,Nantucket,dark purple
+3250000,3,2,0.07,Nantucket,2554,1108,17/08/2007,Nantucket,pink
+3250000,4,3,0.08,Nantucket,2554,2136,29/02/2008,Nantucket,dark purple
+8795000,6,9,1.27,Nantucket,2554,8139,01/10/2001,Nantucket,purple
+2200000,3,2,1.16,Nantucket,2554,1440,29/09/1995,Nantucket,pink
+3875000,3,2,0.88,Nantucket,2554,1818,08/07/2004,Nantucket,pink
+4099000,3,3,0.72,Nantucket,2554,2447,01/04/2005,Nantucket,pink
+6195000,4,5,0.12,Nantucket,2554,2624,08/10/1999,Nantucket,dark purple
+4495000,5,5,0.12,Nantucket,2554,3824,21/10/2010,Nantucket,dark purple
+11900000,6,6,0.44,Nantucket,2554,4000,30/06/1998,Nantucket,purple
+4695000,5,5,0.26,Nantucket,2554,2585,16/09/1993,Nantucket,dark purple
+4649000,4,5,0.12,Nantucket,2554,3919,26/04/2022,Nantucket,dark purple
+675000,3,2,0.58,North Falmouth,2556,1872,22/04/1998,,pink
+3995000,4,6,0.46,Falmouth,2556,3450,14/06/2002,Barnstable,dark purple
+6995000,5,5,2.69,North Falmouth,2556,7032,28/11/2000,,purple
+1600000,4,4,0.57,Falmouth,2556,2746,04/12/1995,Barnstable,dark purple
+3399000,4,4,1.26,North Falmouth,2556,3518,06/01/1993,,dark purple
+775000,3,2,0.13,Oak Bluffs,2557,1075,10/06/2004,Dukes,pink
+775000,2,1,0.22,Oak Bluffs,2557,1000,31/10/1997,Dukes,pink
+950000,3,4,0.06,Oak Bluffs,2557,1320,27/05/2022,Dukes,pink
+995000,3,2,0.21,Oak Bluffs,2557,1300,11/03/1999,Dukes,pink
+1399000,2,4,0.23,Oak Bluffs,2557,2189,01/12/2005,Dukes,pink
+1499000,3,4,0.29,Oak Bluffs,2557,2764,20/05/2022,Dukes,pink
+2750000,2,4,0.12,Oak Bluffs,2557,3076,22/06/1999,Dukes,pink
+1500000,4,2,1.65,Oak Bluffs,2557,1552,25/07/2008,Dukes,pink
+1795000,4,3,0.28,Oak Bluffs,2557,2038,22/11/2016,Dukes,pink
+349900,2,1,0.18,Bourne,2559,672,29/12/1995,Barnstable,pink
+425000,3,1,0.22,Pocasset,2559,1579,17/08/1990,,pink
+420000,3,1,0.19,Pocasset,2559,802,09/05/2003,,pink
+699900,3,3,0.34,Bourne,2562,1600,02/05/1991,Barnstable,pink
+899900,3,4,0.35,Sagamore Beach,2562,4616,24/11/1987,,dark purple
+1200000,4,6,0.88,Sandwich,2563,6418,29/01/1999,Barnstable,dark purple
+2500000,3,2,4.66,East Falmouth,2536,1650,02/12/1992,,pink
+2950000,4,5,0.6,Osterville,2655,4190,24/07/2007,,dark purple
+525000,2,1,0.39,East Falmouth,2536,1008,11/06/1999,,pink
+599000,4,3,0.47,East Falmouth,2536,2066,17/07/2000,,pink
+879000,5,3,0.84,East Falmouth,2536,3172,04/01/1995,,dark purple
+749000,3,3,0.53,Falmouth,2536,2210,20/04/1988,Barnstable,pink
+699900,3,3,66,East Falmouth,2536,2492,03/10/1996,,pink
+549000,4,2,0.26,East Falmouth,2536,1632,18/03/1999,,pink
+799000,3,3,1.07,East Falmouth,2536,2149,18/05/1999,,pink
+899000,4,2,0.32,East Falmouth,2536,1564,05/04/2006,,pink
+1199000,4,3,1.18,East Falmouth,2536,3968,30/06/1997,,dark purple
+750000,4,4,0.28,Falmouth,2536,1789,15/06/2005,Barnstable,pink
+675000,3,2,0.23,East Falmouth,2536,1138,08/06/2010,,pink
+2950000,5,6,0.65,East Falmouth,2536,5166,27/04/1999,,dark purple
+750000,3,3,0.22,Centerville,2632,1631,01/05/1990,,pink
+1595000,4,4,6.98,West Barnstable,2668,2600,01/03/2005,,dark purple
+1575000,3,6,0.41,Sandwich,2563,4000,03/05/2000,Barnstable,dark purple
+2290000,3,4,0.39,New Seabury,2649,3800,14/06/2002,,dark purple
+549900,3,2,0.34,Mashpee,2649,2369,31/12/2008,Barnstable,pink
+519000,3,2,0.48,Marstons Mills,2648,1884,03/06/2003,,pink
+1299000,3,4,0.54,Mashpee,2649,4444,31/10/2003,Barnstable,dark purple
+459000,7,6,0.09,New Bedford,2740,5608,02/03/2005,Bristol,dark purple
+1395000,4,5,1.13,West Barnstable,2668,3216,27/07/1998,,dark purple
+3195000,5,6,3.06,Osterville,2655,5721,23/06/2000,,dark purple
+2399000,4,4,1.02,Centerville,2632,3499,05/05/2004,,dark purple
+1349000,2,3,0.5,Edgartown,2539,1900,07/08/2015,Dukes,pink
+8250000,5,6,0.44,Edgartown,2539,5207,05/05/2009,Dukes,purple
+1149000,5,4,1.07,Woods Hole,2540,3803,21/11/1996,,dark purple
+28000000,8,12,1.07,Nantucket,2554,8817,13/08/1986,Nantucket,purple
+2999000,4,5,0.94,Nantucket,2554,2510,01/06/1998,Nantucket,dark purple
+4995000,4,4,0.09,Nantucket,2554,4351,15/11/1995,Nantucket,dark purple
+3495000,6,5,1.22,Nantucket,2554,5302,22/07/1992,Nantucket,dark purple
+23750000,6,9,6.24,Nantucket,2554,7609,02/12/1994,Nantucket,purple
+2500000,3,2,0.62,Nantucket,2554,1536,27/10/1994,Nantucket,pink
+2495000,2,2,0.07,Nantucket,2554,850,15/04/2022,Nantucket,pink
+2900000,6,2,0.05,Nantucket,2554,2745,20/11/1997,Nantucket,dark purple
+3350000,4,3,0.07,Nantucket,2554,1776,19/11/1987,Nantucket,pink
+3800000,5,6,0.05,Nantucket,2554,2350,29/04/2022,Nantucket,dark purple
+12450000,5,9,2.38,Nantucket,2554,8333,21/12/2005,Nantucket,purple
+3950000,2,2,0.09,Nantucket,2554,1539,09/01/1997,Nantucket,pink
+5950000,9,6,0.14,Nantucket,2554,2881,31/03/1998,Nantucket,dark purple
+10950000,6,6,3.17,Nantucket,2554,6185,29/09/2005,Nantucket,purple
+7395000,7,10,1.84,Nantucket,2554,6953,17/07/2002,Nantucket,purple
+3695000,5,5,0.11,Nantucket,2554,3516,10/11/2005,Nantucket,dark purple
+5450000,3,5,3.15,Nantucket,2554,2979,01/03/2006,Nantucket,dark purple
+850000,3,3,1,Cotuit,2635,2820,14/03/2003,,pink
+2399000,4,4,1.24,Marstons Mills,2648,3499,01/09/1998,,dark purple
+489900,3,2,0.33,Mashpee,2649,1380,14/10/2005,Barnstable,pink
+400000,3,3,0.65,Sandwich,2563,2332,25/08/2004,Barnstable,pink
+734999,3,2,0.4,New Seabury,2649,2075,15/08/2002,,pink
+1050000,3,3,0.4,Centerville,2632,2722,13/04/1988,,pink
+1699000,3,4,0.54,Mashpee,2649,4469,16/02/2001,Barnstable,dark purple
+749000,3,4,0.46,Marstons Mills,2648,1875,01/12/1992,,pink
+1095000,3,4,1,Cotuit,2635,3440,16/10/1995,,dark purple
+749900,5,6,1,Marstons Mills,2648,2400,08/06/2006,,dark purple
+1125000,4,3,0.13,Mashpee,2649,2182,06/07/1994,Barnstable,pink
+1490000,3,4,0.33,Mashpee,2649,2800,18/05/2005,Barnstable,pink
+2995000,5,5,0.72,Mashpee,2649,3750,22/11/2011,Barnstable,dark purple
+1950000,4,4,0.37,Mashpee,2649,3500,02/03/2010,Barnstable,dark purple
+860000,3,3,1.39,Marstons Mills,2648,3250,26/04/2002,,pink
+694000,4,3,1.1,Centerville,2632,2472,01/12/2009,,pink
+1200000,5,3,1.35,Sandwich,2563,3846,19/07/1995,Barnstable,dark purple
+675000,3,2,1,West Barnstable,2668,2088,27/03/1995,,pink
+725000,4,3,0.5,Mashpee,2649,2300,03/04/2007,Barnstable,pink
+639000,3,2,0.62,Mashpee,2649,1538,21/05/1991,Barnstable,pink
+826789,5,4,0.5,Sandwich,2563,3178,28/06/2002,Barnstable,dark purple
+599000,3,3,1.01,Sandwich,2563,1709,10/08/1989,Barnstable,pink
+609000,4,2,0.3,Mashpee,2649,1464,26/06/1998,Barnstable,pink
+1350000,9,9,0.7,Sandwich,2563,4940,14/03/2007,Barnstable,dark purple
+749900,3,3,1,West Barnstable,2668,2024,22/08/1997,,pink
+1649000,3,3,0.46,Sandwich,2563,5612,28/02/2007,Barnstable,dark purple
+2150000,3,4,0.25,Popponesset,2649,3016,31/03/2004,,dark purple
+649000,3,2,0.38,Centerville,2632,2219,31/01/2000,,pink
+673000,4,2,0.35,Mashpee,2649,1700,14/07/2000,Barnstable,pink
+930000,2,3,4.58,New Seabury,2649,1816,18/01/2022,,pink
+390000,2,1,0.38,Mashpee,2649,960,30/06/2000,Barnstable,pink
+429000,3,2,0.48,Mashpee,2649,1232,20/08/1996,Barnstable,pink
+460000,2,1,0.58,Mashpee,2649,884,30/05/1991,Barnstable,pink
+759900,4,3,0.64,Forestdale,2644,2886,30/08/2000,,pink
+1049900,5,4,0.74,Forestdale,2644,4773,19/07/1996,,dark purple
+1195000,3,3,1.9,Mashpee,2649,3427,21/11/1994,Barnstable,pink
+1099000,3,3,0.4,Sandwich,2563,2619,31/05/2006,Barnstable,pink
+595000,3,2,0.56,Marstons Mills,2648,1487,30/04/2007,,pink
+949900,2,2,1,West Barnstable,2668,1492,14/04/2006,,pink
+964900,3,3,1,Marstons Mills,2648,2823,15/08/1997,,pink
+649000,3,3,0.39,Centerville,2632,2060,04/10/2007,,pink
+689000,3,2,0.29,Mashpee,2649,1572,05/06/2003,Barnstable,pink
+759000,4,3,0.24,New Seabury,2649,2177,29/03/1989,,pink
+2295000,5,7,0.5,Mashpee,2649,5679,25/11/2011,Barnstable,dark purple
+569000,4,2,0.54,Marstons Mills,2648,1875,17/11/1997,,pink
+369900,3,1,0.34,Mashpee,2649,960,15/02/2008,Barnstable,pink
+499900,3,3,0.29,Mashpee,2649,2124,21/06/1996,Barnstable,pink
+525000,3,2,0.3,Mashpee,2649,1320,28/09/1990,Barnstable,pink
+549900,3,2,0.56,Mashpee,2649,1456,09/05/2002,Barnstable,pink
+1999999,5,4,1.7,Mashpee,2649,5000,24/06/1993,Barnstable,dark purple
+619000,3,2,0.37,Barnstable,2632,1876,31/05/1991,Barnstable,pink
+1450000,4,5,1,West Barnstable,2668,4091,30/06/1997,,dark purple
+759000,2,3,0.35,Osterville,2655,2484,30/07/2008,,pink
+675000,3,4,0.56,Sandwich,2563,2788,29/04/1988,Barnstable,pink
+845000,4,3,0.44,West Barnstable,2668,2222,16/08/2000,,pink
+2249000,5,8,1.3,Barnstable,2655,4350,30/04/1999,Barnstable,dark purple
+599000,3,2,0.57,Marstons Mills,2648,1409,30/11/1987,,pink
+735000,3,4,0.34,Mashpee,2649,2244,01/10/2004,Barnstable,pink
+669000,3,2,0.11,Sandwich,2563,1364,24/06/1991,Barnstable,pink
+839000,3,1,0.19,Popponesset,2649,864,08/09/1992,,pink
+709900,3,1,1.66,Marstons Mills,2648,1140,01/07/1991,,pink
+579000,4,2,0.46,Forestdale,2644,2143,29/09/2005,,pink
+690000,2,3,0.23,Marstons Mills,2648,2070,27/06/2001,,pink
+895000,3,2,0.32,Osterville,2655,1200,30/10/2009,,pink
+499000,3,2,0.83,West Barnstable,2668,1346,29/01/1993,,pink
+550000,3,2,0.67,Mashpee,2649,1444,25/10/1990,Barnstable,pink
+649900,3,3,0.53,Centerville,2632,2151,29/10/1987,,pink
+479900,2,2,0.57,Centerville,2632,1008,12/12/2008,,pink
+985000,3,3,0.44,New Seabury,2649,2225,03/05/2002,,pink
+419000,3,1,0.48,Sandwich,2644,1489,14/09/2001,Barnstable,pink
+499000,3,2,0.52,Forestdale,2644,1428,04/11/2004,,pink
+599900,4,2,0.6,Mashpee,2649,1496,08/01/1990,Barnstable,pink
+2999000,4,4,0.95,Sandwich,2563,4500,05/11/2004,Barnstable,dark purple
+550000,3,2,0.44,Mashpee,2649,1428,02/09/1994,Barnstable,pink
+645000,3,3,0.36,Marstons Mills,2648,1940,19/08/1988,,pink
+1150000,3,3,0.44,Sandwich,2563,2973,28/06/2004,Barnstable,pink
+2000000,4,4,7.9,Mashpee,2649,2900,01/06/1999,Barnstable,dark purple
+659000,3,3,0.49,Marstons Mills,2648,2337,27/05/2005,,pink
+599000,3,2,1.44,Sandwich,2563,1804,15/07/2002,Barnstable,pink
+655000,3,3,0.49,Barnstable,2632,2048,31/08/1999,Barnstable,pink
+839500,3,2,0.15,Mashpee,2649,812,21/01/2004,Barnstable,pink
+739000,4,3,0.96,Sandwich,2563,2531,03/05/2007,Barnstable,pink
+1349000,4,4,0.72,Mattapoisett,2739,4485,28/02/2003,Plymouth,dark purple
+6950000,7,7,1.34,Vineyard Haven,2568,6476,30/06/2000,,purple
+8795000,6,8,0.82,Mashpee,2649,4884,01/11/1991,Barnstable,purple
+5750000,6,9,7.39,Tisbury,2568,5548,16/09/1998,Dukes,purple
+3195000,4,3,3.28,West Tisbury,2575,4200,19/06/2008,Dukes,dark purple
+4800000,5,4,2.96,Vineyard Haven,2568,3198,16/11/2006,,dark purple
+699000,2,1,0.55,Fairhaven,2719,423,05/11/2012,Bristol,pink
+1650000,1,2,0.18,New Seabury,2649,1046,30/11/2005,,pink
+3100000,4,7,2.2,Osterville,2655,5700,28/09/2007,,dark purple
+693000,1,1,0.68,Vineyard Haven,2568,544,03/05/2022,,pink
+699900,3,2,0.75,Osterville,2655,1660,29/09/2003,,pink
+825000,3,2,0.51,Vineyard Haven,2568,1534,19/03/1999,,pink
+1395000,3,2,0.55,Osterville,2655,1794,31/12/1997,,pink
+645000,3,3,0.34,Centerville,2632,1872,28/08/1992,,pink
+799900,3,2,0.51,Osterville,2655,1460,04/05/1999,,pink
+600000,4,2,0.46,Centerville,2632,2050,25/06/1999,,pink
+690000,3,2,0.71,Centerville,2632,1802,18/12/1995,,pink
+665000,3,2,0.62,Centerville,2632,1544,21/12/2009,,pink
+1160000,4,2,0.3,Vineyard Haven,2568,1808,13/05/2022,,pink
+4125000,5,6,0.53,Barnstable,2655,5421,29/11/2006,Barnstable,dark purple
+385000,1,2,0.13,Centerville,2632,912,24/08/2009,,pink
+549900,3,3,0.36,Centerville,2632,2136,01/06/1990,,pink
+3750000,3,5,0.43,Mashpee,2649,3090,22/06/1987,Barnstable,dark purple
+899000,3,2,0.21,Oak Bluffs,2568,960,06/05/2022,Dukes,pink
+1069000,3,2,0.12,Vineyard Haven,2568,1152,14/09/1998,,pink
+2699000,4,3,0.29,Vineyard Haven,2568,2200,28/02/2007,,dark purple
+499900,3,3,0.39,Barnstable,2632,1640,01/12/1992,Barnstable,pink
+8900000,5,6,0.79,New Seabury,2649,4569,28/01/1992,,purple
+974900,3,2,0.4,Vineyard Haven,2568,1260,09/04/1997,,pink
+1275000,3,3,0.28,Osterville,2655,2500,12/11/2009,,pink
+7995000,3,5,1.47,Vineyard Haven,2568,4458,20/10/2006,,purple
+1495000,3,3,0.28,Osterville,2655,2145,19/02/1999,,pink
+469000,2,1,0.12,West Yarmouth,2673,936,26/05/2005,,pink
+279900,3,1,0.29,Hyannis,2601,1056,24/02/2000,,pink
+18500000,8,12,6.11,Osterville,2655,10027,15/01/1999,,purple
+689000,3,2,1.92,Barnstable,2630,1566,25/11/1996,Barnstable,pink
+499900,2,2,0.14,West Yarmouth,2673,1080,28/06/1991,,pink
+374000,2,3,9,West Yarmouth,2673,1260,15/08/2002,,pink
+2700000,4,5,1.52,Barnstable,2632,3309,01/12/1987,Barnstable,dark purple
+750000,3,2,0.53,Hyannis,2601,1844,17/12/2003,,pink
+1189000,3,3,0.25,West Yarmouth,2673,1904,15/07/1987,,pink
+400000,2,1,0.4,West Yarmouth,2673,1164,21/12/2006,,pink
+499000,2,2,0.23,Hyannis,2601,1032,28/08/1997,,pink
+1850000,7,8,1.86,Barnstable,2630,4519,05/08/2004,Barnstable,dark purple
+444000,3,2,0.23,West Yarmouth,2673,2440,07/03/2022,,pink
+427000,2,2,0.47,Hyannis,2601,1295,15/04/2004,,pink
+550000,2,2,0.51,Hyannis,2601,1512,27/10/2006,,pink
+499000,3,2,0.34,Hyannis,2601,1296,28/06/1996,,pink
+650000,3,3,0.52,Hyannis,2601,1782,10/10/1996,,pink
+550000,3,2,0.27,Hyannis,2601,2080,08/05/2000,,pink
+799900,3,3,0.47,Centerville,2632,2464,11/12/2008,,pink
+350000,2,2,0.35,Yarmouth,2673,1060,29/07/1991,Barnstable,pink
+339900,2,1,0.15,Barnstable,2601,844,01/08/1989,Barnstable,pink
+649000,2,2,0.25,Hyannis,2601,2424,30/10/2001,,pink
+369900,3,1,0.2,West Yarmouth,2673,864,01/12/2010,,pink
+849900,3,4,0.87,Cummaquid,2675,2563,03/08/2007,,pink
+899000,3,5,0.37,Centerville,2632,3083,01/07/1996,,dark purple
+799900,3,3,0.22,Hyannis,2601,2222,06/09/2005,,pink
+549000,3,3,0.76,Centerville,2632,2127,15/12/1987,,pink
+599800,3,2,0.21,Hyannis,2601,2264,01/12/1988,,pink
+499000,3,1,0.23,Hyannis,2601,1400,12/02/2003,,pink
+1495000,3,3,0.27,West Yarmouth,2673,2476,19/09/1997,,pink
+1295000,3,2,0.57,Centerville,2632,2136,06/04/2005,,pink
+2600000,3,3,0.8,Mattapoisett,2739,1829,09/04/2004,Plymouth,pink
+549000,3,2,0.34,Hyannis,2601,2372,14/04/1999,,pink
+500000,2,1,0.4,South Yarmouth,2664,720,20/03/1992,,pink
+850000,3,1,0.22,Mattapoisett,2739,1128,12/09/2007,Plymouth,pink
+519000,3,1,0.26,West Yarmouth,2673,1572,01/05/2001,,pink
+350000,2,3,9,West Yarmouth,2673,1246,15/07/2002,,pink
+2295000,5,5,0.23,Barnstable,2630,2605,27/10/2000,Barnstable,dark purple
+399000,3,1,0.23,West Yarmouth,2673,768,28/04/2000,,pink
+1199000,3,3,1.03,Barnstable,2630,1978,12/10/2005,Barnstable,pink
+615000,3,1,0.38,Hyannis,2601,960,17/02/2004,,pink
+575000,3,2,0.13,Hyannis,2601,1458,28/03/2003,,pink
+469000,3,1,0.11,Barnstable,2601,1345,23/04/1998,Barnstable,pink
+679900,3,2,1,Centerville,2632,1697,09/11/1994,,pink
+376000,3,3,0.09,New Bedford,2746,1445,29/03/1995,Bristol,pink
+385000,6,2,0.1,New Bedford,2740,4299,30/08/2016,Bristol,dark purple
+1350000,4,3,0.23,Fairhaven,2719,4167,14/03/2019,Bristol,dark purple
+349900,5,3,0.07,New Bedford,2740,2746,22/01/1993,Bristol,dark purple
+1175000,3,2,0.91,Fairhaven,2719,2184,29/09/1998,Bristol,pink
+349900,3,2,0.15,Fairhaven,2719,1516,02/01/2001,Bristol,pink
+350000,3,2,0.07,New Bedford,2740,1391,20/05/1997,Bristol,pink
+300000,4,2,0.06,New Bedford,2740,2580,24/08/2009,Bristol,pink
+299900,4,2,0.06,New Bedford,2740,1855,21/04/2006,Bristol,pink
+379900,3,2,0.15,New Bedford,2740,2729,01/10/1998,Bristol,pink
+780000,4,3,0.2,Fairhaven,2719,2488,16/04/1997,Bristol,pink
+539900,3,3,0.14,Fairhaven,2719,1920,31/03/2008,Bristol,pink
+449900,6,2,0.14,New Bedford,2740,2428,22/07/2009,Bristol,dark purple
+310000,3,2,0.1,New Bedford,2746,1540,27/08/2007,Bristol,pink
+409900,5,3,0.09,New Bedford,2740,1522,09/12/2008,Bristol,pink
+599900,8,3,0.06,New Bedford,2740,3156,30/05/2007,Bristol,dark purple
+470000,6,3,0.05,New Bedford,2740,2274,20/05/2003,Bristol,dark purple
+649000,4,2,0.12,Fairhaven,2719,2160,24/06/2003,Bristol,pink
+795000,3,4,0.22,Fairhaven,2719,2450,25/08/1995,Bristol,pink
+399900,6,3,0.07,New Bedford,2746,2872,31/10/1994,Bristol,dark purple
+429900,4,1,0.16,Fairhaven,2719,1267,05/07/2005,Bristol,pink
+344900,8,4,0.08,New Bedford,2740,2701,19/06/2020,Bristol,dark purple
+300000,3,2,0.06,New Bedford,2740,1428,21/11/2003,Bristol,pink
+298500,2,1,0.09,New Bedford,2745,1206,30/06/2010,Bristol,pink
+429900,3,1,0.16,Fairhaven,2719,1336,08/08/1988,Bristol,pink
+249900,3,1,0.06,New Bedford,2740,997,10/10/2008,Bristol,pink
+4400000,4,5,0.36,Chatham,2633,3840,25/08/1994,Barnstable,dark purple
+1725000,3,3,0.1,Chatham,2633,1564,22/07/1997,Barnstable,pink
+13600000,5,7,1.68,Chatham,2633,5079,21/09/1995,Barnstable,purple
+4695000,7,8,0.47,Chatham,2633,4279,11/08/1995,Barnstable,purple
+1699000,5,3,1.6,West Tisbury,2575,2075,10/05/2022,Dukes,dark purple
+1112000,3,2,1.6,West Tisbury,2575,1092,09/07/1999,Dukes,pink
+2000000,3,3,1.39,West Tisbury,2575,2926,16/07/2021,Dukes,pink
+3200000,4,5,3,West Tisbury,2575,4150,01/06/2005,Dukes,dark purple
+269900,3,2,0.12,New Bedford,2740,1351,02/04/2009,Bristol,pink
+425000,3,2,0.83,Brewster,2631,1368,06/07/2001,Barnstable,pink
+407000,2,1,0.46,Brewster,2631,1244,22/09/1995,Barnstable,pink
+899000,3,2,0.36,Chatham,2633,1681,21/12/1998,Barnstable,pink
+824900,4,2,0.75,Chatham,2633,1868,28/10/1994,Barnstable,pink
+799000,3,3,0.62,Chatham,2633,2082,26/01/1990,Barnstable,pink
+949000,3,2,0.24,Chatham,2633,1372,06/01/1993,Barnstable,pink
+3949000,5,6,1.01,Chatham,2633,5888,15/11/2006,Barnstable,dark purple
+1650000,4,4,0.7,Chatham,2633,2900,22/11/2006,Barnstable,dark purple
+2995000,6,3,0.98,Chatham,2633,2794,15/11/1989,Barnstable,dark purple
+499000,3,3,0.29,Yarmouth,2664,3162,02/01/2009,Barnstable,pink
+479900,2,2,0.34,South Yarmouth,2664,1732,18/08/1998,,pink
+399000,2,1,0.21,West Yarmouth,2673,924,09/05/2003,,pink
+499900,3,1,0.14,South Dennis,2660,640,19/05/2006,,pink
+440000,2,2,0.2,West Yarmouth,2673,1040,30/08/2006,,pink
+849900,4,3,0.34,Yarmouth Port,2675,2571,29/06/2006,,pink
+675000,3,1,0.23,Dennis,2638,1080,17/11/1993,Barnstable,pink
+475000,2,1,0.1,Dennis,2639,908,25/06/2004,Barnstable,pink
+623000,3,2,0.29,Yarmouth Port,2675,1442,15/04/2005,,pink
+699900,4,2,0.15,Dennis,2639,1308,26/06/1998,Barnstable,pink
+1350000,2,1,0.35,West Dennis,2670,1528,01/09/2004,,pink
+475000,2,2,0.14,Dennis,2638,1411,02/12/2005,Barnstable,pink
+1500000,13,14,0.5,Dennis,2638,6290,02/04/2004,Barnstable,purple
+1350000,4,3,0.32,Dennis,2638,3633,29/06/2001,Barnstable,dark purple
+3800000,4,5,0.35,Dennis,2638,4360,11/06/2002,Barnstable,dark purple
+468000,2,1,0.19,Dennis Port,2639,784,31/01/2006,,pink
+825000,3,3,0.18,Dennis,2639,2116,21/05/1996,Barnstable,pink
+399000,2,1,0.19,Dennis Port,2639,792,18/03/2022,,pink
+525000,2,2,0.32,Dennis Port,2639,804,15/10/2002,,pink
+545000,2,1,0.15,Dennis Port,2639,704,30/10/1998,,pink
+599000,5,2,0.4,Dennis Port,2639,1468,02/11/2000,,pink
+749000,2,1,0.26,Dennis Port,2639,720,31/07/2007,,pink
+495000,3,2,0.15,Dennis Port,2639,982,19/11/2009,,pink
+3995000,6,7,1.18,East Dennis,2641,4863,02/01/1998,,dark purple
+769000,3,2,0.73,Eastham,2642,1872,31/01/1994,Barnstable,pink
+740000,3,3,0.46,Eastham,2642,2018,14/09/2004,Barnstable,pink
+769000,3,3,0.54,Eastham,2642,2130,22/06/1987,Barnstable,pink
+679000,2,2,0.6,Eastham,2642,1404,06/07/1994,Barnstable,pink
+599000,3,1,0.21,Eastham,2642,952,01/10/2004,Barnstable,pink
+650000,3,2,1.11,Eastham,2642,1717,30/07/1984,Barnstable,pink
+1398000,3,4,0.59,Eastham,2642,2689,28/10/1999,Barnstable,pink
+789000,4,2,0.46,Eastham,2642,2309,30/04/1991,Barnstable,pink
+699000,3,2,0.86,Eastham,2642,1656,25/04/1997,Barnstable,pink
+1125000,4,4,0.51,Eastham,2642,2306,16/05/1994,Barnstable,dark purple
+849000,4,2,0.67,Eastham,2642,1728,15/05/2009,Barnstable,pink
+1625000,4,4,1.23,Eastham,2642,4278,06/12/2006,Barnstable,dark purple
+950000,4,2,0.63,Eastham,2642,2066,22/06/2007,Barnstable,pink
+550000,2,1,0.4,Orleans,2653,556,06/06/2007,Barnstable,pink
+639900,3,2,0.48,Brewster,2631,1687,14/04/1997,Barnstable,pink
+899000,4,4,0.39,Orleans,2653,2394,09/06/2008,Barnstable,dark purple
+899900,3,2,0.93,Harwich,2645,1906,01/11/2002,Barnstable,pink
+1300000,4,3,0.7,Wellfleet,2667,3405,12/03/1999,Barnstable,dark purple
+415000,3,3,0.11,New Bedford,2746,2518,28/06/2001,Bristol,pink
+190000,2,1,0.2,South Yarmouth,2664,1040,01/05/2002,,pink
+360000,2,2,0.17,South Dennis,2660,1040,02/10/2009,,pink
+539900,3,4,0.3,South Yarmouth,2664,2316,14/02/2003,,pink
+575000,3,3,0.59,West Yarmouth,2673,2051,04/06/1996,,pink
+367500,2,1,0.22,West Yarmouth,2673,1056,03/11/2004,,pink
+895000,6,5,0.59,Yarmouth Port,2675,3636,15/08/2005,,dark purple
+1395000,3,2,0.14,South Yarmouth,2664,2030,07/10/1993,,pink
+965000,2,2,0.43,Brewster,2631,2509,17/05/2007,Barnstable,pink
+1200000,4,3,1.8,Brewster,2631,1404,22/08/1995,Barnstable,pink
+929900,4,4,0.39,South Yarmouth,2664,3332,17/04/2007,,dark purple
+425000,2,1,0.15,South Yarmouth,2664,1172,03/11/1995,,pink
+425000,2,1,0.23,South Yarmouth,2664,1270,11/04/2003,,pink
+439000,2,1,0.17,South Yarmouth,2664,848,01/05/2009,,pink
+479900,2,1,0.23,South Yarmouth,2664,864,18/09/2003,,pink
+750000,3,3,0.53,Yarmouth Port,2675,2312,10/11/1989,,pink
+175000,2,2,200,Yarmouth Port,2675,1092,05/06/2002,,pink
+290000,2,1,0.24,South Yarmouth,2664,936,08/07/2004,,pink
+695000,5,2,1.01,Yarmouth Port,2675,1705,14/09/2007,,pink
+525000,2,2,0.22,South Yarmouth,2664,1172,15/11/2005,,pink
+1200000,3,2,0.98,South Yarmouth,2664,1609,31/08/1989,,pink
+399900,3,2,0.23,South Yarmouth,2664,1272,04/04/1994,,pink
+550000,3,3,0.36,South Yarmouth,2664,1752,15/12/1988,,pink
+550000,4,3,0.28,Yarmouth Port,2675,2250,31/07/1997,,pink
+430000,3,2,0.46,West Yarmouth,2673,1376,19/09/1994,,pink
+724900,4,2,0.27,South Dennis,2660,2946,18/07/2002,,pink
+1950000,4,4,0.84,West Dennis,2670,3393,04/11/2020,,dark purple
+699000,3,1,0.17,West Dennis,2670,924,19/04/2001,,pink
+465000,2,2,0.32,South Yarmouth,2664,1563,02/02/2005,,pink
+385000,2,1,0.11,West Yarmouth,2673,848,28/12/2001,,pink
+1050000,3,3,0.46,Yarmouth Port,2675,3500,22/05/2000,,pink
+599900,2,2,0.18,West Dennis,2670,1002,22/01/1991,,pink
+620000,6,4,0.17,West Dennis,2670,2058,22/01/1993,,dark purple
+1795000,5,5,0.65,Orleans,2653,3615,14/06/2001,Barnstable,dark purple
+775000,4,3,1.04,Orleans,2653,2169,29/09/2000,Barnstable,pink
+1849900,4,4,1.1,North Chatham,2650,2421,21/12/1993,,dark purple
+1750000,6,8,1.35,Harwich Port,2646,6212,17/04/2003,,dark purple
+1895000,4,4,0.92,Orleans,2653,3165,21/02/1997,Barnstable,dark purple
+410000,3,2,0.34,Harwich,2645,1848,17/01/2003,Barnstable,pink
+299900,2,2,1.94,Harwich Port,2646,1157,06/10/2006,,pink
+699000,2,1,0.2,South Chatham,2659,992,18/12/1998,,pink
+497000,2,2,0.89,Orleans,2653,886,10/11/2015,Barnstable,pink
+995000,3,3,0.22,South Chatham,2659,2252,05/04/2001,,pink
+1695000,4,3,1.2,Harwich,2645,3650,31/07/2007,Barnstable,dark purple
+3795000,4,7,0.87,North Chatham,2650,5837,27/08/2003,,dark purple
+5500000,5,5,2.15,Orleans,2653,4515,08/05/2006,Barnstable,dark purple
+2975000,4,5,1.04,Orleans,2653,3700,17/10/1988,Barnstable,dark purple
+297000,2,2,12.58,Orleans,2653,1040,29/04/2010,Barnstable,pink
+545000,3,2,0.39,Harwich,2645,1192,07/09/1999,Barnstable,pink
+700000,2,3,0.33,South Chatham,2659,1040,26/02/2001,,pink
+469900,2,1,0.26,Harwich,2645,1048,08/10/2002,Barnstable,pink
+12000000,9,10,10.1,Orleans,2653,11657,24/09/1996,Barnstable,purple
+579000,3,2,0.34,East Harwich,2645,1416,01/12/2003,,pink
+649000,3,1,0.46,Orleans,2653,1054,13/01/2003,Barnstable,pink
+785000,3,2,0.93,Harwich,2645,1928,02/07/2008,Barnstable,pink
+875000,3,2,0.28,Harwich Port,2646,1777,24/08/2020,,pink
+975000,3,2,0.22,West Harwich,2671,1618,31/10/1991,,pink
+659000,4,2,0.41,Harwich,2645,1596,10/05/2002,Barnstable,pink
+629000,3,2,0.35,Harwich,2645,1246,01/03/2002,Barnstable,pink
+640000,3,2,0.37,Brewster,2631,1530,21/08/2009,Barnstable,pink
+2350000,3,5,0.34,South Chatham,2659,4180,24/08/1987,,dark purple
+1050000,3,2,0.41,Wellfleet,2667,1512,30/05/1997,Barnstable,pink
+1449000,2,2,0.5,Orleans,2653,2482,03/10/2003,Barnstable,pink
+1475000,3,4,0.89,Brewster,2631,2869,04/11/1988,Barnstable,dark purple
+6500000,4,6,12,Harwich Port,2646,5960,30/04/2014,,purple
+4200000,4,3,0.38,West Harwich,2671,2648,31/05/2000,,dark purple
+749000,3,2,0.46,Yarmouth Port,2675,2334,01/12/2008,,pink
+721000,5,5,0.41,West Dennis,2670,3045,12/11/1998,,dark purple
+675000,3,2,1.38,Brewster,2631,1858,01/08/1994,Barnstable,pink
+499000,3,2,0.32,South Yarmouth,2664,1152,10/04/2000,,pink
+489000,2,1,0.21,South Dennis,2660,850,27/03/1997,,pink
+499000,3,2,0.38,West Yarmouth,2673,1591,10/01/2000,,pink
+499000,3,2,0.28,Yarmouth Port,2675,1192,25/05/2004,,pink
+559000,3,2,0.35,South Yarmouth,2664,1092,24/04/2000,,pink
+499000,2,1,0.25,South Yarmouth,2664,888,14/02/2022,,pink
+319900,6,2,0.06,New Bedford,2740,1974,10/10/2007,Bristol,dark purple
+319000,2,1,0.07,New Bedford,2740,875,21/09/1990,Bristol,pink
+499000,12,6,0.08,New Bedford,2744,4473,24/08/2001,Bristol,dark purple
+675000,10,7,0.1,New Bedford,2744,6780,24/01/1997,Bristol,dark purple
+265000,2,1,0.03,New Bedford,2744,854,28/05/2010,Bristol,pink
+449900,8,4,0.06,New Bedford,2744,3208,13/08/2002,Bristol,dark purple
+349900,6,2,0.08,New Bedford,2744,1517,09/11/2006,Bristol,pink
+565900,4,2,0.28,New Bedford,2744,3500,03/03/1987,Bristol,pink
+419000,3,2,0.31,New Bedford,2745,1635,16/01/2008,Bristol,pink
+400000,3,2,0.12,New Bedford,2740,1240,01/12/1994,Bristol,pink
+299000,3,2,0.07,New Bedford,2744,974,01/06/2004,Bristol,pink
+364900,3,2,0.07,New Bedford,2740,1312,10/04/2002,Bristol,pink
+399000,4,1,0.21,Dartmouth,2747,1210,06/06/2016,Bristol,pink
+549000,3,3,0.16,New Bedford,2744,1446,21/10/2008,Bristol,pink
+359900,1,1,0.1,Dartmouth,2748,540,06/03/2007,Bristol,pink
+550000,4,3,0.25,Dartmouth,2748,1584,17/03/2004,Bristol,pink
+889000,4,3,0.49,Dartmouth,2748,2177,15/11/1988,Bristol,pink
+344000,4,2,0.06,New Bedford,2744,1590,05/12/2003,Bristol,pink
+599900,3,3,1.64,Freetown,2717,2240,06/09/2002,Bristol,pink
+629900,3,2,0.19,New Bedford,2740,1696,14/09/2007,Bristol,pink
+299900,4,2,0.05,New Bedford,2740,1328,27/05/2004,Bristol,pink
+390000,4,3,0.21,New Bedford,2740,2336,27/05/2011,Bristol,pink
+499900,3,2,0.29,New Bedford,2745,2510,06/08/2004,Bristol,pink
+279900,2,1,0.09,New Bedford,2740,1024,28/06/2010,Bristol,pink
+319000,3,1,0.12,New Bedford,2740,912,29/07/2009,Bristol,pink
+849000,3,1,0.21,Harwich Port,2646,1473,13/02/2002,,pink
+885000,3,2,1.19,Orleans,2653,2297,26/06/2000,Barnstable,pink
+949000,4,3,0.88,Wellfleet,2667,2240,19/09/2003,Barnstable,pink
+1350000,4,4,0.46,Wellfleet,2667,3557,29/07/1977,Barnstable,dark purple
+1285000,2,2,0.14,Provincetown,2657,1020,15/08/1996,Barnstable,pink
+1975000,4,2,0.16,Provincetown,2657,2204,12/12/2005,Barnstable,pink
+1295000,2,3,0.14,Provincetown,2657,1436,02/09/1994,Barnstable,pink
+2500000,3,4,0.98,Orleans,2653,3337,15/02/1991,Barnstable,dark purple
+899000,2,2,0.18,Provincetown,2657,1165,27/03/2007,Barnstable,pink
+1200000,2,2,5.17,Provincetown,2657,1000,31/07/2015,Barnstable,pink
+3750000,8,4,0.11,Provincetown,2657,2738,14/01/2004,Barnstable,dark purple
+1650000,3,4,0.93,Orleans,2653,2448,30/03/1995,Barnstable,pink
+399000,1,1,2.66,Provincetown,2657,592,15/09/2021,Barnstable,pink
+365000,1,1,0.14,Provincetown,2657,170,10/03/1989,Barnstable,pink
+1995000,3,5,0.31,Provincetown,2657,2850,17/10/1991,Barnstable,dark purple
+449000,1,1,0.17,Provincetown,2657,280,12/04/2019,Barnstable,pink
+559000,2,1,0.17,Provincetown,2657,420,02/09/2021,Barnstable,pink
+1200000,1,1,0.14,Provincetown,2657,448,27/10/1997,Barnstable,pink
+949000,2,2,0.45,Provincetown,2657,1220,09/04/2013,Barnstable,pink
+1499000,3,3,0.35,Provincetown,2657,2820,28/09/2018,Barnstable,pink
+960000,2,1,0.09,Provincetown,2657,700,05/11/2001,Barnstable,pink
+6500000,8,9,0.13,Provincetown,2657,3515,01/03/1995,Barnstable,purple
+2999000,7,4,0.1,Provincetown,2657,3041,26/05/2000,Barnstable,dark purple
+949000,3,3,0.67,Truro,2666,2164,06/07/1989,Barnstable,pink
+749000,2,2,0.79,Truro,2666,1651,14/09/1989,Barnstable,pink
+1150000,5,3,0.84,Truro,2666,3300,24/04/1992,Barnstable,dark purple
+2195000,4,3,0.87,Truro,2666,2834,01/09/1993,Barnstable,dark purple
+2699000,5,4,1.38,Truro,2666,3132,27/12/2005,Barnstable,dark purple
+849000,2,2,0.25,Provincetown,2657,1110,10/01/2000,Barnstable,pink
+650000,4,3,0.44,West Harwich,2671,1880,04/01/1995,,pink
+679000,3,2,0.25,West Harwich,2671,1553,01/09/2000,,pink
+629000,2,2,20,West Harwich,2671,1209,18/10/2019,,pink
+1150000,3,4,20,West Harwich,2671,2969,23/10/1998,,dark purple
+724900,5,4,0.24,Fall River,2720,3360,29/06/1973,Bristol,dark purple
+249000,4,2,0.15,Fall River,2720,2499,09/07/2004,Bristol,pink
+419900,3,2,0.29,Fall River,2720,1638,26/03/1998,Bristol,pink
+660000,6,5,0.11,Fall River,2720,2719,22/03/2004,Bristol,dark purple
+550000,5,4,0.21,Fall River,2720,4750,17/05/1982,Bristol,dark purple
+340000,3,2,0.1,Fall River,2720,1057,19/09/1997,Bristol,pink
+449000,2,5,0.2,Fall River,2721,3274,31/10/1980,Bristol,pink
+400000,8,4,0.12,Fall River,2721,3145,25/03/1996,Bristol,dark purple
+379000,2,3,0.07,Fall River,2721,1748,12/09/1988,Bristol,pink
+449900,6,3,0.1,Fall River,2721,2837,04/11/2003,Bristol,dark purple
+379000,3,2,0.19,Fall River,2723,1374,29/12/1998,Bristol,pink
+649900,9,3,0.17,Fall River,2723,3000,28/01/2002,Bristol,dark purple
+479000,3,2,0.12,Fall River,2724,2520,12/10/2010,Bristol,pink
+499900,3,8,0.07,Fall River,2724,2772,13/11/2002,Bristol,dark purple
+459000,3,2,0.19,Fall River,2724,2060,30/05/2007,Bristol,pink
+399000,3,1,0.13,Fall River,2724,1270,30/06/2016,Bristol,pink
+329900,2,1,0.24,Somerset,2726,736,16/08/1991,Bristol,pink
+349900,2,1,0.16,Swansea,2777,1588,23/10/2002,Bristol,pink
+381963,3,2,0.04,Somerset,2725,1131,30/04/2007,Bristol,pink
+519000,3,3,0.92,Dartmouth,2747,1544,17/11/1999,Bristol,pink
+409900,3,1,0.22,Somerset,2726,1236,23/09/1988,Bristol,pink
+449900,2,1,0.16,Somerset,2725,1600,28/06/1996,Bristol,pink
+399900,2,1,0.23,Swansea,2777,988,15/12/2006,Bristol,pink
+595000,3,3,1.52,Dartmouth,2747,2476,25/03/2005,Bristol,pink
+299900,4,2,0.06,New Bedford,2740,1418,31/10/2003,Bristol,pink
+495000,5,2,0.39,Taunton,2780,1576,08/06/2007,Bristol,pink
+249900,3,1,0.34,Swansea,2777,960,30/07/2008,Bristol,pink
+725000,3,3,1.7,Westport,2790,2688,27/09/1996,Bristol,pink
+349900,3,2,0.83,Swansea,2777,1344,11/08/1993,Bristol,pink
+399900,3,1,0.7,Westport,2790,1152,04/01/1999,Bristol,pink
+329900,3,1,0.13,New Bedford,2740,1208,15/01/2002,Bristol,pink
+839900,4,4,0.7,Dartmouth,2747,3052,09/12/1986,Bristol,dark purple
+459900,3,2,0.46,Dartmouth,2747,1050,01/02/1985,Bristol,pink
+6900000,5,5,9.85,Dartmouth,2748,13220,25/09/2009,Bristol,purple
+2495000,4,5,1.84,Dartmouth,2748,7891,28/09/1999,Bristol,dark purple
+650000,3,2,0.79,Plainville,2760,2472,03/08/1998,Norfolk,pink
+1359500,3,2,1.38,Westport,2791,1944,08/08/2006,Bristol,pink
+450000,3,3,0.33,Seekonk,2771,1782,13/12/1999,Bristol,pink
+560000,4,2,0.2,Shrewsbury,1545,2640,28/09/1998,Worcester,pink
+650000,6,4,0.15,Webster,1570,4012,12/08/1988,Worcester,dark purple
+380000,3,2,0.21,Chicopee,1020,1336,10/03/2006,Hampden,pink
+399900,4,3,0.43,West Brookfield,1585,2968,12/07/2006,Worcester,pink
+339900,3,1,0.17,Worcester,1602,1500,29/11/2005,Worcester,pink
