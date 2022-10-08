@@ -7,7 +7,7 @@ This project will look at real estate listings within Massachusetts, USA.
 To understand the housing market in Massachusetts and identify the factors that influence house prices.
 
 ### Data
-The main dataset can be found [here](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset). the data contains real estate listings in the US, categorized by states and cities. It has 12 variables; status, price, bed, bath, acre_lot, full_address, street, city, state, zip_code, house_size, and sold_date. Only the data for Massachusetts was used for this analysis. Details about the data processing and data content can be found in the project management folder.
+The main dataset can be found [here](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset). the data contains real estate listings in the US, categorized by states and cities. It has 12 variables; status, price, bed, bath, acre_lot, full_address, street, city, state, zip_code, house_size, and sold_date. Only the data for Massachusetts was used for this analysis. Details about the data content, data processing and other project information can be found in the project management folder.
 
 Additional data used can be found in the data folder.
 
