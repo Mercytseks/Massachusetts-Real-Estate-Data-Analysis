@@ -14,15 +14,15 @@ Additional data used can be found in the data folder.
 ### Tools
 The following python libraries were used for the analysis:
 
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Sklearn
-Pylab
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Sklearn
+* Pylab
 
 ### Executing the code
 The code is available as jupyter notebook in the scripts folder
 
 ### Resources
-See [link](https://public.tableau.com/app/profile/mercy.tsekiri/viz/MassachusettsRealEstateDataAnalysis/MArealestatedataanalysis)to my tableau storyboard for this project. Other relevant resources will be posted here.
+See [link](https://public.tableau.com/app/profile/mercy.tsekiri/viz/MassachusettsRealEstateDataAnalysis/MArealestatedataanalysis) to my tableau storyboard for this project. Other relevant resources will be posted here.
